@@ -6,7 +6,7 @@ Compiled and edited by Nathan Thomas. Please see [Author](#author) section for m
 
 ## Introduction
 
-While sending out LinkedIn invites, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speaks to the strength of Lambda School as well as the quality of alumni that graduate from it.
+While sending out LinkedIn invites, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speaks to the strength of Lambda School as well as the quality of the individuals that graduate from it.
 
 It is because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given me their express permission for me to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda.
 
@@ -60,6 +60,8 @@ Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 - “Do at least one brown bag presentation [while in Lambda School].” - William Pelton
 
 ### Self Care
+
+- "Be sure to take many breaks, eat healthy meals, and get yourself out of the house as much as possible. Don’t stay up so late coding, and always get a good nights rest." - Rachel DiCesare
 
 - “Take more breaks. Use a pomodoro app. Sleep as much as you need. Go exercise. Eat right. Shower.” - William Pelton
 
