@@ -69,7 +69,7 @@ Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 
 ### Studying
 
-- “Definitely take notes. Remember that there is almost never one way of doing things. So a good task is when you learn how to do something always try to other ways to do it. And another thing is start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
+- “Definitely take notes. Remember that there is almost never one way of doing things. So a good task is that, when you learn how to do something, always try to find other ways to do it. And another thing is start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
 
 - “Practice, practice. Each and every day, keep coding even if you have the day off for at least an hour. You don’t want to get rusty, but do NOT burn yourself out. It is so important to take breaks.” - Rachel DiCesare
 
