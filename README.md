@@ -2,7 +2,7 @@
 
 # Lambda-School-Alumni-Tips
 
-Compiled by Nathan Thomas [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/), Slack username nwthomas
+Compiled by Nathan Thomas [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/)<br/>
 Cover page photography by Alexander Milo on Unsplash.com
 
 ## Introduction
@@ -15,15 +15,15 @@ It’s because of this that I decided to compile everything into a single place 
 
 ## Alumni (and Older Cohort) Contributors
 
-Christopher Atoki [LinkedIn](https://www.linkedin.com/in/christopher-atoki/)
-Rachel DiCesare [LinkedIn](https://www.linkedin.com/in/rachel-dicesare-a86889ba/)
-Austin Howes [LinkedIn](https://www.linkedin.com/in/austinhowes/)
-Bernard Johnson [LinkedIn](https://www.linkedin.com/in/bernard-johnson-b59b86168/)
-Kyle Kauzlarich [LinkedIn](https://www.linkedin.com/in/kyle-kauzlarich-781b86140/)
-Henry Kim [LinkedIn](https://www.linkedin.com/in/henrykim212/)
-Jason Nuhn [LinkedIn](https://www.linkedin.com/in/jasonnuhn/)
-William Pelton [LinkedIn](https://www.linkedin.com/in/william-pelton/)
-Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)
+Christopher Atoki [LinkedIn](https://www.linkedin.com/in/christopher-atoki/)<br/>
+Rachel DiCesare [LinkedIn](https://www.linkedin.com/in/rachel-dicesare-a86889ba/)<br/>
+Austin Howes [LinkedIn](https://www.linkedin.com/in/austinhowes/)<br/>
+Bernard Johnson [LinkedIn](https://www.linkedin.com/in/bernard-johnson-b59b86168/)<br/>
+Kyle Kauzlarich [LinkedIn](https://www.linkedin.com/in/kyle-kauzlarich-781b86140/)<br/>
+Henry Kim [LinkedIn](https://www.linkedin.com/in/henrykim212/)<br/>
+Jason Nuhn [LinkedIn](https://www.linkedin.com/in/jasonnuhn/)<br/>
+William Pelton [LinkedIn](https://www.linkedin.com/in/william-pelton/)<br/>
+Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 
 ## Table of Contents
 
