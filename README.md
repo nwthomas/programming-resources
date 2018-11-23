@@ -1,9 +1,8 @@
 ![Lambda Alumni Tips Cover Page](./images/alumni-tips-cover-page.png)
 
-# Lambda-School-Alumni-Tips
+# Lambda School Alumni Tips
 
-Compiled by Nathan Thomas [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/)<br/>
-Cover page photography by Alexander Milo on Unsplash.com
+Compiled and edited by Nathan Thomas. Please see [Author](#author) section for more details.
 
 ## Introduction
 
@@ -11,7 +10,7 @@ While sending out LinkedIn invites, I decided to start asking alumni (and, admit
 
 It’s because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given me their express permission for me to do so. Every single one of them remembers what it was like to be in our shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda.
 
-(NOTE: If you are an alumni or a member of an older cohort that would like to pass on tips for success to new classes and cohorts at Lambda, please either contact me on Slack or submit a pull request to update the document on GitHub. This document is meant to grow with time.)
+(NOTE: Please see the [Contributing](#contributing) section if you would like to add your own knowledge to this document.)
 
 ## Alumni (and Older Cohort) Contributors
 
@@ -44,20 +43,18 @@ Give examples
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+If you are an alumni or a member of an older cohort that would like to pass on tips for success to new classes and cohorts at Lambda, please either contact me on Slack or submit a pull request to update the document on GitHub. This document is meant to grow with time.
 
-## Authors
+## Author
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- **Nathan Thomas** - [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/), [GitHub](https://github.com/nwthomas), Slack username _nwthomas_
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to whomever started the LinkedIn spreadsheet inside of Lambda School. It is a great networking tool.
+- Thanks to Lambda School for the work that you do in training the bright minds of tomorrow. We appreciate you.
+- Cover page photography by Alexander Milo on Unsplash.com
