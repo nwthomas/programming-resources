@@ -8,7 +8,7 @@ Compiled and edited by Nathan Thomas. Please see [Author](#author) section for m
 
 While sending out LinkedIn invites, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speaks to the strength of Lambda School as well as the quality of alumni that graduate from it.
 
-It’s because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given me their express permission for me to do so. Every single one of them remembers what it was like to be in our shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda.
+It is because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given me their express permission for me to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda.
 
 (NOTE: Please see the [Contributing](#contributing) section if you would like to add your own knowledge to this document.)
 
@@ -113,4 +113,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to whomever started the LinkedIn spreadsheet inside of Lambda School. It is a great networking tool.
 - Thanks to Austin Allred and the entire staff at Lambda School for the work that you do in training the bright minds of tomorrow. We appreciate you and your vision.
-- Cover page photography by Alexander Milo on Unsplash.com
+- Cover page photography by [Alexander Milo](https://unsplash.com/photos/5g5MLKq-QxM) on Unsplash.com
