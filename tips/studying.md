@@ -1,4 +1,4 @@
-# Studying
+# Studying:
 
 - “Definitely take notes. Remember that there is almost never one way of doing things. So a good task is that, when you learn how to do something, always try to find other ways to do it. And another thing is start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
 

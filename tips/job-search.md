@@ -1,4 +1,4 @@
-# Job Search
+# Job Search:
 
 - “Always network. People always want to hire from within. Anyone can learn to code, so if they like you as a culture fit and you are confident and passionate about being there, then you're 90% of the way to the finish line. “ - Austin Howes
 

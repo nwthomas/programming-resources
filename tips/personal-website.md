@@ -1,4 +1,4 @@
-# Personal Website or Portfolio
+# Personal Website or Portfolio:
 
 - “Start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
 

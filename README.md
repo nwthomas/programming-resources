@@ -8,7 +8,7 @@ While sending out LinkedIn invites from the Lambda #linkedin Slack channel usern
 
 It is because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given me their express permission for me to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda.
 
-(NOTE: Please see the [Contributing](#contributing) section if you would like to add your own knowledge to this document.)
+(NOTE: Please see the [Getting Involved](#getting-involved) section if you would like to add your own knowledge to this document.)
 
 ## Table of Contents
 
@@ -18,6 +18,8 @@ It is because of this that I decided to compile everything into a single place a
 4. [Presentations Tips](./tips/presentations.md)
 5. [Self Care Tips](./tips/self-care.md)
 6. [Studying Tips](./tips/studying.md)
+7. [Technology Tips](./tips/technology.md)
+8. [Capstone Projects](./tips/capstone-projects.md)
 
 ## Getting Involved
 
