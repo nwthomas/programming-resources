@@ -13,13 +13,13 @@ It is because of this that I decided to compile everything into a single place a
 ## Table of Contents
 
 1. [Blogging Tips](./tips/blogging.md)
-2. [Job Search Tips](./tips/job-search.md)
-3. [Personal Website or Portfolio Tips](./tips/personal-website.md)
-4. [Presentations Tips](./tips/presentations.md)
-5. [Self Care Tips](./tips/self-care.md)
-6. [Studying Tips](./tips/studying.md)
-7. [Technology Tips](./tips/technology.md)
-8. [Capstone Projects](./tips/capstone-projects.md)
+2. [Capstone Projects](./tips/capstone-project.md)
+3. [Job Search Tips](./tips/job-search.md)
+4. [Personal Website or Portfolio Tips](./tips/personal-website.md)
+5. [Presentations Tips](./tips/presentations.md)
+6. [Self Care Tips](./tips/self-care.md)
+7. [Studying Tips](./tips/studying.md)
+8. [Technology Tips](./tips/technology.md)
 
 ## Getting Involved
 

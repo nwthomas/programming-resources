@@ -18,6 +18,8 @@
 
 - “Coding 9-5 daily is grueling. Some people really enjoy it. But for myself personally, I was starting to burn out about 4 months in. The more I learned, the more I realized I'm not great at coding, and my self-confidence tanked quite a bit in the process. If you do find yourself in the same situation, don't worry. Coding has a such demanding learning curve (more so when you get into more complex stuff later on), so don't lose heart. A lot of people (if not most) went through similar experiences in my cohort.” - Henry Kim
 
+- "Constantly writing something and struggling to figure things out is the best way to go. For example, you might struggle on a problem for 8+ hours (I certainly did) when you are starting to grind whiteboard questions, but as you get better at recognizing the patterns, the time it takes to think and write will become smaller by steps. Improvements are never linear. It was always big or small incremental improvement after days or even weeks for me." - Henry Kim
+
 - “Do a lot of practice, and perhaps find a few people to work on pair programming with. I got a crew of 5 that I kept in touch with afterwards. Nothing like it.” - Jason Nuhn
 
 - “This is the most a human being can learn in a six month period. It will feel like failing if you're doing it right. Labs may be the first time you will feel genuinely competent at this.” - William Pelton
