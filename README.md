@@ -10,18 +10,6 @@ It is because of this that I decided to compile everything into a single place a
 
 (NOTE: Please see the [Contributing](#contributing) section if you would like to add your own knowledge to this document.)
 
-## Alumni (and Older Cohort) Contributors
-
-Christopher Atoki [LinkedIn](https://www.linkedin.com/in/christopher-atoki/)<br/>
-Rachel DiCesare [LinkedIn](https://www.linkedin.com/in/rachel-dicesare-a86889ba/)<br/>
-Austin Howes [LinkedIn](https://www.linkedin.com/in/austinhowes/)<br/>
-Bernard Johnson [LinkedIn](https://www.linkedin.com/in/bernard-johnson-b59b86168/)<br/>
-Kyle Kauzlarich [LinkedIn](https://www.linkedin.com/in/kyle-kauzlarich-781b86140/)<br/>
-Henry Kim [LinkedIn](https://www.linkedin.com/in/henrykim212/)<br/>
-Jason Nuhn [LinkedIn](https://www.linkedin.com/in/jasonnuhn/)<br/>
-William Pelton [LinkedIn](https://www.linkedin.com/in/william-pelton/)<br/>
-Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
-
 ## Table of Contents
 
 1. [Blogging Tips](./tips/blogging.md)
@@ -31,17 +19,17 @@ Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 5. [Self Care Tips](./tips/self-care.md)
 6. [Studying Tips](./tips/studying.md)
 
-## Contributing
+## Getting Involved
 
 If you are an alumni or a member of an older cohort that would like to pass on tips for success to new classes and cohorts at Lambda, please either contact me on Slack or submit a pull request to update this repository. This document is meant to grow with time.
+
+1. [Contributors](CONTRIBUTORS.md)
+2. [How to Contribute](#)
+3. [License](LICENSE)
 
 ## Author
 
 - **Nathan Thomas** - [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/), [GitHub](https://github.com/nwthomas), Slack username _nwthomas_
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
