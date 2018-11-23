@@ -99,7 +99,7 @@ Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 
 ## Contributing
 
-If you are an alumni or a member of an older cohort that would like to pass on tips for success to new classes and cohorts at Lambda, please either contact me on Slack or submit a pull request to update the document on GitHub. This document is meant to grow with time.
+If you are an alumni or a member of an older cohort that would like to pass on tips for success to new classes and cohorts at Lambda, please either contact me on Slack or submit a pull request to update this repository. This document is meant to grow with time.
 
 ## Author
 
@@ -112,5 +112,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to whomever started the LinkedIn spreadsheet inside of Lambda School. It is a great networking tool.
-- Thanks to Lambda School for the work that you do in training the bright minds of tomorrow. We appreciate you.
+- Thanks to Austin Allred and the entire staff at Lambda School for the work that you do in training the bright minds of tomorrow. We appreciate you and your vision.
 - Cover page photography by Alexander Milo on Unsplash.com
