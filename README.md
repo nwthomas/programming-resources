@@ -6,7 +6,7 @@ Compiled and edited by Nathan Thomas. Please see [Author](#author) section for m
 
 ## Introduction
 
-While sending out LinkedIn invites, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speaks to the strength of Lambda School as well as the quality of the individuals that graduate from it.
+While sending out LinkedIn invites from the Lambda #linkedin Slack channel username spreadsheet, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speaks to the strength of Lambda School as well as the quality of the individuals that graduate from it.
 
 It is because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given me their express permission for me to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda.
 
@@ -41,7 +41,7 @@ Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 
 ### Job Search
 
-- “Always network. People always want to hire from within. Anyone can learn to code, so if they like you as a culture fit and are confident and passionate about being there, then you're 90% of the way to the finish line. “ - Austin Howes
+- “Always network. People always want to hire from within. Anyone can learn to code, so if they like you as a culture fit and you are confident and passionate about being there, then you're 90% of the way to the finish line. “ - Austin Howes
 
 - “Lambda will have your back every step of the way. Try to stand out as someone who will evangelize for the school and look out for other students and they're going to want to make sure their name is stamped to you in a good job somewhere. Basically, they take care of their own, so try and make sure you brand yourself as a team player, if that makes sense.” - Austin Howes
 
@@ -49,11 +49,11 @@ Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 
 - “Start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
 
-- “Pick either .com or .io [for your domain name]. I probably wouldn’t use .net. I would even use .code before .net.” - Christopher Atoki
+- “Pick either `.com` or `.io` [for your domain name]. I probably wouldn’t use `.net`. I would even use `.code` before `.net`.” - Christopher Atoki
 
 - “Buy a good domain name and host it if you can afford it. I got grantreighard.com.” - Grant Reighard
 
-- “Always go for the .com [domain name] for the most authority. You could alternately buy several and redirect one to the other.” - Grant Reighard
+- “Always go for the `.com` [domain name] for the most authority. You could alternately buy several and redirect one to the other.” - Grant Reighard
 
 ### Presentations
 
@@ -61,7 +61,9 @@ Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 
 ### Self Care
 
-- "Be sure to take many breaks, eat healthy meals, and get yourself out of the house as much as possible. Don’t stay up so late coding, and always get a good nights rest." - Rachel DiCesare
+- "Be sure to take many breaks, eat healthy meals, and get yourself out of the house as much as possible. Don’t stay up so late coding, and always get a good nights rest. I always try to do 10-15 minute breaks. I usually eat and drink something and take a step outside to go for a walk." - Rachel DiCesare
+
+- “Keep the fire alive no matter how weakly or strongly it burns.” - Henry Kim
 
 - “Take more breaks. Use a pomodoro app. Sleep as much as you need. Go exercise. Eat right. Shower.” - William Pelton
 
@@ -83,21 +85,19 @@ Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 
 - “At any level of coding, there are no dumb questions no matter how dumb the question might actually seem. If you don't know the answer and you've searched for the answer yourself, then please ask those who are more experienced. Ask your fellow buddies or PMs to fill in the blanks asap. It's better to leave no stones unturned rather than finding out later in your study that you should've figured it out beforehand.” - Henry Kim
 
-* “Coding 9-5 daily is grueling. Some people really enjoy it. But for myself personally, I was starting to burn out about 4 months in. The more I learned, the more I realized I'm not great at coding, and my self-confidence tanked quite a bit in the process. If you do find yourself in the same situation, don't worry. Coding has a such demanding learning curve (more so when you get into more complex stuff later on), so don't lose heart. A lot of people (if not most) went through similar experiences in my cohort.” - Henry Kim
+- “Coding 9-5 daily is grueling. Some people really enjoy it. But for myself personally, I was starting to burn out about 4 months in. The more I learned, the more I realized I'm not great at coding, and my self-confidence tanked quite a bit in the process. If you do find yourself in the same situation, don't worry. Coding has a such demanding learning curve (more so when you get into more complex stuff later on), so don't lose heart. A lot of people (if not most) went through similar experiences in my cohort.” - Henry Kim
 
-* “Keep the fire alive no matter how weakly or strongly it burns.” - Henry Kim
+- “Do a lot of practice, and perhaps find a few people to work on pair programming with. I got a crew of 5 that I kept in touch with afterwards. Nothing like it.” - Jason Nuhn
 
-* “Do a lot of practice, and perhaps find a few people to work on pair programming with. I got a crew of 5 that I kept in touch with afterwards. Nothing like it.” - Jason Nuhn
+- “This is the most a human being can learn in a six month period. It will feel like failing if you're doing it right. Labs may be the first time you will feel genuinely competent at this.” - William Pelton
 
-* “This is the most a human being can learn in a six month period. It will feel like failing if you're doing it right. Labs may be the first time you will feel genuinely competent at this.” - William Pelton
+- “Reaching out to TAs and instructors is how you get the full benefit of your education. You will be paying these people 17% of your gross income for two years, so don't be shy.” - William Pelton
 
-* “Reaching out to TAs and instructors is how you get the full benefit of your education. You will be paying these people 17% of your gross income for two years, so don't be shy.” - William Pelton
+- “Do literally everything the instructors and staff tell you, from the algorithm exercises to the resume formatting.” - William Pelton
 
-* “Do literally everything the instructors and staff tell you, from the algorithm exercises to the resume formatting.” - William Pelton
+- “People learning right next to you are a great resource, but also just as likely not to know the answer as you. The docs are a fast, reliable way to get the right answer.” - William Pelton
 
-* “People learning right next to you are a great resource, but also just as likely not to know the answer as you. The docs are a fast, reliable way to get the right answer.” - William Pelton
-
-* “Be prepared for the next day by watching the precourse videos the night before (I believe this is the new standard they're going for anyway). Work on personal projects on the side and over weekends. Refine projects you work on during class so you can show them off to future employers.” - Grant Reighard
+- “Be prepared for the next day by watching the precourse videos the night before (I believe this is the new standard they're going for anyway). Work on personal projects on the side and over weekends. Refine projects you work on during class so you can show them off to future employers.” - Grant Reighard
 
 ## Contributing
 
