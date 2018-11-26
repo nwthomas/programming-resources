@@ -10,14 +10,14 @@ It is because of this that I decided to compile everything into a single place a
 
 ## Table of Contents
 
-1. [Blogging Tips](./tips/blogging.md)
-2. [Capstone Project](./tips/capstone-project.md)
-3. [Job Search Tips](./tips/job-search.md)
-4. [Personal Website or Portfolio Tips](./tips/personal-website.md)
-5. [Presentations Tips](./tips/presentations.md)
-6. [Self Care Tips](./tips/self-care.md)
-7. [Studying Tips](./tips/studying.md)
-8. [Technology Tips](./tips/technology.md)
+1. [Blogging](./tips/blogging.md)
+2. [Capstone Projects](./tips/capstone-project.md)
+3. [Job Search](./tips/job-search.md)
+4. [Personal Website or Portfolio](./tips/personal-website.md)
+5. [Presentations](./tips/presentations.md)
+6. [Self Care](./tips/self-care.md)
+7. [Studying](./tips/studying.md)
+8. [Technology Resources](./tips/technology.md)
 
 ## Getting Involved
 
@@ -29,7 +29,7 @@ If you are an alumni or a member of an older cohort that would like to pass on t
 
 ## Author
 
-- **Nathan Thomas** - [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/), [GitHub](https://github.com/nwthomas), Slack username _nwthomas_
+- **Nathan Thomas** - [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/), [GitHub](https://github.com/nwthomas), Lambda Slack username _nwthomas_
 
 ## Acknowledgments
 
