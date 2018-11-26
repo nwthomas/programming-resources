@@ -6,18 +6,18 @@
 
 While sending out LinkedIn invites from the Lambda #linkedin Slack channel username spreadsheet, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speak to the strength of Lambda School as well as the quality of the individuals that graduate from it.
 
-It is because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given me their express permission for me to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda.
+It is because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given their express permission for me to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda.
 
 ## Table of Contents
 
-1. [Blogging](./tips/blogging.md)
-2. [Capstone Projects](./tips/capstone-project.md)
-3. [Job Search](./tips/job-search.md)
-4. [Personal Website or Portfolio](./tips/personal-website.md)
-5. [Presentations](./tips/presentations.md)
-6. [Self Care](./tips/self-care.md)
-7. [Studying](./tips/studying.md)
-8. [Technology Resources](./tips/technology.md)
+1. [Blogging Tips](./tips/blogging.md)
+2. [Capstone Project Tips](./tips/capstone-project.md)
+3. [Job Search Tips](./tips/job-search.md)
+4. [Personal Website or Portfolio Tips](./tips/personal-website.md)
+5. [Presentations Tips](./tips/presentations.md)
+6. [Self Care Tips](./tips/self-care.md)
+7. [Studying Tips](./tips/studying.md)
+8. [Technology Resource List](./tips/technology.md)
 
 ## Getting Involved
 
