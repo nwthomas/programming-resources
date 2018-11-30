@@ -16,7 +16,15 @@ The contents of this portion of the Alumni Tips repo houses useful information o
 10. [Website Setup](#website-setup)
 11. [Website-Inspiration](#website-inspiration)
 
+### Additional Practice Content
+
+1. [Harvard Computer Sscience 50 (Free)](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+2.
+3. [Wes Bos (Free and Paid)](https://wesbos.com/)
+
 ### Blogging
+
+1. [Medium](https://medium.com/)
 
 ### CSS
 
@@ -24,7 +32,13 @@ The contents of this portion of the Alumni Tips repo houses useful information o
 
 ##### Preprocessors
 
+### Enhanced Studying Methods
+
+### GitHub
+
 ### HTML
+
+### Job Search
 
 ### React and React Native
 
@@ -37,3 +51,7 @@ The contents of this portion of the Alumni Tips repo houses useful information o
 ##### Sublime
 
 ##### Visual Studio Code
+
+### Website Setup
+
+### Website Inspiration
