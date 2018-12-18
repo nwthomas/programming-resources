@@ -10,11 +10,8 @@ The content of this portion of the Alumni Tips repo houses useful information on
 - [Enhanced Studying Methods](#enhanced-studying-methods)
 - [Github](#github)
 - [HTML](#html)
-- [JavaScript Frameworks, Libraries, and Modules](#javascript-frameworks-libraries-and-modules)
 - [Job Search](#job-search)
 - [React and React Native](#react-and-react-native)
-- [Text Editors and Integrated Development Environments (IDE)](#text-editors-and-integrated-development-environments)
-- [Vue.js](#vue)
 - [Website Setup](#website-setup)
 - [Website-Inspiration](#website-inspiration)
 
@@ -31,14 +28,10 @@ The content of this portion of the Alumni Tips repo houses useful information on
 
 ### CSS
 
-##### Vanilla CSS
-
 - [Animista](https://css-tricks.com/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184%3Fv%3D2)
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
-
-##### Preprocessors
 
 ### Enhanced Studying Methods
 
@@ -56,18 +49,10 @@ The content of this portion of the Alumni Tips repo houses useful information on
 
 ### React and React Native
 
-##### React
-
-##### React Native
-
-### Text Editors and Integrated Development Environments
-
-##### Sublime
-
-##### Visual Studio Code
-
-### Vue
-
 ### Website Setup
 
+- [HTML5 Up](https://html5up.net/)
+
 ### Website Inspiration
+
+- [awwwards.com](https://www.awwwards.com/)

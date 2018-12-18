@@ -10,14 +10,8 @@ It is because of this that I decided to compile everything into a single place a
 
 ## Table of Contents
 
-1. [Blogging Tips](./tips/blogging.md)
-2. [Capstone Project Tips](./tips/capstone-project.md)
-3. [Job Search Tips](./tips/job-search.md)
-4. [Personal Website or Portfolio Tips](./tips/personal-website.md)
-5. [Presentations Tips](./tips/presentations.md)
-6. [Self Care Tips](./tips/self-care.md)
-7. [Studying Tips](./tips/studying.md)
-8. [Technology Resource List](./tips/technology.md)
+1. [Alumni Tips](./tips/alumni-tips.md)
+2. [Technology Resource List](./tips/technology.md)
 
 ## Getting Involved
 
