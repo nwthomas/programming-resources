@@ -17,6 +17,8 @@ The content of this portion of the Alumni Tips repo houses useful information on
 
 ### Additional Training Materials
 
+- [CodeSignal](https://codesignal.com/) - FREE
+- [CodeWars](https://www.codewars.com/) - FREE
 - [Egghead.io](https://egghead.io/browse/frameworks) - PAID
 - [Front End Mentor](https://www.frontendmentor.io/challenges) - FREE
 - [Harvard Computer Science 50 (Free)](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - FREE

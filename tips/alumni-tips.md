@@ -51,15 +51,21 @@
 
 ### Job Search
 
+- "Start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
+
+- "Find a few companies that you really want to work for and build side projects that use similar technologies ot what they use. For instance, if you want to work at Stripe, try making an app that incorporates their API to accept payments. Having direct experience with company technologies beyond the generic Full stack JavaScript frameworks shows genuine interest and can put you above other candidates who don't have experience working with those technologies." - Anthony Calderaro
+
 - “Lambda will have your back every step of the way. Try to stand out as someone who will evangelize for the school and look out for other students and they're going to want to make sure their name is stamped to you in a good job somewhere. Basically, they take care of their own, so try and make sure you brand yourself as a team player, if that makes sense.” - Austin Howes
 
 - “Always network. People always want to hire from within. Anyone can learn to code, so if they like you as a culture fit and you are confident and passionate about being there, then you're 90% of the way to the finish line. “ - Austin Howes
 
 - “Start networking and building side projects yesterday. This will fast-track finding a job.” - Justin Kaseman
 
-- "Start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
-
 - "Just practice your coding by creating small projects yourself and/or recompiling your old codes to be more efficient/shorter. Do a daily run of whiteboard questions (if you're in that stage already).... And frankly, Reddit is your friend for resources/practice routines." - Henry Kim
+
+- "Write awesome cover letters. I've got stories about interviews that I wouldn't have gotten without strong cover letters (and I did a lot of interviews)!" - Randall Whitlock
+
+- "Choose interesting side projects. Anything using IBM Watson or another AI-related API to analyze sets of data and evaluate information is a great talking piece in an interview." - Randall Whitlock
 
 ### Pair Programming
 
@@ -81,9 +87,11 @@
 
 - “Practice, practice. Each and every day, keep coding even if you have the day off for at least an hour. You don’t want to get rusty, but do NOT burn yourself out. It is so important to take breaks.” - Rachel DiCesare
 
-* “Don't copy and paste. I know they push this more now, but seriously type every line of code out and then rewrite it. That helps it stick in your memory.” - Justin Kaseman
+- “Don't copy and paste. I know they push this more now, but seriously type every line of code out and then rewrite it. That helps it stick in your memory.” - Justin Kaseman
 
-* "Constantly writing something and struggling to figure things out is the best way to go. For example, you might struggle on a problem for 8+ hours (I certainly did) when you are starting to grind whiteboard questions, but as you get better at recognizing the patterns, the time it takes to think and write will become smaller by steps. Improvements are never linear. It was always big or small incremental improvement after days or even weeks for me." - Henry Kim
+- "Constantly writing something and struggling to figure things out is the best way to go. For example, you might struggle on a problem for 8+ hours (I certainly did) when you are starting to grind whiteboard questions, but as you get better at recognizing the patterns, the time it takes to think and write will become smaller by steps. Improvements are never linear. It was always big or small incremental improvement after days or even weeks for me." - Henry Kim
+
+- "If you don't have one, get a "rubber duck." This could be anything (a literal rubber duck, some toy that you have, something that you can talk to, etc.)... and just talk to it. It seems odd at first, but it activates a different part of your brain when you vocalize what you're working on and the issues you're facing. You will find that you come to solutions faster this way. It's also great practice for future interviews as people expect you to be able to talk through what you're doing. Even if you don't come to a perfect solution, being able to discuss your reasoning and what you're doing is very important." - Brian Durbin
 
 ### Presentations
 
