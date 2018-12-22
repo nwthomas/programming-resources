@@ -37,6 +37,11 @@
 - [Egghead.io](https://egghead.io/browse/frameworks) - PAID
 - [Front End Mentor](https://www.frontendmentor.io/challenges) - FREE
 
+#### Reading Materials
+
+- [Eloquent Javascript by Marijn Haverbeke](https://github.com/marijnh/Eloquent-JavaScript) - FREE
+- [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - FREE
+
 ## Blogging
 
 - ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/) - Great guide and tips on getting started
@@ -46,6 +51,7 @@
 
 - [Animista](https://css-tricks.com/) - Awesome CSS animations
 - [CSS-Tricks](https://css-tricks.com/) - Database of information and details about CSS code
+- [Fancy Border Radius](https://github.com/9elements/fancy-border-radius) - Building simple custom shapes with CSS' `border-radius` property
 - [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184%3Fv%3D2) - An excellent animated blog post about the different Flexbox commands
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) - Check your CSS code and validate it
 
@@ -62,9 +68,14 @@
 
 - [W3C HTML Validation](https://validator.w3.org/) - Check your HTML code and validate it
 
+## Image Manipulation and Customization
+
+- [Google Chrome Labs Image Squoosh](https://github.com/GoogleChromeLabs/squoosh) - An image compression web app from Google
+
 ## Job Search
 
 - [AngelList](https://angel.co/) - A great resource for applying to jobs in the tech/startup world
+- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for tech interviews
 
 ## React and React Native
 
