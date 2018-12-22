@@ -1,10 +1,10 @@
-# Technology:
+# Technology Resources
 
-The content of this portion of the Alumni Tips repo houses useful information on technology that alumni and faculty have indicated is an excellent suplement to the core Lambda School Program (or, in some cases, are recommendations for the original documentation where it is written particularly well).
+The content of this portion of the Alumni Tips repo houses useful information on technology that alumni and faculty have indicated is an excellent suplement to the core Lambda School Program.
 
 ## Table of Contents
 
-- [Additional Practice Content](#additional-training-materials)
+- [Additional Training Materials and Classes](#additional-training-materials-and-classes)
 - [Blogging](#blogging)
 - [CSS](#css)
 - [Enhanced Studying Methods](#enhanced-studying-methods)
@@ -15,17 +15,32 @@ The content of this portion of the Alumni Tips repo houses useful information on
 - [Website Setup](#website-setup)
 - [Website-Inspiration](#website-inspiration)
 
-### Additional Training Materials
+### Additional Training Materials and Classes
 
+##### Code Challenges/Whiteboarding Prep
+
+- [Advent of Code](https://adventofcode.com/) - FREE
 - [CodeSignal](https://codesignal.com/) - FREE
 - [CodeWars](https://www.codewars.com/) - FREE
+
+##### Comprehensive Classes
+
+- [edX/Harvard Computer Science 50 (Free)](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - FREE
+- [edX/IBM Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science-ibm) - FREE
+- [edX/IBM Analyzing Data with Python](https://www.edx.org/course/data-analysis-with-python) - FREE
+- [edX/IBM Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python)
+- [edX/IBM Visualizing Data with Python](https://www.edx.org/course/data-visualization-with-python)
+- [The Odin Project (Free Full Stack Bootcamp)](https://www.theodinproject.com/)
+- [Wes Bos' CSS Grid Course](https://cssgrid.io/) - FREE
+
+##### Practice Projects
+
 - [Egghead.io](https://egghead.io/browse/frameworks) - PAID
 - [Front End Mentor](https://www.frontendmentor.io/challenges) - FREE
-- [Harvard Computer Science 50 (Free)](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - FREE
-- [Wes Bos' CSS Grid Course](https://cssgrid.io/) - FREE
 
 ### Blogging
 
+- ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/)
 - [Medium](https://medium.com/)
 
 ### CSS
@@ -42,6 +57,7 @@ The content of this portion of the Alumni Tips repo houses useful information on
 ### GitHub
 
 - [Oh shit, git!](https://ohshitgit.com/)
+- [How to Write a Good Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ### HTML
 
@@ -52,6 +68,8 @@ The content of this portion of the Alumni Tips repo houses useful information on
 ### React and React Native
 
 ### Website Setup
+
+##### Portfolio/Resume Site Templates
 
 - [HTML5 Up](https://html5up.net/)
 

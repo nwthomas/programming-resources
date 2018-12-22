@@ -11,7 +11,7 @@ It is because of this that I decided to compile everything into a single place a
 ## Table of Contents
 
 1. [Alumni Tips](./tips/alumni-tips.md)
-2. [Technology Resource List](./tips/technology.md)
+2. [Technology Resource List](./tips/technology-resources.md)
 
 ## Getting Involved
 
