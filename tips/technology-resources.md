@@ -88,3 +88,7 @@
 ## Website Inspiration
 
 - [awwwards.com](https://www.awwwards.com/) - A curated list of the internet's finest sites, ranked by design, speed, and other factors.
+
+## Other Resources
+
+- [devdocs.io/](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages.
