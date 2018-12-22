@@ -1,8 +1,4 @@
-# Technology Resources
-
-The content of this portion of the Alumni Tips repo houses useful information on technology that alumni and faculty have indicated is an excellent suplement to the core Lambda School Program.
-
-## Table of Contents
+# Table of Contents
 
 - [Additional Training Materials and Classes](#additional-training-materials-and-classes)
 - [Blogging](#blogging)
@@ -15,7 +11,7 @@ The content of this portion of the Alumni Tips repo houses useful information on
 - [Website Setup](#website-setup)
 - [Website-Inspiration](#website-inspiration)
 
-### Additional Training Materials and Classes
+## Additional Training Materials and Classes
 
 ##### Code Challenges/Whiteboarding Prep
 
@@ -38,41 +34,41 @@ The content of this portion of the Alumni Tips repo houses useful information on
 - [Egghead.io](https://egghead.io/browse/frameworks) - PAID
 - [Front End Mentor](https://www.frontendmentor.io/challenges) - FREE
 
-### Blogging
+## Blogging
 
 - ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/)
 - [Medium](https://medium.com/)
 
-### CSS
+## CSS
 
 - [Animista](https://css-tricks.com/)
 - [CSS-Tricks](https://css-tricks.com/)
 - [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184%3Fv%3D2)
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
 
-### Enhanced Studying Methods
+## Enhanced Studying Methods
 
 - [Maranara Pomodoro Technique Timer](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef?hl=en)
 
-### GitHub
+## GitHub
 
 - [Oh shit, git!](https://ohshitgit.com/)
 - [How to Write a Good Commit Message](https://chris.beams.io/posts/git-commit/)
 
-### HTML
+## HTML
 
-### Job Search
+## Job Search
 
 - [AngelList](https://angel.co/)
 
-### React and React Native
+## React and React Native
 
-### Website Setup
+## Website Setup
 
 ##### Portfolio/Resume Site Templates
 
 - [HTML5 Up](https://html5up.net/)
 
-### Website Inspiration
+## Website Inspiration
 
 - [awwwards.com](https://www.awwwards.com/)
