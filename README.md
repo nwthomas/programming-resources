@@ -1,4 +1,4 @@
-![Lambda Alumni Tips Cover Page](./images/alumni-tips-cover-page.png)
+![Lambda Alumni Tips Cover Page](./images/alumni-tips-cover-page.jpg)
 
 # Lambda School Alumni Tips
 
