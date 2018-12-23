@@ -34,6 +34,7 @@
 - [Wes Bos' CSS Grid Course](https://cssgrid.io/) - FREE
 - [Wes Bos' Mastering Markdown Course](https://masteringmarkdown.com/) - FREE
 - [Wes Bos' What the Flexbox? Course](https://flexbox.io/) - FREE
+- [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/index.html) - FREE
 
 #### Practice Projects
 
@@ -98,3 +99,7 @@
 ## Website Inspiration
 
 - [awwwards.com](https://www.awwwards.com/) - A curated list of the internet's finest sites, ranked by design, speed, and other factors.
+
+## Other Resources
+
+- [devdocs.io/](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages.
