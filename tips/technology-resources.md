@@ -60,13 +60,13 @@
 
 ## Integrated Development Environments (IDEs) and Extensions
 
-### IDEs
+#### IDEs
 
 - [Atom](https://atom.io/) - A good "hackable text editor" that is a very popular choice
 - [Visual Studio Code](https://code.visualstudio.com/) - The free and most common choice for those attending Lambda School
 - [Sublime Text](https://www.sublimetext.com/) - An expensive but phenomenal choice for a text editor
 
-### Extensions
+#### Extensions
 
 - [(VSCode) AREPL for Python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl#overview) - Live, in-document display readouts of `print()` while writing Python
 - [(VSCode) Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows live reload of a website while you edit it
