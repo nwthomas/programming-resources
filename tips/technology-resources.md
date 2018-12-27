@@ -6,6 +6,7 @@
 - [Front-end Frameworks and Libraries](#front-end-frameworks-and-libraries)
 - [Github](#github)
 - [HTML](#html)
+- [Integrated Development Environments (IDEs) and Extensions](#integrated-development-environments-ides-and-extensions)
 - [Image Manipulation and Customization](#image-manipulation-and-customization)
 - [JavaScript](#javascript)
 - [Job Search](#job-search)
@@ -55,11 +56,28 @@
 ## Image Manipulation and Customization
 
 - [Google Chrome Labs Image Squoosh](https://github.com/GoogleChromeLabs/squoosh) - An image compression web app from Google
+- [MDN Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - A great article by Mozilla Development Network on responsive images
+
+## Integrated Development Environments (IDEs) and Extensions
+
+### IDEs
+
+- [Atom](https://atom.io/) - A good "hackable text editor" that is a very popular choice
+- [Visual Studio Code](https://code.visualstudio.com/) - The free and most common choice for those attending Lambda School
+- [Sublime Text](https://www.sublimetext.com/) - An expensive but phenomenal choice for a text editor
+
+### Extensions
+
+- [(VSCode) AREPL for Python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl#overview) - Live, in-document display readouts of `print()` while writing Python
+- [(VSCode) Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows live reload of a website while you edit it
+- [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
+- [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
 
 ## Javascript
 
 - [Arrayzing](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42#user-content-create-an-array) - Gives you answer on how to manage arrays by indexing topics from what you want to do, not the method names
 - [Eloquent Javascript by Marijn Haverbeke](https://github.com/marijnh/Eloquent-JavaScript) - A great free book the learning JavaScript
+- [Greensock Animations Library](https://greensock.com/) - A supurb animations library that is easy to implement in JavaScript and is highly efficient
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Free tutorials covering most relevant JavaScript topics
 - [Wes Bos' 30 Days of JavaScript Course](https://javascript30.com/) - A free course providing 30 days' worth of JavaScript challenges
 - [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - Another great free book to learn JavaScript
@@ -67,6 +85,7 @@
 ## Job Search
 
 - [AngelList](https://angel.co/) - A great resource for applying to jobs in the tech/startup world
+- [(Article on Resume Importance from Medium)](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great article by Dominic White on the importance of your resume standing out
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for tech interviews
 - [The Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - Exhaustive behavioral interviewing question resource
 
@@ -81,7 +100,7 @@
 - [edX/IBM Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python) - Free introductory IBM course covering machine learning
 - [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/index.html) - A phenomenal resource to start down the path of deep machine learning
 
-## Math
+## Mathematics
 
 - [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - A short, free YouTube course
 
@@ -96,9 +115,12 @@
 
 ## Website Hosting and Setup
 
-### Portfolio/Resume Site Templates
-
+- [Ghandi.net](https://www.gandi.net/en) - A great site to purchase domain names on
+- [Google Domains](https://domains.google/#/) - An easy-to-use site from Google to purchase (wait for it) domain names
 - [HTML5 Up](https://html5up.net/) - A great, free resource of site templates to help you get your portfolio page up off the ground
+- [Namecheap](https://www.namecheap.com/) - A great and (usually) inexpensive resource for purchasing domain names
+- [Netflify](https://www.netlify.com/) - A site for hosting websites that also links to (and updates directly from) GitHub
+- [Siteground](https://www.siteground.com/speed) - Another good paid resource to host websites
 
 ## Website Inspiration
 
@@ -106,7 +128,8 @@
 
 ## Addendum: Other Miscellaneous Resources
 
-- [devdocs.io/](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages.
+- [devdocs.io](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages.
 - [edX/Harvard Computer Science 50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - A great free computer science introductory course taught by Harvard
+- [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
 - [Wes Bos' Mastering Markdown Course](https://masteringmarkdown.com/) - A free course covering markdown (a useful technology used for things like writing this page you're reading) by Wes Bos
