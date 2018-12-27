@@ -13,4 +13,5 @@ Henry Kim [LinkedIn](https://www.linkedin.com/in/henrykim212/)<br/>
 Jason Nuhn [LinkedIn](https://www.linkedin.com/in/jasonnuhn/)<br/>
 William Pelton [LinkedIn](https://www.linkedin.com/in/william-pelton/)<br/>
 Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
+Cecil John Tantay [LinkedIn](https://www.linkedin.com/in/cjtantay/)<br/>
 Randall Whitlock [LinkedIn](https://www.linkedin.com/in/randallwhitlock/)<br/>
