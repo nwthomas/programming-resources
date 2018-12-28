@@ -37,7 +37,7 @@
 
 ## Cybersecurity
 
-- [National Vulnerability Database](https://nvd.nist.gov/) - Government database for security vulnerabilities
+- [National Vulnerability Database](https://nvd.nist.gov/) - Government repository database for vulnerability manamgement data using the Security Content Automation Protocol (SCAP)
 
 ## Data Science
 
@@ -99,6 +99,8 @@
 - [Advent of Code](https://adventofcode.com/) - A great free annual resource for coding challenges
 - [CodeSignal](https://codesignal.com/) - A great free resource to hone your problem solving skills
 - [CodeWars](https://www.codewars.com/) - Complete katas (coding challenges) to rank up on the leaderboard and hone your skills on this free resource
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - A free resource that has coding interview questions from companies including Amazon, Microsoft, and Google
+- [HackerRank](https://www.hackerrank.com/) - A free resource for code interview prep used by companies like AirBnB, Cisco, Dropbox, and Twitter
 
 ## Machine Learning
 
