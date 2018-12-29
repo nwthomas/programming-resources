@@ -119,6 +119,7 @@
 ## Studying and Productivity
 
 - [Marinara Pomodoro Technique Timer](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef?hl=en) - In-browser Chrome Pomodoro extension to help you master productivity
+- [Squirt Speed Reader](https://squirt.io/install.html) - A speed reader web app that can deploy on any article or text-dominated website to help you speed read
 
 ## Website Hosting and Setup
 
