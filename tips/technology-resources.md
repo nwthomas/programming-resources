@@ -29,6 +29,7 @@
 
 - [Animista](https://css-tricks.com/) - Awesome CSS animations
 - [CSS-Tricks](https://css-tricks.com/) - Database of information and details about CSS code
+- [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
 - [Fancy Border Radius](https://github.com/9elements/fancy-border-radius) - Building simple custom shapes with CSS' `border-radius` property
 - [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184%3Fv%3D2) - An excellent animated blog post about the different Flexbox commands
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) - Check your CSS code and validate it
@@ -48,6 +49,8 @@
 ## Front-end Frameworks and Libraries
 
 - [Tyler McGinnis' React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - A phenomenal free resource to train your React skills
+- [React Patterns](https://reactpatterns.com/) - A lengthy list of React Patterns, great for a quick refresher
+- [React In Patterns](https://github.com/krasimir/react-in-patterns) - An opinionated look at react patterns.
 
 ## GitHub
 
@@ -81,11 +84,18 @@
 ## Javascript
 
 - [Arrayzing](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42#user-content-create-an-array) - Gives you answer on how to manage arrays by indexing topics from what you want to do, not the method names
+- [ECMA-262] - The defacto living guide for JavaScript
 - [Eloquent Javascript by Marijn Haverbeke](https://github.com/marijnh/Eloquent-JavaScript) - A great free book the learning JavaScript
 - [Greensock Animations Library](https://greensock.com/) - A supurb animations library that is easy to implement in JavaScript and is highly efficient
+- [JavaScript Allongé](https://leanpub.com/javascriptallongesix) - A book on functional programming for JavaScript
+- [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - A list of design patters for JavaScript
+- [JavaScript Spessore](https://github.com/raganwald/javascript-spessore) - A follow up for [JavaScript Allongé](https://leanpub.com/javascriptallongesix), it dives deeper into similar concepts, not strictly about functional programming.
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Free tutorials covering most relevant JavaScript topics
+- [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - A deep dive into functional programming in JavaScript
+- [Rithm School Intermediate JavaScript](https://www.rithmschool.com/courses/intermediate-javascript) - A course moving past the basics of JavaScript
 - [Wes Bos' 30 Days of JavaScript Course](https://javascript30.com/) - A free course providing 30 days' worth of JavaScript challenges
 - [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - Another great free book to learn JavaScript
+- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - A thorough look at JavaScript Design Patterns
 
 ## Job Search
 
@@ -93,6 +103,7 @@
 - [(Article on Resume Importance from Medium)](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great article by Dominic White on the importance of your resume standing out
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for tech interviews
 - [The Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - Exhaustive behavioral interviewing question resource
+- [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
 
 ## Logic Problems and Whiteboarding Prep
 
@@ -104,11 +115,14 @@
 
 ## Machine Learning
 
+- [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) - A repository of significant machine learning research papers, datasets and software projects
 - [edX/IBM Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python) - Free introductory IBM course covering machine learning
 - [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/index.html) - A phenomenal resource to start down the path of deep machine learning
+- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - The defacto machine learning course from Google
 
 ## Mathematics
 
+- [Coding Math](https://www.youtube.com/user/codingmath) - YouTube channel focused on mathematics, algorithms, and optimization in a programming context.
 - [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - A short, free YouTube course
 
 ## Practice Projects
@@ -138,6 +152,8 @@
 
 - [devdocs.io](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages.
 - [edX/Harvard Computer Science 50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - A great free computer science introductory course taught by Harvard
+- [FreeCodeCamp (Full Stack Bootcamp)](https://www.freecodecamp.org/) - The first full-fledged free coding bootcamp
 - [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
 - [Wes Bos' Mastering Markdown Course](https://masteringmarkdown.com/) - A free course covering markdown (a useful technology used for things like writing this page you're reading) by Wes Bos
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - A lenghty repository of free programming books provided by the Ebook foundation.
