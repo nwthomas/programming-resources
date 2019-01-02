@@ -50,8 +50,8 @@
 ## Front-end Frameworks and Libraries
 
 - [Tyler McGinnis' React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - A phenomenal free resource to train your React skills
-- [React Patterns](https://reactpatterns.com/) - A lengthy list of React Patterns, great for a quick refresher
-- [React In Patterns](https://github.com/krasimir/react-in-patterns) - An opinionated look at react patterns.
+- [React Patterns](https://reactpatterns.com/) - A snapshot of React patterns, great for a quick refresher
+- [React In Patterns](https://github.com/krasimir/react-in-patterns) - An opinionated look at React patterns
 
 ## GitHub
 
@@ -152,17 +152,19 @@
 ## Website Inspiration
 
 - [awwwards.com](https://www.awwwards.com/) - A curated list of the internet's finest sites, ranked by design, speed, and other factors
-- [Hall of Fame| Pages](https://www.pages.xyz/) - Another curated list of beautiful sites, focused on single page apps
+- [Hall of Fame| Pages](https://www.pages.xyz/) - Another curated list of beautiful sites, focused on single page applications
 
 ## Addendum: Other Miscellaneous Resources
 
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesomeness lists focused on programming languages
 - [Awesome Lists](https://github.com/sindresorhus/awesome) - A curated list of awesome lists focused around everything related to coding
-- [devdocs.io](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages.
+- [Can I Use](https://caniuse.com/) - Support tables for HTML5, CSS3, etc. 
+- [devdocs.io](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages
 - [edX/Harvard Computer Science 50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - A great free computer science introductory course taught by Harvard
 - [FreeCodeCamp (Full Stack Bootcamp)](https://www.freecodecamp.org/) - The first full-fledged free coding bootcamp
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - A lenghty repository of free programming books provided by the Ebook foundation
 - [Front-End Checklist](https://frontendchecklist.io/) - An easy checklist to ensure projects are following best web practises
 - [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
+- [node.green](https://node.green/) - Compatability table for Node
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
 - [Wes Bos' Mastering Markdown Course](https://masteringmarkdown.com/) - A free course covering markdown (a useful technology used for things like writing this page you're reading) by Wes Bos
