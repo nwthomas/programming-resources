@@ -32,6 +32,7 @@
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
 - [Fancy Border Radius](https://github.com/9elements/fancy-border-radius) - Building simple custom shapes with CSS' `border-radius` property
 - [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184%3Fv%3D2) - An excellent animated blog post about the different Flexbox commands
+- [Grid to Flexbox](https://www.gridtoflex.com/) - Flexbox fallbacks for popular UI solutions that use CSS Grid 
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) - Check your CSS code and validate it
 - [Wes Bos' CSS Grid Course](https://cssgrid.io/) - A great free CSS Grid training class to supplement your learning
 - [Wes Bos' What the Flexbox? Course](https://flexbox.io/) - A free course covering the CSS flexbox module
@@ -56,6 +57,7 @@
 
 - [Oh shit, git!](https://ohshitgit.com/) - A selected list of useful Git commands
 - [How to Write a Good Commit Message](https://chris.beams.io/posts/git-commit/) - A great guide on writing clean and best practice commit messages in Git
+- [Try GitHub](http://try.github.io/) - GitHub's own list of resources to learn Git/Github.
 
 ## HTML
 
@@ -84,8 +86,10 @@
 ## Javascript
 
 - [Arrayzing](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42#user-content-create-an-array) - Gives you answer on how to manage arrays by indexing topics from what you want to do, not the method names
-- [ECMA-262] - The defacto living guide for JavaScript
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
+- [ECMA-262](https://tc39.github.io/ecma262/) - The defacto living standards guide for JavaScript
 - [Eloquent Javascript by Marijn Haverbeke](https://github.com/marijnh/Eloquent-JavaScript) - A great free book the learning JavaScript
+- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/) - A deep dive into changes in ES2016 and 2017
 - [Greensock Animations Library](https://greensock.com/) - A supurb animations library that is easy to implement in JavaScript and is highly efficient
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix) - A book on functional programming for JavaScript
 - [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - A list of design patters for JavaScript
@@ -115,6 +119,7 @@
 
 ## Machine Learning
 
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) - A repository of significant machine learning research papers, datasets and software projects
 - [edX/IBM Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python) - Free introductory IBM course covering machine learning
 - [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/index.html) - A phenomenal resource to start down the path of deep machine learning
@@ -146,14 +151,18 @@
 
 ## Website Inspiration
 
-- [awwwards.com](https://www.awwwards.com/) - A curated list of the internet's finest sites, ranked by design, speed, and other factors.
+- [awwwards.com](https://www.awwwards.com/) - A curated list of the internet's finest sites, ranked by design, speed, and other factors
+- [Hall of Fame| Pages](https://www.pages.xyz/) - Another curated list of beautiful sites, focused on single page apps
 
 ## Addendum: Other Miscellaneous Resources
 
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesomeness lists focused on programming languages
+- [Awesome Lists](https://github.com/sindresorhus/awesome) - A curated list of awesome lists focused around everything related to coding
 - [devdocs.io](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages.
 - [edX/Harvard Computer Science 50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - A great free computer science introductory course taught by Harvard
 - [FreeCodeCamp (Full Stack Bootcamp)](https://www.freecodecamp.org/) - The first full-fledged free coding bootcamp
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - A lenghty repository of free programming books provided by the Ebook foundation
+- [Front-End Checklist](https://frontendchecklist.io/) - An easy checklist to ensure projects are following best web practises
 - [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
 - [Wes Bos' Mastering Markdown Course](https://masteringmarkdown.com/) - A free course covering markdown (a useful technology used for things like writing this page you're reading) by Wes Bos
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - A lenghty repository of free programming books provided by the Ebook foundation.
