@@ -14,7 +14,9 @@
 - [Logic Problems and Whiteboarding Prep](#logic-problems-and-whiteboarding-prep)
 - [Machine Learning](#machine-learning)
 - [Mathematics](#math-and-logic-problems)
+- [PHP](#php)
 - [Practice Projects](#practice-projects)
+- [Python](#python)
 - [Studying and Productivity](#studying-and-productivity)
 - [Website Hosting and Setup](#website-hosting-and-setup)
 - [Website Inspiration](#website-inspiration)
@@ -22,8 +24,8 @@
 
 ## Blogging
 
-- ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/) - Great guide and tips on getting started
-- [Medium](https://medium.com/) - The current popular choice for a blog platform in the tech industry
+- ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/) - Great guide and awesome tips on getting started with a tech blog
+- [Medium](https://medium.com/) - The current popular choice for a free blogging platform in the tech industry
 
 ## CSS
 
@@ -32,14 +34,14 @@
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
 - [Fancy Border Radius](https://github.com/9elements/fancy-border-radius) - Building simple custom shapes with CSS' `border-radius` property
 - [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184%3Fv%3D2) - An excellent animated blog post about the different Flexbox commands
-- [Grid to Flexbox](https://www.gridtoflex.com/) - Flexbox fallbacks for popular UI solutions that use CSS Grid 
+- [Grid to Flexbox](https://www.gridtoflex.com/) - Flexbox fallbacks for popular UI solutions that use CSS Grid
 - [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) - Check your CSS code and validate it
 - [Wes Bos' CSS Grid Course](https://cssgrid.io/) - A great free CSS Grid training class to supplement your learning
 - [Wes Bos' What the Flexbox? Course](https://flexbox.io/) - A free course covering the CSS flexbox module
 
 ## Cybersecurity
 
-- [National Vulnerability Database](https://nvd.nist.gov/) - Government repository database for vulnerability manamgement data using the Security Content Automation Protocol (SCAP)
+- [National Vulnerability Database](https://nvd.nist.gov/) - Government repository database for vulnerability management data using the Security Content Automation Protocol (SCAP)
 
 ## Data Science
 
@@ -104,9 +106,9 @@
 ## Job Search
 
 - [AngelList](https://angel.co/) - A great resource for applying to jobs in the tech/startup world
-- [(Article on Resume Importance from Medium)](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great article by Dominic White on the importance of your resume standing out
+- [(Article on Resume Importance from Medium)](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great Medium article on the importance of making your resume standing out
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for tech interviews
-- [The Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - Exhaustive behavioral interviewing question resource
+- [The Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - An exhaustive behavioral interviewing question resource
 - [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
 
 ## Logic Problems and Whiteboarding Prep
@@ -123,17 +125,28 @@
 - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) - A repository of significant machine learning research papers, datasets and software projects
 - [edX/IBM Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python) - Free introductory IBM course covering machine learning
 - [Fast.ai Practical Deep Learning for Coders](https://course.fast.ai/index.html) - A phenomenal resource to start down the path of deep machine learning
-- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - The defacto machine learning course from Google
+- [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) - Google's own machine learning course for its employees
 
 ## Mathematics
 
-- [Coding Math](https://www.youtube.com/user/codingmath) - YouTube channel focused on mathematics, algorithms, and optimization in a programming context.
-- [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - A short, free YouTube course
+- [Coding Math](https://www.youtube.com/user/codingmath) - YouTube channel focused on mathematics, algorithms, and optimization in a programming context
+- [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) - A short, free YouTube course covering linear algebra
+
+## PHP
+
+- [Learn-PHP.org](https://www.learn-php.org/) - A free interactive PHP tutorial site for students of all levels
 
 ## Practice Projects
 
 - [Egghead.io](https://egghead.io/browse/frameworks) - A great paid resource for doing assorted projects to keep your skills sharp
-- [Front End Mentor](https://www.frontendmentor.io/challenges) - A free resource that gives you design files for practice projects
+- [Front End Mentor](https://www.frontendmentor.io/challenges) - A free resource that gives you design files for practice front-end projects
+
+## Python
+
+- [Codecademy: Learn Python 2](https://www.codecademy.com/learn/learn-python) - A free resource to get your feet wet with programming in Python
+- [edX/Microsoft Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2) - A free introductory course from Microsoft on Python
+- [edX/Microsoft Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-2) - A free course that builds on Microsoft's absolute beginner Python course listed above
+- [MIT Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - MIT's free introductory course on Python
 
 ## Studying and Productivity
 
@@ -158,7 +171,7 @@
 
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesomeness lists focused on programming languages
 - [Awesome Lists](https://github.com/sindresorhus/awesome) - A curated list of awesome lists focused around everything related to coding
-- [Can I Use](https://caniuse.com/) - Support tables for HTML5, CSS3, etc. 
+- [Can I Use](https://caniuse.com/) - Support tables for HTML5, CSS3, etc.
 - [devdocs.io](https://devdocs.io/) - An open source one-stop shop for documentation of many technologies, frameworks, and languages
 - [edX/Harvard Computer Science 50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - A great free computer science introductory course taught by Harvard
 - [FreeCodeCamp (Full Stack Bootcamp)](https://www.freecodecamp.org/) - The first full-fledged free coding bootcamp
