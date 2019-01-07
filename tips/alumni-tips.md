@@ -49,7 +49,7 @@
 
 - “Be prepared for the next day by watching the precourse videos the night before (I believe this is the new standard they're going for anyway). Work on personal projects on the side and over weekends. Refine projects you work on during class so you can show them off to future employers.” - Grant Reighard
 
-- "No one is going to run after you and ask you to do the work that is necessary to become a great engineer. Lambda gives you great content and an even better support system, but you have to bring the drive and dedication to actually do it." - Nando Theessen.
+- "No one is going to run after you and ask you to do the work that is necessary to become a great engineer. Lambda gives you great content and an even better support system, but you have to bring the drive and dedication to actually do it." - Nando Theessen
 
 ### Job Search
 

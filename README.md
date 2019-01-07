@@ -4,9 +4,9 @@
 
 ## Introduction
 
-While sending out LinkedIn invites from the Lambda #linkedin Slack channel username spreadsheet, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speak to the strength of Lambda School as well as the quality of the individuals that graduate from it.
+While sending out LinkedIn invites from the username spreadsheet on the Lambda #linkedin channel, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speak to the strength of Lambda School as well as the quality of the individuals that graduate from it.
 
-It is because of this that I decided to compile everything into a single place and pass it on to my classmates so that you can benefit from it as well. Every single person quoted in this document has given me their express permission to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda School.
+It is because of this that I decided to compile everything into a single place and pass it on to my classmates and future cohorts so that you can benefit from it as well. Every single person quoted in this document has given me their express permission to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope that their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda School.
 
 ## Table of Contents
 
