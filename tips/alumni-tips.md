@@ -49,6 +49,8 @@
 
 - “Be prepared for the next day by watching the precourse videos the night before (I believe this is the new standard they're going for anyway). Work on personal projects on the side and over weekends. Refine projects you work on during class so you can show them off to future employers.” - Grant Reighard
 
+- "No one is going to run after you and ask you to do the work that is necessary to become a great engineer. Lambda gives you great content and an even better support system, but you have to bring the drive and dedication to actually do it." - Nando Theessen.
+
 ### Job Search
 
 - "Start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
@@ -70,6 +72,8 @@
 ### Pair Programming
 
 - “Make sure you do pair programming. It could do you wonders, especially when you enter the computer science portion of the program. The PMs try to get students in their groups paired up together, but most of the time people have to seek that out [pair programming] on their own.” - Rachel DiCesare
+
+- "Some people like to try to pair program through screen sharing, and that makes it hard to see things or try out new solutions. Instead, make sure you are constantly pushing your code up to GitHub or use a live coding extension like Live Share in VS Code." - Eva Li
 
 - “Do a lot of practice, and perhaps find a few people to work on pair programming with. I got a crew of 5 that I kept in touch with afterwards. There's nothing like it.” - Jason Nuhn
 
@@ -115,12 +119,20 @@
 
 - “Take more breaks. Use a pomodoro app. Sleep as much as you need. Go exercise. Eat right. Shower.” - William Pelton
 
+- "There is a balance to everything. The curriculum is a marathon, not a sprint." - Nando Theessen
+
 ### Self-Doubt
 
 - “Coding 9-5 daily is grueling. Some people really enjoy it. But for myself personally, I was starting to burn out about 4 months in. The more I learned, the more I realized I'm not great at coding, and my self-confidence tanked quite a bit in the process. If you do find yourself in the same situation, don't worry. Coding has a such demanding learning curve (more so when you get into more complex stuff later on), so don't lose heart. A lot of people (if not most) went through a similar experiences in my cohort.” - Henry Kim
 
+- "I self-doubt myself every second of my coding life, so it's important to look back and reflect on what I have accomplished, how far I've come, and making sure I'm comparing my present self to my past self. That usually gives me a confidence boost." - Eva Li
+
 - “This is the most a human being can learn in a six month period. It will feel like failing if you're doing it right. Labs may be the first time you will feel genuinely competent at this.” - William Pelton
+
+- "Have enough money on the side to last not only the entire program but also a few months after. You want your full focus to be on the program, not partly worried about money or working on the side." - Nando Theessen.
 
 ### Taking Notes
 
-- “Definitely take notes. Remember that there is almost never one way of doing things. So a good task to try is to always try to find other ways to do things that you learn." - Christopher Atoki
+- “Definitely take notes. Remember that there is almost never one way of doing things, so a good task to try is to always try to find other ways to do things that you learn." - Christopher Atoki
+
+- "Taking notes really helps information stick with me, and I keep it organized by week. I section off my notes into preclass notes (where I jot down something new that I think is important) and during class notes (where I'll add onto it). I also take notes on questions that are asked in the Slack channel and record what the answer is. I find note-taking on example code is really helpful especially when learning a new syntax. Finally, I find that code examples are a great reference during project time." - Eva Li

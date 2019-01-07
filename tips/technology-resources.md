@@ -106,7 +106,7 @@
 ## Job Search
 
 - [AngelList](https://angel.co/) - A great resource for applying to jobs in the tech/startup world
-- [(Article on Resume Importance from Medium)](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great Medium article on the importance of making your resume standing out
+- ["Your Resume is the Reason You're Not Getting Interviews" by Dominic White](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great Medium article on the importance of making your resume standing out
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for tech interviews
 - [The Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - An exhaustive behavioral interviewing question resource
 - [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
