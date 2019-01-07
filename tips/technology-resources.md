@@ -68,7 +68,7 @@
 ## Image Manipulation and Customization
 
 - [Google Chrome Labs Image Squoosh](https://github.com/GoogleChromeLabs/squoosh) - An image compression web app from Google
-- [MDN Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - A great article by Mozilla Development Network on responsive images
+- [MDN Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - A great article by Mozilla Developer Network on responsive images
 
 ## Integrated Development Environments (IDEs) and Extensions
 
@@ -159,6 +159,7 @@
 
 - [Ghandi.net](https://www.gandi.net/en) - A great site to purchase domain names on
 - [Google Domains](https://domains.google/#/) - An easy-to-use site from Google to purchase (wait for it) domain names
+- [Heroku](http://heroku.com/) - A great cloud platorm service site that allows you to build, host, run, and scale applications
 - [HTML5 Up](https://html5up.net/) - A great, free resource of site templates to help you get your portfolio page up off the ground
 - [Namecheap](https://www.namecheap.com/) - A great and (usually) inexpensive resource for purchasing domain names
 - [Netflify](https://www.netlify.com/) - A site for hosting websites that also links to (and updates directly from) GitHub
