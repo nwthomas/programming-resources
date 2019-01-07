@@ -109,7 +109,7 @@
 
 - “Spend the extra time doing code challenges outside of the daily one.” - Kyle Kauzlarich
 
-### Self Care
+### Self-Care
 
 - "Be sure to take many breaks, eat healthy meals, and get yourself out of the house as much as possible. Don’t stay up so late coding, and always get a good nights rest. I always try to do 10-15 minute breaks. I usually eat and drink something and take a step outside to go for a walk." - Rachel DiCesare
 
