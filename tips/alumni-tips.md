@@ -121,15 +121,15 @@
 
 - "There is a balance to everything. The curriculum is a marathon, not a sprint." - Nando Theessen
 
+- "Have enough money on the side to last not only the entire program but also a few months after. You want your full focus to be on the program, not partly worried about money or working on the side." - Nando Theessen.
+
 ### Self-Doubt
 
-- “Coding 9-5 daily is grueling. Some people really enjoy it. But for myself personally, I was starting to burn out about 4 months in. The more I learned, the more I realized I'm not great at coding, and my self-confidence tanked quite a bit in the process. If you do find yourself in the same situation, don't worry. Coding has a such demanding learning curve (more so when you get into more complex stuff later on), so don't lose heart. A lot of people (if not most) went through a similar experiences in my cohort.” - Henry Kim
+- “Coding 9-5 daily is grueling. Some people really enjoy it. But for myself personally, I was starting to burn out about 4 months in. The more I learned, the more I realized I'm not great at coding, and my self-confidence tanked quite a bit in the process. If you do find yourself in the same situation, don't worry. Coding has a such demanding learning curve (more so when you get into more complex stuff later on), so don't lose heart. A lot of people (if not most) went through a similar experience in my cohort.” - Henry Kim
 
 - "I self-doubt myself every second of my coding life, so it's important to look back and reflect on what I have accomplished, how far I've come, and making sure I'm comparing my present self to my past self. That usually gives me a confidence boost." - Eva Li
 
 - “This is the most a human being can learn in a six month period. It will feel like failing if you're doing it right. Labs may be the first time you will feel genuinely competent at this.” - William Pelton
-
-- "Have enough money on the side to last not only the entire program but also a few months after. You want your full focus to be on the program, not partly worried about money or working on the side." - Nando Theessen.
 
 ### Taking Notes
 
