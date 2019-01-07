@@ -48,15 +48,13 @@ Adhering to the following process is the best way to get your work included in t
    git pull [--rebase] upstream master
    ```
 
-5. Squash your commits down to a single one (we want to keep the master branch nice and clean)
-
-6. Push your topic branch up to your fork:
+5. Push your topic branch up to your fork:
 
    ```bash
    git push origin <topic-branch-name>
    ```
 
-7. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/)
+6. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/)
    with a clear title and description.
 
 **IMPORTANT**: By submitting patches, you agree to allow the project owners to license your work under the terms of the [MIT License](LICENSE).
