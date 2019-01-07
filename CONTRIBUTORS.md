@@ -1,5 +1,6 @@
 # Alumni (and Older Cohort) Contributors
 
+JJ Ashcraft [LinkedIn](https://www.linkedin.com/in/jjashcraft/)<br/>
 Christopher Atoki [LinkedIn](https://www.linkedin.com/in/christopher-atoki/)<br/>
 Christopher Beards [LinkedIn](https://www.linkedin.com/in/christopher-beards-1292b529/)<br/>
 Anthony Calderaro [LinkedIn](https://www.linkedin.com/in/anthonyjamescalderaro/)<br/>

@@ -39,7 +39,7 @@
 
 - “I'd really recommend making sure you choose a favorite stack and really take ownership over it. So if you start finding you really like React with Python/Django, then start building full stack functioning apps over and over again. Learn how to build a full back-end and front-end and choose one way to do it. Then, you should learn it to the point of full ownership over that stack. GoLang is great for backend! Vue is great for front-end! What you'll get from this advice is a great birds eye view of how your apps have to work regardless of language. You'll also get used to making API calls to a database, so you'll find yourself very well equipped to switch to any other tech stack you're asked to.” - Austin Howes
 
-- “Pay attention to data structures. It’s always surprising when and how those come up, and you’ll be grateful to know them! - Austin Howes
+- “Pay attention to data structures. It’s always surprising when and how those come up, and you’ll be grateful to know them!" - Austin Howes
 
 - “If you're comfortable with HTML and CSS, try and get as solid of a foundation as you can get in Javascript. Some of the more advanced JavaScript topics gave a good number of students from my cohort a tough time. Plus, React is built on those topics, so getting a solid JavaScript understanding can pave the way through the front-end section. Personally, I went through all but the last few algorithm sections for JavaScript on FreeCodeCamp. There is a YouTube channel called Traversy Media, and he has a tutorial on working with the DOM. That tutorial got me really prepared for the DOM sections at Lambda.” - Bernard Johnson
 
@@ -52,6 +52,10 @@
 - "No one is going to run after you and ask you to do the work that is necessary to become a great engineer. Lambda gives you great content and an even better support system, but you have to bring the drive and dedication to actually do it." - Nando Theessen
 
 ### Job Search
+
+- "Make your Twitter account now. I refused to use Twitter until about 6 months in, when I realized the value it carries because the majority of the staff are active on there. Building a great labs project + Twitter = job opportunities and interviews. Want proof? Look at my posts from December 2018. @ashcraft_jj on Twitter." - JJ Ashcraft
+
+- "Stop overthinking the career development portions based on your previous work experience, trust the career coaches, and let them do what they are paid to do. Follow their advice... it works." - JJ Ashcraft
 
 - "Start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
 
@@ -69,11 +73,9 @@
 
 - "Choose interesting side projects. Anything using IBM Watson or another AI-related API to analyze sets of data and evaluate information is a great talking piece in an interview." - Randall Whitlock
 
-- "Make your Twitter account now. I refused to use Twitter until about 6 months in, when I realized the value it carries because the majority of the staff are active on there. Building a great labs project + Twitter = job opportunities and interviews. Want proof? Look at my posts from December 2018. @ashcraft_jj on Twitter." -JJ Ashcraft
-
-"Stop overthinking the career development portions based on your previous work experience, trust the career coaches, let them do what they are paid to do. Follow their advice...it works." - JJ Ashcraft
-
 ### Pair Programming
+
+- "Don't ask people to pair program. Ask them what they are struggling with, and start solving little problems together... This keeps pair sessions from turning into purely hang outs." - JJ Ashcraft
 
 - “Make sure you do pair programming. It could do you wonders, especially when you enter the computer science portion of the program. The PMs try to get students in their groups paired up together, but most of the time people have to seek that out [pair programming] on their own.” - Rachel DiCesare
 
@@ -81,9 +83,9 @@
 
 - “Do a lot of practice, and perhaps find a few people to work on pair programming with. I got a crew of 5 that I kept in touch with afterwards. There's nothing like it.” - Jason Nuhn
 
-- "Don't ask people to pair program. Ask them what they are struggling with, and start solving little problems together...this keeps pair sessions from turning into purely hang outs." - JJ Ashcraft
-
 ### Personal Website or Portfolio
+
+- "Don't get caught up in having a beautiful portfolio at first. Just make one, and then make little improvements each week when you learn something new. When you are close to finished, you can redesign the whole thing if you want. Get something up quick so you don't have to sift through 8 months of projects when you are going through labs and doing career coach prep at the same time." - JJ Ashcraft
 
 - “Start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
 
@@ -92,8 +94,6 @@
 - “Buy a good domain name and host it if you can afford it. I got grantreighard.com.” - Grant Reighard
 
 - “Always go for the `.com` domain name for the most authority. You could alternately buy several and redirect one to the other.” - Grant Reighard
-
--"Don't get caught up in having a beautiful portfolio at first. Just make one, and then make little improvements each week when you learn something new. When you are close to finished, you can redesign the whole thing if you want. Get something up quick so you don't have to sift through 8 months of projects when you are going through labs and doing career coach prep at the same time." - JJ Ashcraft
 
 ### Practice
 
@@ -141,8 +141,8 @@
 
 ### Taking Notes
 
+- "Stop reading this. Skip your Starbucks coffee this morning, drive down the street and buy a mini whiteboard instead. I got mine for \$1. You should be practicing handwriting the main coding principles (like when you learn to write more advanced fucntions, async/await, promises, writing basic react components), and rewriting your weekly code challenges by hand." -JJ Ashcraft
+
 - “Definitely take notes. Remember that there is almost never one way of doing things, so a good task to try is to always try to find other ways to do things that you learn." - Christopher Atoki
 
 - "Taking notes really helps information stick with me, and I keep it organized by week. I section off my notes into preclass notes (where I jot down something new that I think is important) and during class notes (where I'll add onto it). I also take notes on questions that are asked in the Slack channel and record what the answer is. I find note-taking on example code is really helpful especially when learning a new syntax. Finally, I find that code examples are a great reference during project time." - Eva Li
-
-- "Stop reading this. Skip your Starbucks coffee this morning, drive down the street and buy a mini whiteboard instead. I got mine for $1. You should be practicing handwriting the main coding principles (like when you learn to write more advanced fucntions, async/await, promises, writing basic react components), and rewriting your weekly code challenges by hand." -JJ Ashcraft
