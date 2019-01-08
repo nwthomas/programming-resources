@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Blogging](#blogging)
+- [Colors and Icons](#colors-and-icons)
 - [CSS](#css)
 - [Cybersecurity](#cybersecurity)
 - [Data Science](#data-science)
@@ -26,6 +27,18 @@
 
 - ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/) - Great guide and awesome tips on getting started with a tech blog
 - [Medium](https://medium.com/) - The current popular choice for a free blogging platform in the tech industry
+
+## Colors and Icons
+
+#### Colors
+
+- [Coolors.io](https://coolors.co/) - A great free website to both browse others' as well as create/save your own five-swatch colors palettes
+
+#### Icons
+
+- [Font Awesome](https://fontawesome.com/) - A supurb free (and also paid, depending on the image) site filled with awesome icons
+- [Icons8.com](https://icons8.com/) - A great free & paid resource for application icons
+- [Ionicons](https://ionicons.com/) - Contains many awesome free icons in svg format for you to use
 
 ## CSS
 

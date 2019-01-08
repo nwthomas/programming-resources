@@ -141,7 +141,7 @@
 
 ### Taking Notes
 
-- "Stop reading this. Skip your Starbucks coffee this morning, drive down the street and buy a mini whiteboard instead. I got mine for \$1. You should be practicing handwriting the main coding principles (like when you learn to write more advanced fucntions, async/await, promises, writing basic react components), and rewriting your weekly code challenges by hand." -JJ Ashcraft
+- "Stop reading this. Skip your Starbucks coffee this morning, drive down the street, and buy a mini whiteboard instead. I got mine for \$1. You should be practicing handwriting the main coding principles (like when you learn to write more advanced fucntions, async/await, promises, writing basic react components), and rewriting your weekly code challenges by hand." -JJ Ashcraft
 
 - “Definitely take notes. Remember that there is almost never one way of doing things, so a good task to try is to always try to find other ways to do things that you learn." - Christopher Atoki
 
