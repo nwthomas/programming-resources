@@ -193,6 +193,7 @@
 - [FreeCodeCamp (Full Stack Bootcamp)](https://www.freecodecamp.org/) - The first full-fledged free coding bootcamp
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - A lenghty repository of free programming books provided by the Ebook foundation
 - [Front-End Checklist](https://frontendchecklist.io/) - An easy checklist to ensure projects are following best web practises
+- [GoalKicker Free Programming Books](https://goalkicker.com/) - A website with a ton of awesome free books composed of notes on various programming topics and technologies
 - [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 - [node.green](https://node.green/) - Compatability table for Node
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp

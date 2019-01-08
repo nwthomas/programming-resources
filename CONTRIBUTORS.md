@@ -18,4 +18,5 @@ William Pelton [LinkedIn](https://www.linkedin.com/in/william-pelton/)<br/>
 Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 Cecil John Tantay [LinkedIn](https://www.linkedin.com/in/cjtantay/)<br/>
 Nando Theessen [LinkedIn](https://www.linkedin.com/in/nandotheessen/)<br/>
+Patrick Thompson [LinkedIn](https://www.linkedin.com/in/patrick-thompson-the-code-guy/)<br/>
 Randall Whitlock [LinkedIn](https://www.linkedin.com/in/randallwhitlock/)<br/>

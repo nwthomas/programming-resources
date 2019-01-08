@@ -4,7 +4,7 @@
 
 1. [Asking Questions](#asking-questions)
 2. [Blogging](#blogging)
-3. [Capstone Project](#capstone-project)
+3. [Capstone Project](#capstone-project-lambda-labs)
 4. [Focused Topics of Study](#focused-topics-of-study)
 5. [General Advice](#general-advice)
 6. [Job Search](#job-search)
@@ -31,9 +31,11 @@
 
 - “Medium is the go-to blogging service for tech stuff in my opinion. There’s also creating a WordPress blog on your own domain if you buy that (plus hosting).” - Grant Reighard
 
-### Capstone Project
+### Capstone Project (Lambda Labs)
 
 - "For Capstone Projects, it's a test to see if you can learn how to adapt to a new language, platforms, and libaries to solve problems as simply as possible. Most importantly, it's also about how you communicate with others to further the progress of the project. Personally, I think it's really important to have good and informed opinions on features or ways to tackle problems. Your project (and product) is the ultimate goal, so know when to support your argument or when to back down on an idea." - Henry Kim
+
+- "Make sure you over-communicate with your team. If you feel you are doing too many standups and communicating too much, you aren't doing enough. Over-communicating about what's done/what everyone is doing will be better for everyone and cause less headaches later on." - Patrick Thompson
 
 ### Focused Topics of Study
 
@@ -99,11 +101,13 @@
 
 - “Practice, practice. Each and every day, keep coding for at least an hour even if you have the day off. You don’t want to get rusty, but do _not_ burn yourself out. It is so important to take breaks.” - Rachel DiCesare
 
+- "If you don't have one, get a "rubber duck." This could be anything (a literal rubber duck, some toy that you have, something that you can talk to, etc.), and just talk to it. It seems odd at first, but it activates a different part of your brain when you vocalize what you're working on and the issues you're facing. You will find that you come to solutions faster this way. It's also great practice for future interviews as people expect you to be able to talk through what you're doing. Even if you don't come to a perfect solution, being able to discuss your reasoning and what you're doing is very important." - Brian Durbin
+
 - “Don't copy and paste. I know they push this more now, but seriously type every line of code out and then rewrite it. That helps it stick in your memory.” - Justin Kaseman
 
 - "Constantly writing something and struggling to figure things out is the best way to go. For example, you might struggle on a problem for 8+ hours (I certainly did) when you are starting to grind whiteboard questions, but as you get better at recognizing the patterns, the time it takes to think and write will become smaller by steps. Improvements are never linear. It was always big or small incremental improvement after days or even weeks for me." - Henry Kim
 
-- "If you don't have one, get a "rubber duck." This could be anything (a literal rubber duck, some toy that you have, something that you can talk to, etc.), and just talk to it. It seems odd at first, but it activates a different part of your brain when you vocalize what you're working on and the issues you're facing. You will find that you come to solutions faster this way. It's also great practice for future interviews as people expect you to be able to talk through what you're doing. Even if you don't come to a perfect solution, being able to discuss your reasoning and what you're doing is very important." - Brian Durbin
+- "My biggest suggestion would be that, even if you are sick of sitting and just finished MVP [for an assignment], go for the stretch. You will be better off knowledge-wise!" - Patrick Thompson
 
 ### Presentations
 
