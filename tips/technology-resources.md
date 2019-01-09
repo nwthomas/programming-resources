@@ -12,7 +12,6 @@
 - [Image Manipulation and Customization](#image-manipulation-and-customization)
 - [JavaScript](#javascript)
 - [Job Search](#job-search)
-- [Logic Problems and Whiteboarding Prep](#logic-problems-and-whiteboarding-prep)
 - [Machine Learning](#machine-learning)
 - [Mathematics](#math-and-logic-problems)
 - [PHP](#php)
@@ -21,6 +20,7 @@
 - [Studying and Productivity](#studying-and-productivity)
 - [Website Hosting and Setup](#website-hosting-and-setup)
 - [Website Inspiration](#website-inspiration)
+- [Whiteboarding Prep](#logic-problems-and-whiteboarding-prep)
 - [Addendum: Other Miscellaneous Resources](#addendum-other-miscellaneous-resources)
 
 ## Blogging
@@ -124,14 +124,6 @@
 - [The Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - An exhaustive behavioral interviewing question resource
 - [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
 
-## Logic Problems and Whiteboarding Prep
-
-- [Advent of Code](https://adventofcode.com/) - A great free annual resource for coding challenges
-- [CodeSignal](https://codesignal.com/) - A great free resource to hone your problem solving skills
-- [CodeWars](https://www.codewars.com/) - Complete katas (coding challenges) to rank up on the leaderboard and hone your skills on this free resource
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) - A free resource that has coding interview questions from companies including Amazon, Microsoft, and Google
-- [HackerRank](https://www.hackerrank.com/) - A free resource for code interview prep used by companies like AirBnB, Cisco, Dropbox, and Twitter
-
 ## Machine Learning
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
@@ -182,6 +174,15 @@
 
 - [awwwards.com](https://www.awwwards.com/) - A curated list of the internet's finest sites, ranked by design, speed, and other factors
 - [Hall of Fame| Pages](https://www.pages.xyz/) - Another curated list of beautiful sites, focused on single page applications
+
+## Whiteboarding Prep
+
+- [Advent of Code](https://adventofcode.com/) - A great free annual resource for coding challenges
+- [CodeSignal](https://codesignal.com/) - A great free resource to hone your problem solving skills
+- [CodeWars](https://www.codewars.com/) - Complete katas (coding challenges) to rank up on the leaderboard and hone your skills on this free resource
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) - A free resource that has coding interview questions from companies including Amazon, Microsoft, and Google
+- [HackerRank](https://www.hackerrank.com/) - A free resource for code interview prep used by companies like AirBnB, Cisco, Dropbox, and Twitter
+- [LeetCode](https://leetcode.com/) - A crazy awesome free resource containing great, real-world whiteboarding prep coding challenges
 
 ## Addendum: Other Miscellaneous Resources
 
