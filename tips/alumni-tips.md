@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Asking Questions](#asking-questions)
-2. [Blogging](#blogging)
+2. [Blogging Tips](#blogging-tips)
 3. [Capstone Project](#capstone-project-lambda-labs)
 4. [Focused Topics of Study](#focused-topics-of-study)
 5. [General Advice](#general-advice)
@@ -18,6 +18,10 @@
 14. [Taking Notes](#taking-notes)
 
 ### Asking Questions
+
+- "Be humble about the things that you don't know. Sometimes it's okay if you don't know someting, but you have to first try to help yourself." - Ryan Boris
+
+- "If you can't do something within a certain time frame, reach out for help. But you should always try to fix it before you reach out. Look around in dev tools and reach out to the web. You'll learn in time how to see patterns in certain things. The more problems you solve, the better you'll get at solving them in future." - Ryan Boris
 
 - “At any level of coding, there are no dumb questions no matter how dumb the question might actually seem. If you don't know the answer and you've searched for the answer yourself, please ask those who are more experienced. Ask your fellow buddies or PMs to fill in the blanks as soon as possible. It's better to leave no stones unturned than to find out later in your study that you should have figured it out beforehand.” - Henry Kim
 
@@ -46,6 +50,8 @@
 - “If you're comfortable with HTML and CSS, try and get as solid of a foundation as you can get in Javascript. Some of the more advanced JavaScript topics gave a good number of students from my cohort a tough time. Plus, React is built on those topics, so getting a solid JavaScript understanding can pave the way through the front-end section. Personally, I went through all but the last few algorithm sections for JavaScript on FreeCodeCamp. There is a YouTube channel called Traversy Media, and he has a tutorial on working with the DOM. That tutorial got me really prepared for the DOM sections at Lambda.” - Bernard Johnson
 
 ### General Advice
+
+- "There's an infinite amount of information out there, and the tech industry evolves so quickly that you could easily be learning something that will soon be deprecated. I would recommend that you start with the training kit, and don't let anythin overwhelm you outside of that. There's a reason we work in teams; if everyone was an expert in everything we wouldn't need a _back-end_ or a _front-end_ person." - Ryan Boris
 
 - “Do literally everything the instructors and staff tell you from the algorithm exercises to the resume formatting.” - William Pelton
 
@@ -78,6 +84,8 @@
 ### Pair Programming
 
 - "Don't ask people to pair program. Ask them what they are struggling with, and start solving little problems together... This keeps pair sessions from turning into purely hang outs." - JJ Ashcraft
+
+- "When you work in team for projects, there's a way to offer constructive criticism and also a way to take it. Criticism, offered well, does not make you any less of a developer. You can't sweat the small stuff. There will be people who try to take control of the group, but you have to be mindful of your biases; if you don't like someone, you will be predisposed not to listen to them. You need to be tactful about the way you approach them, listen to their opinion, and then try to suggest alternatives of different ways to try the thing that they are trying to do." - Ryan Boris
 
 - “Make sure you do pair programming. It could do you wonders, especially when you enter the computer science portion of the program. The PMs try to get students in their groups paired up together, but most of the time people have to seek that out [pair programming] on their own.” - Rachel DiCesare
 
@@ -115,6 +123,10 @@
 
 - "The best talks all have these things in common: Speaking is organized to sync with but not regurgitate visual materials, the talk goes in-depth about a specific thing (JSON Web Tokens, MongoDB Atlas, Resumes, Building a portfolio page with Gatsby, Testing Node applications with Jest, etc.), and it's tailored to the Lambda audience (i.e. people who know what a function is but might not know the time complexity of a nested for-loop)" - William Pelton
 
+### Productivity
+
+- "Get a schedule, and stick to it. But also be willing to adapt and be flexible with that schedule. Use Trello or Notion to plan out your week." - Ryan Boris
+
 ### Self-Assigned Studying
 
 - “Go beyond what the curriculum is. Don't bank on Lambda to be the end all. It is just scratching the surface. Stay curious and look up anything you hear that you don't know.” - Justin Kaseman
@@ -133,9 +145,11 @@
 
 - "There is a balance to everything. The curriculum is a marathon, not a sprint." - Nando Theessen
 
-- "Have enough money on the side to last not only the entire program but also a few months after. You want your full focus to be on the program, not partly worried about money or working on the side." - Nando Theessen.
+- "Have enough money on the side to last not only the entire program but also a few months after. You want your full focus to be on the program, not partly worried about money or working on the side." - Nando Theessen
 
 ### Self-Doubt
+
+- "Developers probably use only 20% of a language's features every day. Don't psych yourself - if you're using 20% of the language, you're probably on par with most other developers out there working, and you can look up the other 80%." - Ryan Boris
 
 - “Coding 9-5 daily is grueling. Some people really enjoy it. But for myself personally, I was starting to burn out about 4 months in. The more I learned, the more I realized I'm not great at coding, and my self-confidence tanked quite a bit in the process. If you do find yourself in the same situation, don't worry. Coding has a such demanding learning curve (more so when you get into more complex stuff later on), so don't lose heart. A lot of people (if not most) went through a similar experience in my cohort.” - Henry Kim
 

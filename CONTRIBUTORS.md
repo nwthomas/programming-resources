@@ -3,6 +3,7 @@
 JJ Ashcraft [LinkedIn](https://www.linkedin.com/in/jjashcraft/)<br/>
 Christopher Atoki [LinkedIn](https://www.linkedin.com/in/christopher-atoki/)<br/>
 Christopher Beards [LinkedIn](https://www.linkedin.com/in/christopher-beards-1292b529/)<br/>
+Ryan Boris [LinkedIn](https://www.linkedin.com/in/ryanboris/)<br/>
 Anthony Calderaro [LinkedIn](https://www.linkedin.com/in/anthonyjamescalderaro/)<br/>
 Rachel DiCesare [LinkedIn](https://www.linkedin.com/in/rachel-dicesare-a86889ba/)<br/>
 Thomas Dillard [LinkedIn](https://www.linkedin.com/in/thomasdillard/)<br/>
