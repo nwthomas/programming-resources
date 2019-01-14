@@ -78,11 +78,13 @@
 ## HTML
 
 - [W3C HTML Validation](https://validator.w3.org/) - Check your HTML code and validate it
+- [W3C's Nu HTML Validation - Beta](https://validator.w3.org/nu/) - The beta version of the same HTML checker you know and love
 
 ## Image Manipulation and Customization
 
 - [Google Chrome Labs Image Squoosh](https://github.com/GoogleChromeLabs/squoosh) - An image compression web app from Google
 - [MDN Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - A great article by Mozilla Developer Network on responsive images
+- [WebP Image Compression](https://developers.google.com/speed/webp/) - information on next generation WebP image compression (Should still include fallback for incompatable browsers, [more info](https://developers.google.com/speed/webp/faq#how_can_i_detect_browser_support_for_webp)
 
 ## Integrated Development Environments (IDEs) and Extensions
 
@@ -95,6 +97,7 @@
 #### Extensions
 
 - [(VSCode) AREPL for Python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl#overview) - Live, in-document display readouts of `print()` while writing Python
+- [(VSCode) ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Allows for complex configuration of linting rules, [AirBnB JavaScript Style Guide](http://airbnb.io/javascript/) suggested: [npm link](https://www.npmjs.com/package/eslint-config-airbnb)
 - [(VSCode) Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows live reload of a website while you edit it
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
 - [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
@@ -108,14 +111,17 @@
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/) - A deep dive into changes in ES2016 and 2017
 - [Greensock Animations Library](https://greensock.com/) - A supurb animations library that is easy to implement in JavaScript and is highly efficient
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix) - A book on functional programming for JavaScript
+- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - A thorough look at JavaScript Design Patterns
 - [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - A list of design patters for JavaScript
-- [JavaScript Spessore](https://github.com/raganwald/javascript-spessore) - A follow up for [JavaScript Allongé](https://leanpub.com/javascriptallongesix), it dives deeper into similar concepts, not strictly about functional programming.
+- [JavaScript Spessore](https://github.com/raganwald/javascript-spessore) - A follow up for [JavaScript Allongé](https://leanpub.com/javascriptallongesix), it dives deeper into similar concepts, not strictly about functional programming
+- [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A JavaScript visualizer that focuses on execution context
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Free tutorials covering most relevant JavaScript topics
 - [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - A deep dive into functional programming in JavaScript
 - [Rithm School Intermediate JavaScript](https://www.rithmschool.com/courses/intermediate-javascript) - A course moving past the basics of JavaScript
+- [Visualize JavaScript Execution](http://pythontutor.com/visualize.html) - Visualize JavaScript execution step by step
 - [Wes Bos' 30 Days of JavaScript Course](https://javascript30.com/) - A free course providing 30 days' worth of JavaScript challenges
 - [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - Another great free book to learn JavaScript
-- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - A thorough look at JavaScript Design Patterns
+
 
 ## Job Search
 
