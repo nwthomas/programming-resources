@@ -165,8 +165,8 @@
 
 - [Jasmine](https://jasmine.github.io/index.html) - A TTD package for quick, simple behavior-driven JavaScript testing that does not depend on any other frameworks
 - [Jest](https://jestjs.io/) - Facebook's answer to JavaScript TTD that provides great integration with React
-- [React Testing Library](https://github.com/kentcdodds/react-testing-library) - a very light-weight solution for testing React components by Kent C. Dodds
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) - A free Udacity course that goes over the basics of JavaScript unit testing With Jasmine, it's better as a _refresher_ or _introduction_ than a deep dive
+- [React Testing Library](https://github.com/kentcdodds/react-testing-library) - a very light-weight solution for testing React components by Kent C. Dodds
 
 ## Website Hosting and Setup
 
