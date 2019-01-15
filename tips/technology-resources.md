@@ -42,6 +42,7 @@
 - [Font Awesome](https://fontawesome.com/) - A supurb free (and also paid, depending on the image) site filled with awesome icons
 - [Icons8.com](https://icons8.com/) - A great free & paid resource for application icons
 - [Ionicons](https://ionicons.com/) - Contains many awesome free icons in svg format for you to use
+- [Nucleo Icons](https://nucleoapp.com/application) - A paid alternative for application icons
 
 ## CSS
 
@@ -90,7 +91,7 @@
 
 ## Integrated Development Environments (IDEs) and Extensions
 
-#### IDEs
+#### IDEs and Text Editors
 
 - [Atom](https://atom.io/) - A good "hackable text editor" that is a very popular choice
 - [Visual Studio Code](https://code.visualstudio.com/) - The free and most common choice for those attending Lambda School
@@ -103,6 +104,7 @@
 - [(VSCode) Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows live reload of a website while you edit it
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
 - [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
+- [(VSCODE) Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - An extension that allows students to quiz each other on whiteboarding problems in a live environment
 
 ## Javascript
 
@@ -123,7 +125,6 @@
 - [Visualize JavaScript Execution](http://pythontutor.com/visualize.html) - Visualize JavaScript execution step by step
 - [Wes Bos' 30 Days of JavaScript Course](https://javascript30.com/) - A free course providing 30 days' worth of JavaScript challenges
 - [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - Another great free book to learn JavaScript
-
 
 ## Job Search
 
