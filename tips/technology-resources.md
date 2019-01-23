@@ -1,4 +1,6 @@
-# Table of Contents
+# Technology Resources
+
+## Table of Contents
 
 - [Blogging](#blogging)
 - [Colors and Icons](#colors-and-icons)
@@ -35,7 +37,7 @@
 
 #### Colors
 
-- [Coolors.io](https://coolors.co/) - A great free website to both browse others' as well as create/save your own five-swatch colors palettes
+- [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
 
 #### Icons
 
@@ -129,9 +131,11 @@
 ## Job Search
 
 - [AngelList](https://angel.co/) - A great resource for applying to jobs in the tech/startup world
+- [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript) - A curated list of interview questions covering every language/framework/platform you can think of
+- [Back-end Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A collection of comprehensive back-end interview questions
+- [Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - An exhaustive behavioral interviewing question resource
+- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for front-end developer interviews
 - ["Your Resume is the Reason You're Not Getting Interviews" by Dominic White](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great Medium article on the importance of making your resume standing out
-- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for tech interviews
-- [The Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - An exhaustive behavioral interviewing question resource
 - [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
 
 ## Machine Learning
