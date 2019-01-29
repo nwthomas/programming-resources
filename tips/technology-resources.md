@@ -135,6 +135,7 @@
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript) - A curated list of interview questions covering every language/framework/platform you can think of
 - [Back-end Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A collection of comprehensive back-end interview questions
 - [Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - An exhaustive behavioral interviewing question resource
+- [Creddle](http://creddle.io/) - A free website to help you create a great resume
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for front-end developer interviews
 - ["Your Resume is the Reason You're Not Getting Interviews" by Dominic White](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great Medium article on the importance of making your resume standing out
 - [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
