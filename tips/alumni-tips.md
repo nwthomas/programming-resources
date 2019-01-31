@@ -19,7 +19,7 @@
 
 ### Asking Questions
 
-- "Be humble about the things that you don't know. Sometimes it's okay if you don't know someting, but you have to first try to help yourself." - Ryan Boris
+- "Be humble about the things that you don't know. Sometimes it's okay if you don't know something, but you have to first try to help yourself." - Ryan Boris
 
 - "If you can't do something within a certain time frame, reach out for help. But you should always try to fix it before you reach out. Look around in dev tools and reach out to the web. You'll learn in time how to see patterns in certain things. The more problems you solve, the better you'll get at solving them in future." - Ryan Boris
 
