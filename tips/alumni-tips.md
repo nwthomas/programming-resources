@@ -157,7 +157,7 @@
 
 - “This is the most a human being can learn in a six month period. It will feel like failing if you're doing it right. Labs may be the first time you will feel genuinely competent at this.” - William Pelton
 
-- "Anytime you have doubts about your ability, think about where you were on Day 0 of Lambda School compared to where you are now. Do you know more now than you did on Day 0? Great! It's been a successful venture. Don't let a hard topic get you discouraged. You know more than you did yesterday...keep going." - Christina Kopecky
+- "Anytime you have doubts about your ability, think about where you were on Day 0 of Lambda School compared to where you are now. Do you know more now than you did on Day 0? Great! It's been a successful venture. Don't let a hard topic get you discouraged. You know more than you did yesterday, so keep going." - Christina Kopecky
 
 ### Taking Notes
 
