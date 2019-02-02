@@ -29,6 +29,8 @@
 
 - “People learning right next to you are a great resource, but also just as likely not to know the answer as you. The docs are a fast, reliable way to get the right answer.” - William Pelton
 
+- "Sometimes just forming out the question to ask reveals the solution" - Andrew McLaughlin
+
 ### Blogging Tips
 
 - “It would be great if you could blog every week about your experiences at Lambda. I just read a PM’s blog, and I wish I had done that.” - Grant Reighard
@@ -58,6 +60,8 @@
 - “Be prepared for the next day by watching the precourse videos the night before (I believe this is the new standard they're going for anyway). Work on personal projects on the side and over weekends. Refine projects you work on during class so you can show them off to future employers.” - Grant Reighard
 
 - "No one is going to run after you and ask you to do the work that is necessary to become a great engineer. Lambda gives you great content and an even better support system, but you have to bring the drive and dedication to actually do it." - Nando Theessen
+
+- "You're going to like parts of the currculium, and you're going to have a less positive reaction to others." - Andrew McLaughlin
 
 ### Job Search
 
@@ -105,6 +109,10 @@
 
 - “Always go for the `.com` domain name for the most authority. You could alternately buy several and redirect one to the other.” - Grant Reighard
 
+- "An alternative to using a `.com` if you can't get your name can be a domain hack. I personally use `andrewmclaughl.in` and also have email forwarding set up for it. There's significantly more TLDs then you think." - Andrew McLaughlin
+
+- "Test your portfolio on everything. Different browsers and mobile. You never know when you'll want to show it to someone on your phone." - Andrew McLaughlin
+
 ### Practice
 
 - “Practice, practice. Each and every day, keep coding for at least an hour even if you have the day off. You don’t want to get rusty, but do _not_ burn yourself out. It is so important to take breaks.” - Rachel DiCesare
@@ -117,6 +125,12 @@
 
 - "My biggest suggestion would be that, even if you are sick of sitting and just finished MVP [for an assignment], go for the stretch. You will be better off knowledge-wise!" - Patrick Thompson
 
+- "Use your side projects to both explore something new and keep up old skills. Maybe this project you use that new UI library and practice your React, maybe the next you give Vue a shot and practice your Node." - Andrew McLaughlin
+
+- "A lot of people seem to have trouble thinking of side projects. Look in the show-it-off room for inspiration. I personally write down my ideas for them on sticky notes, but Trello is another good place. Don't just keep your side projects solo, working with others is a great way to practice working on a team before labs. Don't stop either, you'll have a much easier time remembering React if you did one or two React projects over the CS portion of Lambda." - Andrew McLaughlin
+
+- "The more code you write the more times you'll go 'Oh this is just like that time I had to do x on y project'." -Andrew McLaughlin
+
 ### Presentations
 
 - “Do at least one brown bag presentation [while in Lambda School].” - William Pelton
@@ -126,6 +140,8 @@
 ### Productivity
 
 - "Get a schedule, and stick to it. But also be willing to adapt and be flexible with that schedule. Use Trello or Notion to plan out your week." - Ryan Boris
+
+- "Learn your tools. Pick an editor and stick with it. Learn the shortcuts, find helpful extensions, and anything else that you can to make your time using it easier. You can add your own auto fill snippets to save you time. I personally have `git commit` bound to the pause break key which has caused me to commit more frequently." - Andrew McLaughlin 
 
 ### Self-Assigned Studying
 
@@ -146,6 +162,8 @@
 - "There is a balance to everything. The curriculum is a marathon, not a sprint." - Nando Theessen
 
 - "Have enough money on the side to last not only the entire program but also a few months after. You want your full focus to be on the program, not partly worried about money or working on the side." - Nando Theessen
+
+- "Try to get outside at least once a day. Go for a walk, listen to a podcast and think of something besides coding. I normally do this during lunch hour. Make this a habit and you will feel significantly better in the afternoon." - Andrew McLaughlin
 
 ### Self-Doubt
 
