@@ -3,10 +3,10 @@
 ## Table of Contents
 
 - [Blogging](#blogging)
-- [Colors and Icons](#colors-and-icons)
 - [CSS](#css)
 - [Cybersecurity](#cybersecurity)
 - [Data Science](#data-science)
+- [Design](#design)
 - [Front-end Frameworks and Libraries](#front-end-frameworks-and-libraries)
 - [Github](#github)
 - [HTML](#html)
@@ -33,19 +33,6 @@
 - ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/) - Great guide and awesome tips on getting started with a tech blog
 - [Medium](https://medium.com/) - The current popular choice for a free blogging platform in the tech industry
 
-## Colors and Icons
-
-#### Colors
-
-- [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
-
-#### Icons
-
-- [Font Awesome](https://fontawesome.com/) - A supurb free (and also paid, depending on the image) site filled with awesome icons
-- [Icons8.com](https://icons8.com/) - A great free & paid resource for application icons
-- [Ionicons](https://ionicons.com/) - Contains many awesome free icons in svg format for you to use
-- [Nucleo Icons](https://nucleoapp.com/application) - A paid alternative for application icons
-
 ## CSS
 
 - [Animista](https://css-tricks.com/) - Awesome CSS animations
@@ -67,6 +54,23 @@
 - [edX/IBM Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science-ibm) - A free course from IBM covering the basics of data science in Python
 - [edX/IBM Analyzing Data with Python](https://www.edx.org/course/data-analysis-with-python) - A free course from IBM on analyzing data using Python
 - [edX/IBM Visualizing Data with Python](https://www.edx.org/course/data-visualization-with-python) - Another free IBM course that covers data visualization
+
+## Design
+
+#### Assorted
+
+- [freebiesbug.com](https://freebiesbug.com/) - A list of great, random free design resources
+
+#### Colors
+
+- [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
+
+#### Icons
+
+- [Font Awesome](https://fontawesome.com/) - A supurb free (and also paid, depending on the image) site filled with awesome icons
+- [Icons8.com](https://icons8.com/) - A great free & paid resource for application icons
+- [Ionicons](https://ionicons.com/) - Contains many awesome free icons in svg format for you to use
+- [Nucleo Icons](https://nucleoapp.com/application) - A paid alternative for application icons
 
 ## Front-end Frameworks and Libraries
 
