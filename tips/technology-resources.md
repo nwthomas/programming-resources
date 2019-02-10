@@ -60,6 +60,7 @@
 #### Assorted
 
 - [freebiesbug.com](https://freebiesbug.com/) - A list of great, random free design resources
+- [humaaans](https://www.humaaans.com/) - A supurb mix-and-match library for illustrations fo people
 
 #### Colors
 
