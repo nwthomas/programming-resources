@@ -170,6 +170,6 @@
 - "Taking notes really helps information stick with me, and I keep it organized by week. I section off my notes into preclass notes (where I jot down something new that I think is important) and during class notes (where I'll add onto it). I also take notes on questions that are asked in the Slack channel and record what the answer is. I find note-taking on example code is really helpful especially when learning a new syntax. Finally, I find that code examples are a great reference during project time." - Eva Li
 
 ### React Tips
-![My React Learning Curve](../images/react.png)
+![My React Learning Curve](../images/react.png =250x)
 - "You WILL be doubting yourself at every step of the program, especially during the React portion. You might think everyone else knows what they're doing, and you're the only one who is struggling. You may be right, but you're probably wrong. Nevertheless, remember there's a guy called Ben Tsao who is struggling with you." - Ben Tsao 
 
