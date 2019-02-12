@@ -16,6 +16,7 @@
 12. [Self-Care](#self-care)
 13. [Self-Doubt](#self-doubt)
 14. [Taking Notes](#taking-notes)
+15. [React Tips](#React-Tips)
 
 ### Asking Questions
 
@@ -167,3 +168,8 @@
 - “Definitely take notes. Remember that there is almost never one way of doing things, so a good task to try is to always try to find other ways to do things that you learn." - Christopher Atoki
 
 - "Taking notes really helps information stick with me, and I keep it organized by week. I section off my notes into preclass notes (where I jot down something new that I think is important) and during class notes (where I'll add onto it). I also take notes on questions that are asked in the Slack channel and record what the answer is. I find note-taking on example code is really helpful especially when learning a new syntax. Finally, I find that code examples are a great reference during project time." - Eva Li
+
+### React Tips
+![My React Learning Curve](../images/react.png)
+- "You WILL be doubting yourself at every step of the program, especially during the React portion. You might think everyone else knows what they're doing, and you're the only one who is struggling. You may be right, but you're probably wrong. Nevertheless, remember there's a guy called Ben Tsao who is struggling with you." - Ben Tsao 
+
