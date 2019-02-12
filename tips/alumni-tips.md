@@ -158,9 +158,6 @@
 
 - “This is the most a human being can learn in a six month period. It will feel like failing if you're doing it right. Labs may be the first time you will feel genuinely competent at this.” - William Pelton
 
-- "You WILL be doubting yourself at every step of the program, especially during the React portion. You might think everyone else knows what they're doing, and you're the only one who is struggling. You may be right, but you're probably wrong. Nevertheless, remember there's a guy called Ben Tsao who is struggling with you." - Ben Tsao 
-[My React Learning Curve](../images/react.png)
-
 ### Taking Notes
 
 - "Stop reading this. Skip your Starbucks coffee this morning, drive down the street, and buy a mini whiteboard instead. I got mine for \$1. You should be practicing handwriting the main coding principles (like when you learn to write more advanced fucntions, async/await, promises, writing basic react components), and rewriting your weekly code challenges by hand." -JJ Ashcraft
