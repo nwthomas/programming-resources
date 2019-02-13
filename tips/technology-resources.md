@@ -228,4 +228,5 @@
 - [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 - [node.green](https://node.green/) - Compatability table for Node
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
+- [Postman Learning Resources](https://learning.getpostman.com/) - A great training center to understand how to use postman, essential for back-end work
 - [Wes Bos' Mastering Markdown Course](https://masteringmarkdown.com/) - A free course covering markdown (a useful technology used for things like writing this page you're reading) by Wes Bos
