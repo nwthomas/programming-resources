@@ -16,7 +16,6 @@
 12. [Self-Care](#self-care)
 13. [Self-Doubt](#self-doubt)
 14. [Taking Notes](#taking-notes)
-15. [React Tips](#React-Tips)
 
 ### Asking Questions
 
@@ -142,7 +141,7 @@
 
 - "Get a schedule, and stick to it. But also be willing to adapt and be flexible with that schedule. Use Trello or Notion to plan out your week." - Ryan Boris
 
-- "Learn your tools. Pick an editor and stick with it. Learn the shortcuts, find helpful extensions, and anything else that you can to make your time using it easier. You can add your own auto fill snippets to save you time. I personally have `git commit` bound to the pause break key which has caused me to commit more frequently." - Andrew McLaughlin 
+- "Learn your tools. Pick an editor and stick with it. Learn the shortcuts, find helpful extensions, and anything else that you can to make your time using it easier. You can add your own auto fill snippets to save you time. I personally have `git commit` bound to the pause break key which has caused me to commit more frequently." - Andrew McLaughlin
 
 ### Self-Assigned Studying
 
@@ -172,11 +171,13 @@
 
 - “Coding 9-5 daily is grueling. Some people really enjoy it. But for myself personally, I was starting to burn out about 4 months in. The more I learned, the more I realized I'm not great at coding, and my self-confidence tanked quite a bit in the process. If you do find yourself in the same situation, don't worry. Coding has a such demanding learning curve (more so when you get into more complex stuff later on), so don't lose heart. A lot of people (if not most) went through a similar experience in my cohort.” - Henry Kim
 
+- "Anytime you have doubts about your ability, think about where you were on Day 0 of Lambda School compared to where you are now. Do you know more now than you did on Day 0? Great! It's been a successful venture. Don't let a hard topic get you discouraged. You know more than you did yesterday, so keep going." - Christina Kopecky
+
 - "I self-doubt myself every second of my coding life, so it's important to look back and reflect on what I have accomplished, how far I've come, and making sure I'm comparing my present self to my past self. That usually gives me a confidence boost." - Eva Li
 
 - “This is the most a human being can learn in a six month period. It will feel like failing if you're doing it right. Labs may be the first time you will feel genuinely competent at this.” - William Pelton
 
-- "Anytime you have doubts about your ability, think about where you were on Day 0 of Lambda School compared to where you are now. Do you know more now than you did on Day 0? Great! It's been a successful venture. Don't let a hard topic get you discouraged. You know more than you did yesterday, so keep going." - Christina Kopecky
+- "You WILL be doubting yourself at every step of the program, especially during the React portion. You might think everyone else knows what they're doing, and you're the only one who is struggling. You may be right, but you're probably wrong. Nevertheless, remember there's a guy called Ben Tsao who is struggling with you." - Ben Tsao
 
 ### Taking Notes
 
@@ -185,10 +186,3 @@
 - “Definitely take notes. Remember that there is almost never one way of doing things, so a good task to try is to always try to find other ways to do things that you learn." - Christopher Atoki
 
 - "Taking notes really helps information stick with me, and I keep it organized by week. I section off my notes into preclass notes (where I jot down something new that I think is important) and during class notes (where I'll add onto it). I also take notes on questions that are asked in the Slack channel and record what the answer is. I find note-taking on example code is really helpful especially when learning a new syntax. Finally, I find that code examples are a great reference during project time." - Eva Li
-
-### React Tips
-
-<img src="../images/react.png" width="100%"/>
-
-- "You WILL be doubting yourself at every step of the program, especially during the React portion. You might think everyone else knows what they're doing, and you're the only one who is struggling. You may be right, but you're probably wrong. Nevertheless, remember there's a guy called Ben Tsao who is struggling with you." - Ben Tsao 
-
