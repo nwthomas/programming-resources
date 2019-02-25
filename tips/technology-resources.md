@@ -113,6 +113,7 @@
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
 - [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
 - [(VSCODE) Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - An extension that allows students to quiz each other on whiteboarding problems in a live environment
+- [(VSCODE) Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)- Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 
 ## Javascript
 
