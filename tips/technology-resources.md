@@ -31,7 +31,7 @@
 - [Carbon](https://carbon.now.sh) - Tweet, export, or embed coding snippets beautifully with Carbon
 - [Dev.To](https://dev.to/) - An up-and-coming blogging community focused on software development and tech
 - ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/) - Great guide and awesome tips on getting started with a tech blog
-- [Medium](https://medium.com/) - The current popular choice for a free blogging platform in the tech industry
+- [Medium](https://medium.com/) - A decent choice for blogging, but paywalls a lot of content after you read three articles per month even if you're a content creator
 
 ## CSS
 
@@ -108,12 +108,12 @@
 
 - [(VSCode) AREPL for Python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl#overview) - Live, in-document display readouts of `print()` while writing Python
 - [(VSCode) Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) - Opens a browser inside VSCode that allows you to debug without leaving the application
-- [(VSCode) ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Allows for complex configuration of linting rules, [AirBnB JavaScript Style Guide](http://airbnb.io/javascript/) suggested: [npm link](https://www.npmjs.com/package/eslint-config-airbnb)
+- [(VSCode) ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Allows for complex configuration of linting rules, [AirBnB JavaScript Style Guide](http://airbnb.io/javascript/) suggested: [npm link]
+- [(VSCODE) Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)- Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.(https://www.npmjs.com/package/eslint-config-airbnb)
 - [(VSCode) Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows live reload of a website while you edit it
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
 - [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
 - [(VSCODE) Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - An extension that allows students to quiz each other on whiteboarding problems in a live environment
-- [(VSCODE) Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)- Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 
 ## Javascript
 
