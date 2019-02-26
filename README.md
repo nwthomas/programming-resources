@@ -28,5 +28,5 @@ If you are an alumni or a member of an older cohort that would like to pass on t
 ## Acknowledgments
 
 - Thanks to whomever started the LinkedIn spreadsheet inside of Lambda School. It is a great networking tool.
-- Thanks to Austin Allred and the entire staff at Lambda School for the work that you do in training the bright minds of tomorrow. We appreciate you and your vision.
+- Thanks to Austen Allred and the entire staff at Lambda School for the work that you do in training the bright minds of tomorrow. We appreciate you and your vision.
 - Cover page photography by [Alexander Milo](https://unsplash.com/photos/5g5MLKq-QxM) on [Unsplash.com](https://unsplash.com/)
