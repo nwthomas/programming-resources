@@ -10,6 +10,7 @@
 - [Front-end Frameworks and Libraries](#front-end-frameworks-and-libraries)
 - [Github](#github)
 - [HTML](#html)
+- [HTTP Calls and Requests](#http-calls-and-requests)
 - [Integrated Development Environments (IDEs) and Extensions](#integrated-development-environments-ides-and-extensions)
 - [Image Manipulation and Customization](#image-manipulation-and-customization)
 - [JavaScript](#javascript)
@@ -19,6 +20,7 @@
 - [PHP](#php)
 - [Practice Projects](#practice-projects)
 - [Python](#python)
+- [Server Architecture and Design](#server-architecture-and-design)
 - [Studying and Productivity](#studying-and-productivity)
 - [Test Driven Development](#test-driven-development)
 - [Website Hosting and Setup](#website-hosting-and-setup)
@@ -90,6 +92,10 @@
 - [W3C HTML Validation](https://validator.w3.org/) - Check your HTML code and validate it
 - [W3C's Nu HTML Validation - Beta](https://validator.w3.org/nu/) - The beta version of the same HTML checker you know and love
 
+## HTTP Calls and Requests
+
+- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+
 ## Image Manipulation and Customization
 
 - [Google Chrome Labs Image Squoosh](https://github.com/GoogleChromeLabs/squoosh) - An image compression web app from Google
@@ -119,6 +125,7 @@
 
 - [Arrayzing](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42#user-content-create-an-array) - Gives you answer on how to manage arrays by indexing topics from what you want to do, not the method names
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
+- [D3 - Data-Driven Documents](https://d3js.org/) - A fantastic javascript library for manipulating documents based on data
 - [ECMA-262](https://tc39.github.io/ecma262/) - The defacto living standards guide for JavaScript
 - [Eloquent Javascript by Marijn Haverbeke](https://github.com/marijnh/Eloquent-JavaScript) - A great free book the learning JavaScript
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/) - A deep dive into changes in ES2016 and 2017
@@ -174,6 +181,11 @@
 - [edX/Microsoft Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2) - A free introductory course from Microsoft on Python
 - [edX/Microsoft Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-2) - A free course that builds on Microsoft's absolute beginner Python course listed above
 - [MIT Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - MIT's free introductory course on Python
+
+## Server Architecture and Design
+
+- [SQL Tutorial](http://www.sqltutorial.org/) - A great resource for honing your skills in SQL
+- [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
 
 ## Studying and Productivity
 

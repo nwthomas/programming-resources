@@ -15,7 +15,7 @@ It is because of this that I decided to compile everything into a single place a
 
 ## Getting Involved
 
-If you are an alumni or a member of an older cohort that would like to pass on tips for success to new classes and cohorts at Lambda, please either contact me on Slack or submit a pull request to update this repository. This document is meant to grow with time.
+If you are an alumnus or a member of an older cohort that would like to pass on tips for success to new classes and cohorts at Lambda, please either contact me on Slack or submit a pull request to update this repository. This document is meant to grow with time.
 
 1. [Contributors](CONTRIBUTORS.md)
 2. [How to Contribute](CONTRIBUTING.md)
