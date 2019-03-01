@@ -38,6 +38,7 @@
 ## CSS
 
 - [Animista](https://css-tricks.com/) - Awesome CSS animations
+- [CSS Doodle](https://css-doodle.com/) - Amazing web component that allows you to build out custom css-animated content ([tutorials are here](https://alligator.io/css/patterns-css-doodle/))
 - [CSS-Tricks](https://css-tricks.com/) - Database of information and details about CSS code
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
 - [Fancy Border Radius](https://github.com/9elements/fancy-border-radius) - Building simple custom shapes with CSS' `border-radius` property
