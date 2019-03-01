@@ -72,6 +72,7 @@
 
 - [Font Awesome](https://fontawesome.com/) - A supurb free (and also paid, depending on the image) site filled with awesome icons
 - [Icons8.com](https://icons8.com/) - A great free & paid resource for application icons
+- [Icons SVG](https://iconsvg.xyz/) - A free resource for generating your own common svg icons for use in your projects
 - [Ionicons](https://ionicons.com/) - Contains many awesome free icons in svg format for you to use
 - [Nucleo Icons](https://nucleoapp.com/application) - A paid alternative for application icons
 
