@@ -19,7 +19,7 @@ William Pelton [LinkedIn](https://www.linkedin.com/in/william-pelton/)<br/>
 Grant Reighard [LinkedIn](https://www.linkedin.com/in/grantreighard/)<br/>
 Cecil John Tantay [LinkedIn](https://www.linkedin.com/in/cjtantay/)<br/>
 Nando Theessen [LinkedIn](https://www.linkedin.com/in/nandotheessen/)<br/>
-Nathan Thomas [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/)
+Nathan Thomas [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/)<br/>
 Patrick Thompson [LinkedIn](https://www.linkedin.com/in/patrick-thompson-the-code-guy/)<br/>
 Ben Tsao [LinkedIn](https://www.linkedin.com/in/cbtsao/)<br/>
 Randall Whitlock [LinkedIn](https://www.linkedin.com/in/randallwhitlock/)<br/>

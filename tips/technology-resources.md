@@ -186,6 +186,7 @@
 
 ## Server Architecture and Design
 
+- [Sheety](https://sheety.co/) - Turn any google sheet into an API instantly
 - [SQL Tutorial](http://www.sqltutorial.org/) - A great resource for honing your skills in SQL
 - [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
 
