@@ -21,6 +21,10 @@ If you are an alumnus or a member of an older cohort that would like to pass on 
 2. [How to Contribute](CONTRIBUTING.md)
 3. [License](LICENSE)
 
+## Project Management
+
+- Check out the [Trello Board](https://trello.com/b/uxsSSTUE/alumni-tips-repository) for this project to see what tasks have been completed so far and what still needs to be done
+
 ## Author
 
 - **Nathan Thomas** - [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/), [GitHub](https://github.com/nwthomas), Lambda Slack username _nwthomas_
