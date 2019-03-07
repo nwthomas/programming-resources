@@ -63,6 +63,8 @@
 
 - "You're going to like parts of the currculium, and you're going to have a less positive reaction to others." - Andrew McLaughlin
 
+- “You get out what you put in. If you put in the work and you put in the effort, you’re going to get hired and you’re absolutely going to love the position you are in.” - Blake Fletcher
+
 ### Job Search
 
 - "Make your Twitter account now. I refused to use Twitter until about 6 months in, when I realized the value it carries because the majority of the staff are active on there. Building a great labs project + Twitter = job opportunities and interviews. Want proof? Look at my posts from December 2018. @ashcraft_jj on Twitter." - JJ Ashcraft
@@ -84,6 +86,8 @@
 - "Write awesome cover letters. I've got stories about interviews that I wouldn't have gotten without strong cover letters (and I did a lot of interviews)!" - Randall Whitlock
 
 - "Choose interesting side projects. Anything using IBM Watson or another AI-related API to analyze sets of data and evaluate information is a great talking piece in an interview." - Randall Whitlock
+
+- “Take notice of the top 5-10 companies that would make you over the moon to start at as a new developer and focus more energy on those. That’s you first tier, so you should be spending 4-or-more hours preparing for those applications. You should be asking yourself, "What can I send in on top of a normal application to make me stand out?" See if you can network with people inside the company that can cheer-lead your path into it. The next step is to take a look at the other 60% of companies (the second tier) you’re interested in. Personalizing these is still important and can be as easy as watching and reading content on their mission or values then summarizing that in your applications. The final third tier of companies should be something you don’t spend a lot of time on - one click apply to these ones.” - Blake Fletcher
 
 ### Pair Programming
 
@@ -112,6 +116,8 @@
 - "An alternative to using a `.com` if you can't get your name can be a domain hack. I personally use `andrewmclaughl.in` and also have email forwarding set up for it. There's significantly more TLDs then you think." - Andrew McLaughlin
 
 - "Test your portfolio on everything. Different browsers and mobile. You never know when you'll want to show it to someone on your phone." - Andrew McLaughlin
+
+“The best advice I’ve gotten and now always give when it comes to portfolio sites came from Brady, the CS instructor. He said, ‘Design your website and choose your projects to show off the skills required for the job you will eventually have.’ For instance, if you’re front-end focused, design from your navbar to your footer should be on point; if you’re back-end, scalability and security should be solid.” - Blake Fletcher
 
 ### Practice
 
@@ -149,6 +155,8 @@
 
 - “Spend the extra time doing code challenges outside of the daily one.” - Kyle Kauzlarich
 
+- “For me, the curriculum could sometimes feel like I was being assigned books to read like back in high school. Once you’re done with the curriculum, at the end of the week or the end of the program, take the learning ability you’ve developed by reading the “assigned books” and apply it to reading (building) whatever you’re curious about.” - Blake Fletcher
+
 ### Self-Care
 
 - "Be sure to take many breaks, eat healthy meals, and get yourself out of the house as much as possible. Don’t stay up so late coding, and always get a good nights rest. I always try to do 10-15 minute breaks. I usually eat and drink something and take a step outside to go for a walk." - Rachel DiCesare
@@ -164,6 +172,8 @@
 - "Have enough money on the side to last not only the entire program but also a few months after. You want your full focus to be on the program, not partly worried about money or working on the side." - Nando Theessen
 
 - "Try to get outside at least once a day. Go for a walk, listen to a podcast and think of something besides coding. I normally do this during lunch hour. Make this a habit and you will feel significantly better in the afternoon." - Andrew McLaughlin
+
+- “Prioritize the obvious things like food, sleep, etc., but also know that you’re in for a slog. If you want outsized results, you will have to work really freakin’ hard.” - Blake Fletcher
 
 ### Self-Doubt
 
