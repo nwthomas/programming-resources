@@ -15,6 +15,7 @@ Justin Kaseman [LinkedIn](https://www.linkedin.com/in/justin-kaseman/)<br/>
 Eva Li [LinkedIn](https://www.linkedin.com/in/li-eva/)<br/>
 Kyle Kauzlarich [LinkedIn](https://www.linkedin.com/in/kyle-kauzlarich-781b86140/)<br/>
 Henry Kim [LinkedIn](https://www.linkedin.com/in/henrykim212/)<br/>
+Andrew McLaughlin [LinkedIn](https://www.linkedin.com/in/andrewbmclaughlin/)<br/>
 John Miranda [LinkedIn](https://www.linkedin.com/in/john-benedict-miranda-7b2357180/)<br/>
 Jason Nuhn [LinkedIn](https://www.linkedin.com/in/jasonnuhn/)<br/>
 William Pelton [LinkedIn](https://www.linkedin.com/in/william-pelton/)<br/>

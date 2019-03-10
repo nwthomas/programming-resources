@@ -55,6 +55,8 @@
 
 - "There's an infinite amount of information out there, and the tech industry evolves so quickly that you could easily be learning something that will soon be deprecated. I would recommend that you start with the training kit, and don't let anythin overwhelm you outside of that. There's a reason we work in teams; if everyone was an expert in everything we wouldn't need a _back-end_ or a _front-end_ person." - Ryan Boris
 
+- “You get out what you put in. If you put in the work and you put in the effort, you’re going to get hired and you’re absolutely going to love the position you are in.” - Blake Fletcher
+
 - "You're going to like parts of the currculium, and you're going to have a less positive reaction to others." - Andrew McLaughlin
 
 - “Do literally everything the instructors and staff tell you from the algorithm exercises to the resume formatting.” - William Pelton
@@ -72,6 +74,8 @@
 - "Start your portfolio page from something like the second week after you learn HTML and CSS and then continue to update and add new features as you learn new things.” - Christopher Atoki
 
 - "Find a few companies that you really want to work for and build side projects that use similar technologies to what they use. For instance, if you want to work at Stripe, try making an app that incorporates their API to accept payments. Having direct experience with a company's technologies beyond the generic full stack JavaScript frameworks shows genuine interest and can put you above other candidates who don't have experience working with those technologies." - Anthony Calderaro
+
+- “Take notice of the top 5-10 companies that would make you over the moon to start at as a new developer and focus more energy on those. That’s you first tier, so you should be spending 4-or-more hours preparing for those applications. You should be asking yourself, "What can I send in on top of a normal application to make me stand out?" See if you can network with people inside the company that can cheer-lead your path into it. The next step is to take a look at the other 60% of companies (the second tier) you’re interested in. Personalizing these is still important and can be as easy as watching and reading content on their mission or values then summarizing that in your applications. The final third tier of companies should be something you don’t spend a lot of time on - one click apply to these ones.” - Blake Fletcher
 
 - “Lambda will have your back every step of the way. Try to stand out as someone who will evangelize for the school and look out for other students, and they're going to want to make sure their name is stamped to you in a good job somewhere. Basically, they take care of their own, so try and make sure you brand yourself as a team player (if that makes sense).” - Austin Howes
 
@@ -105,13 +109,14 @@
 
 - “Pick either `.com` or `.io` [for your domain name]. I probably wouldn’t use `.net`. I would even use `.code` before `.net`.” - Christopher Atoki
 
+- “Always go for the `.com` domain name for the most authority. You could alternately buy several and redirect one to the other.” - Grant Reighard
+  “The best advice I’ve gotten and now always give when it comes to portfolio sites came from Brady, the CS instructor. He said, ‘Design your website and choose your projects to show off the skills required for the job you will eventually have.’ For instance, if you’re front-end focused, design from your navbar to your footer should be on point; if you’re back-end, scalability and security should be solid.” - Blake Fletcher
+
 - "An alternative to using a `.com` if you can't get your name can be a domain hack. I personally use `andrewmclaughl.in` and also have email forwarding set up for it. There's significantly more TLDs then you think." - Andrew McLaughlin
 
 - "Test your portfolio on everything. Different browsers and mobile. You never know when you'll want to show it to someone on your phone." - Andrew McLaughlin
 
 - “Buy a good domain name and host it if you can afford it. I got grantreighard.com.” - Grant Reighard
-
-- “Always go for the `.com` domain name for the most authority. You could alternately buy several and redirect one to the other.” - Grant Reighard
 
 ### Practice
 
@@ -145,6 +150,8 @@
 
 ### Self-Assigned Studying
 
+- “For me, the curriculum could sometimes feel like I was being assigned books to read like back in high school. Once you’re done with the curriculum, at the end of the week or the end of the program, take the learning ability you’ve developed by reading the “assigned books” and apply it to reading (building) whatever you’re curious about.” - Blake Fletcher
+
 - “Go beyond what the curriculum is. Don't bank on Lambda to be the end all. It is just scratching the surface. Stay curious and look up anything you hear that you don't know.” - Justin Kaseman
 
 - “Spend the extra time doing code challenges outside of the daily one.” - Kyle Kauzlarich
@@ -152,6 +159,8 @@
 ### Self-Care
 
 - "Be sure to take many breaks, eat healthy meals, and get yourself out of the house as much as possible. Don’t stay up so late coding, and always get a good nights rest. I always try to do 10-15 minute breaks. I usually eat and drink something and take a step outside to go for a walk." - Rachel DiCesare
+
+- “Prioritize the obvious things like food, sleep, etc., but also know that you’re in for a slog. If you want outsized results, you will have to work really freakin’ hard.” - Blake Fletcher
 
 - “Keeping a life balance to avoid burnout is important. Eat healthy, drink water, exercise, meditate, and take breaks.” - Justin Kaseman
 
