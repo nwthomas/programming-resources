@@ -2,12 +2,14 @@
 
 ## Table of Contents
 
+- [Back-end Frameworks and Design](#server-architecture-and-design)
 - [Blogging](#blogging)
 - [CSS](#css)
 - [Cybersecurity](#cybersecurity)
 - [Data Science](#data-science)
 - [Design](#design)
-- [Front-end Frameworks and Libraries](#front-end-frameworks-and-libraries)
+- [Documentation](#documentation)
+- [Front-end Frameworks and Design](#front-end-frameworks-and-libraries)
 - [Github](#github)
 - [HTML](#html)
 - [HTTP Calls and Requests](#http-calls-and-requests)
@@ -20,13 +22,25 @@
 - [PHP](#php)
 - [Practice Projects](#practice-projects)
 - [Python](#python)
-- [Server Architecture and Design](#server-architecture-and-design)
 - [Studying and Productivity](#studying-and-productivity)
 - [Test Driven Development](#test-driven-development)
 - [Website Hosting and Setup](#website-hosting-and-setup)
 - [Website Inspiration](#website-inspiration)
 - [Whiteboarding Prep](#logic-problems-and-whiteboarding-prep)
 - [Addendum: Other Miscellaneous Resources](#addendum-other-miscellaneous-resources)
+
+## Back-End Frameworks and Design
+
+#### Server Achitecture and Design Links
+
+- [Sheety](https://sheety.co/) - Turn any google sheet into an API instantly
+- [SQL Tutorial](http://www.sqltutorial.org/) - A great resource for honing your skills in SQL
+- [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
+
+#### NPM Modules
+
+- [Faker.js](https://www.npmjs.com/package/faker) - Generate massive amounts of fake data in the browser and node.js
+- [Passport.js](http://www.passportjs.org/packages/) - Custom social media authentication and authorization middleware
 
 ## Blogging
 
@@ -77,7 +91,11 @@
 - [Ionicons](https://ionicons.com/) - Contains many awesome free icons in svg format for you to use
 - [Nucleo Icons](https://nucleoapp.com/application) - A paid alternative for application icons
 
-## Front-end Frameworks and Libraries
+## Documentation
+
+- [ForTheBadge.com](https://forthebadge.com/) - A site that generates some fun and colorful readme tags for your projects
+
+## Front-end Frameworks and Design
 
 - [Tyler McGinnis' React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - A phenomenal free resource to train your React skills
 - [React Patterns](https://reactpatterns.com/) - A snapshot of React patterns, great for a quick refresher
@@ -183,12 +201,6 @@
 - [edX/Microsoft Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2) - A free introductory course from Microsoft on Python
 - [edX/Microsoft Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-2) - A free course that builds on Microsoft's absolute beginner Python course listed above
 - [MIT Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - MIT's free introductory course on Python
-
-## Server Architecture and Design
-
-- [Sheety](https://sheety.co/) - Turn any google sheet into an API instantly
-- [SQL Tutorial](http://www.sqltutorial.org/) - A great resource for honing your skills in SQL
-- [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
 
 ## Studying and Productivity
 
