@@ -33,9 +33,11 @@
 
 #### Server Achitecture and Design Links
 
+- [dbdesigner.net](https://www.dbdesigner.net/) - A free quality data table mockup tool for building the layout of your database
+- [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
+- [Mockaroo](https://www.mockaroo.com/) - A free tool for data mocking and generation
 - [Sheety](https://sheety.co/) - Turn any google sheet into an API instantly
 - [SQL Tutorial](http://www.sqltutorial.org/) - A great resource for honing your skills in SQL
-- [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
 
 #### NPM Modules
 
@@ -82,6 +84,7 @@
 #### Colors
 
 - [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
+- [0to255](http://www.0to255.com/facade) - Allows you to pick shades of colors based on the values you input
 
 #### Icons
 
