@@ -140,9 +140,9 @@
 - [(VSCode) ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Allows for complex configuration of linting rules, [AirBnB JavaScript Style Guide](http://airbnb.io/javascript/) suggested: [npm link]
 - [(VSCODE) Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)- Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.(https://www.npmjs.com/package/eslint-config-airbnb)
 - [(VSCode) Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows live reload of a website while you edit it
+- [(VSCODE) Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - An extension that allows students to quiz each other on whiteboarding problems in a live environment
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
 - [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
-- [(VSCODE) Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - An extension that allows students to quiz each other on whiteboarding problems in a live environment
 
 ## Javascript
 
