@@ -57,6 +57,7 @@
 - [CSS Doodle](https://css-doodle.com/) - Amazing web component that allows you to build out custom css-animated content ([tutorials are here](https://alligator.io/css/patterns-css-doodle/))
 - [CSS-Tricks](https://css-tricks.com/) - Database of information and details about CSS code
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
+- [CubicBezier.com](http://cubic-bezier.com/#.17,.67,.83,.67) - A free resource for visually developing cubic bezier curves for CSS animations
 - [Fancy Border Radius](https://github.com/9elements/fancy-border-radius) - Building simple custom shapes with CSS' `border-radius` property
 - [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2?sk=fa94a4ec74ddef706e41d3011eecc184%3Fv%3D2) - An excellent animated blog post about the different Flexbox commands
 - [Grid to Flexbox](https://www.gridtoflex.com/) - Flexbox fallbacks for popular UI solutions that use CSS Grid
@@ -116,6 +117,7 @@
 
 ## HTML
 
+- [HTML Reference](https://htmlreference.io/) - A quick resource to research all HTML attributes
 - [W3C HTML Validation](https://validator.w3.org/) - Check your HTML code and validate it
 - [W3C's Nu HTML Validation - Beta](https://validator.w3.org/nu/) - The beta version of the same HTML checker you know and love
 
