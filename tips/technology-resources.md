@@ -86,6 +86,10 @@
 - [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
 - [0to255](http://www.0to255.com/facade) - Allows you to pick shades of colors based on the values you input
 
+#### Fonts
+
+- [Google Fonts](https://fonts.google.com/) - A free resource for high-quality, copyright free fonts straight from Google
+
 #### Icons
 
 - [Font Awesome](https://fontawesome.com/) - A supurb free (and also paid, depending on the image) site filled with awesome icons
@@ -256,6 +260,7 @@
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) - A lenghty repository of free programming books provided by the Ebook foundation
 - [Front-End Checklist](https://frontendchecklist.io/) - An easy checklist to ensure projects are following best web practises
 - [GoalKicker Free Programming Books](https://goalkicker.com/) - A website with a ton of awesome free books composed of notes on various programming topics and technologies
+- [InternetingIsHard.com](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners
 - [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 - [node.green](https://node.green/) - Compatability table for Node
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
