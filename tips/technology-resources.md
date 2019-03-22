@@ -10,7 +10,7 @@
 - [Design](#design)
 - [Documentation](#documentation)
 - [Front-end Frameworks and Design](#front-end-frameworks-and-libraries)
-- [Github](#github)
+- [Git](#git)
 - [HTML](#html)
 - [HTTP Calls and Requests](#http-calls-and-requests)
 - [Integrated Development Environments (IDEs) and Extensions](#integrated-development-environments-ides-and-extensions)
@@ -109,8 +109,9 @@
 - [React Patterns](https://reactpatterns.com/) - A snapshot of React patterns, great for a quick refresher
 - [React In Patterns](https://github.com/krasimir/react-in-patterns) - An opinionated look at React patterns
 
-## GitHub
+## Git
 
+- [Atlassian Git Tutorial](https://www.atlassian.com/git) - A free tutorial to learn the basics of Git flow
 - [Oh shit, git!](https://ohshitgit.com/) - A selected list of useful Git commands
 - [How to Write a Good Commit Message](https://chris.beams.io/posts/git-commit/) - A great guide on writing clean and best practice commit messages in Git
 - [Try GitHub](http://try.github.io/) - GitHub's own list of resources to learn Git/Github.
