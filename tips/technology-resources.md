@@ -9,7 +9,7 @@
 - [Data Science](#data-science)
 - [Design](#design)
 - [Documentation](#documentation)
-- [Front-end Frameworks and Design](#front-end-frameworks-and-libraries)
+- [Front-end Frameworks](#front-end-frameworks)
 - [Git](#git)
 - [HTML](#html)
 - [HTTP Calls and Requests](#http-calls-and-requests)
@@ -22,6 +22,7 @@
 - [PHP](#php)
 - [Practice Projects](#practice-projects)
 - [Python](#python)
+- [Responsive Design](#responsive-design)
 - [Studying and Productivity](#studying-and-productivity)
 - [Test Driven Development](#test-driven-development)
 - [Website Hosting and Setup](#website-hosting-and-setup)
@@ -103,7 +104,7 @@
 
 - [ForTheBadge.com](https://forthebadge.com/) - A site that generates some fun and colorful readme tags for your projects
 
-## Front-end Frameworks and Design
+## Front-end Frameworks
 
 - [Tyler McGinnis' React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - A phenomenal free resource to train your React skills
 - [React Patterns](https://reactpatterns.com/) - A snapshot of React patterns, great for a quick refresher
@@ -212,6 +213,11 @@
 - [edX/Microsoft Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-2) - A free course that builds on Microsoft's absolute beginner Python course listed above
 - [MIT Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - MIT's free introductory course on Python
 
+## Responsive Design
+
+- [Media Genesis Popular Screen Resolutions](https://mediag.com/blog/popular-screen-resolutions-designing-for-all/) - A resource to view devices with their associated screen size, resolution, and viewport size
+- [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
+
 ## Studying and Productivity
 
 - [CodePen.io](https://codepen.io/) - A phenomenal site that allows you to quickly practice coding HTML, CSS, and Javascript files online
@@ -264,7 +270,6 @@
 - [Front-End Checklist](https://frontendchecklist.io/) - An easy checklist to ensure projects are following best web practises
 - [GoalKicker Free Programming Books](https://goalkicker.com/) - A website with a ton of awesome free books composed of notes on various programming topics and technologies
 - [InternetingIsHard.com](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners
-- [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 - [node.green](https://node.green/) - Compatability table for Node
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
 - [Postman Learning Resources](https://learning.getpostman.com/) - A great training center to understand how to use postman, essential for back-end work
