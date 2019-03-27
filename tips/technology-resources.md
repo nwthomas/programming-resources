@@ -22,6 +22,7 @@
 - [PHP](#php)
 - [Practice Projects](#practice-projects)
 - [Python](#python)
+- [Regex](#regex)
 - [Responsive Design](#responsive-design)
 - [Studying and Productivity](#studying-and-productivity)
 - [Test Driven Development](#test-driven-development)
@@ -212,6 +213,11 @@
 - [edX/Microsoft Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2) - A free introductory course from Microsoft on Python
 - [edX/Microsoft Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-2) - A free course that builds on Microsoft's absolute beginner Python course listed above
 - [MIT Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - MIT's free introductory course on Python
+
+## Regex
+
+- [Regex 101](https://regex101.com/) - A resource that allows you to write regex and receive live readouts on what it does and the effects on a test string
+- [Regexr](https://regexr.com/) - Another resource for building regex expressions and understanding what they do
 
 ## Responsive Design
 
