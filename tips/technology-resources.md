@@ -145,6 +145,7 @@
 #### Extensions
 
 - [(VSCode) AREPL for Python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl#overview) - Live, in-document display readouts of `print()` while writing Python
+- [(VSCODE) Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Automatically adds browser prefixer styles for needed styles to your code whenever it is run
 - [(VSCode) Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) - Opens a browser inside VSCode that allows you to debug without leaving the application
 - [(VSCode) ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Allows for complex configuration of linting rules, [AirBnB JavaScript Style Guide](http://airbnb.io/javascript/) suggested: [npm link]
 - [(VSCODE) Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)- Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.(https://www.npmjs.com/package/eslint-config-airbnb)
