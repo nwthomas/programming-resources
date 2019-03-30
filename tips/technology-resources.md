@@ -82,12 +82,12 @@
 #### Assorted
 
 - [freebiesbug.com](https://freebiesbug.com/) - A list of great, random free design resources
-- [humaaans](https://www.humaaans.com/) - A supurb mix-and-match library for illustrations fo people
+- [humaaans](https://www.humaaans.com/) - A supurb mix-and-match library for illustrations of people
 
 #### Colors
 
-- [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
 - [0to255](http://www.0to255.com/facade) - Allows you to pick shades of colors based on the values you input
+- [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
 
 #### Fonts
 
@@ -104,6 +104,7 @@
 ## Documentation
 
 - [ForTheBadge.com](https://forthebadge.com/) - A site that generates some fun and colorful readme tags for your projects
+- [JSDoc](http://usejsdoc.org/) - Inline documentation that comes standard in common JavaScript code editors
 
 ## Front-end Frameworks
 
@@ -145,12 +146,12 @@
 #### Extensions
 
 - [(VSCode) AREPL for Python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl#overview) - Live, in-document display readouts of `print()` while writing Python
-- [(VSCODE) Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Automatically adds browser prefixer styles for needed styles to your code whenever it is run
+- [(VSCode) Autoprefixer](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer) - Automatically adds browser prefixer styles for needed styles to your code whenever it is run
 - [(VSCode) Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) - Opens a browser inside VSCode that allows you to debug without leaving the application
 - [(VSCode) ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Allows for complex configuration of linting rules, [AirBnB JavaScript Style Guide](http://airbnb.io/javascript/) suggested: [npm link]
-- [(VSCODE) Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)- Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.(https://www.npmjs.com/package/eslint-config-airbnb)
+- [(VSCode) Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)- Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.(https://www.npmjs.com/package/eslint-config-airbnb)
 - [(VSCode) Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows live reload of a website while you edit it
-- [(VSCODE) Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - An extension that allows students to quiz each other on whiteboarding problems in a live environment
+- [(VSCode) Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - An extension that allows students to quiz each other on whiteboarding problems in a live environment
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
 - [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
 
@@ -224,11 +225,12 @@
 
 - [Media Genesis Popular Screen Resolutions](https://mediag.com/blog/popular-screen-resolutions-designing-for-all/) - A resource to view devices with their associated screen size, resolution, and viewport size
 - [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
+- [(Chrome) VisBug](https://visbug.page.link/extension) - Open source web design debug tools to edit or style any page like it's an artboard
 
 ## Studying and Productivity
 
 - [CodePen.io](https://codepen.io/) - A phenomenal site that allows you to quickly practice coding HTML, CSS, and Javascript files online
-- [CodeSandbox.io](https://codesandbox.io/) - Allows you to create awesome, complex projects using templates for frameworks like React/Angular/Vue and for servers like Gatsby/Next.js/Node
+- [CodeSandbox.io](https://codesandbox.io/) - Allows you to create awesome, complex projects using templates for frameworks like React/Angular/Vue and for servers like Gatsby / Next.js / Node
 - [Marinara Pomodoro Technique Timer](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef?hl=en) - In-browser Chrome Pomodoro extension to help you master productivity
 - [Notion](https://www.notion.so/) - A fully-featured, robust productivity desktop and mobile application that includes task management, calendar functions, and lists
 - [Squirt Speed Reader](https://squirt.io/install.html) - A speed reader web app that can deploy on any article or text-dominated website to help you speed read
@@ -240,6 +242,7 @@
 - [Jest](https://jestjs.io/) - Facebook's answer to JavaScript TTD that provides great integration with React
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549) - A free Udacity course that goes over the basics of JavaScript unit testing With Jasmine, it's better as a _refresher_ or _introduction_ than a deep dive
 - [React Testing Library](https://github.com/kentcdodds/react-testing-library) - a very light-weight solution for testing React components by Kent C. Dodds
+- [Sinon.js](https://sinonjs.org/) - Standalone test spies, stubs and mocks that works with any unit testing framework
 
 ## Website Hosting and Setup
 
@@ -255,6 +258,7 @@
 
 - [awwwards.com](https://www.awwwards.com/) - A curated list of the internet's finest sites, ranked by design, speed, and other factors
 - [Hall of Fame| Pages](https://www.pages.xyz/) - Another curated list of beautiful sites, focused on single page applications
+- [One Page Love](https://onepagelove.com/) - A showcase of beautiful One Page websites, templates and resources
 
 ## Whiteboarding Prep
 
