@@ -159,6 +159,7 @@
 - [Arrayzing](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42#user-content-create-an-array) - Gives you answer on how to manage arrays by indexing topics from what you want to do, not the method names
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [D3 - Data-Driven Documents](https://d3js.org/) - A fantastic javascript library for manipulating documents based on data
+- [Dwitter](https://www.dwitter.net/) - JavaScript demos in 140 characters or less
 - [ECMA-262](https://tc39.github.io/ecma262/) - The defacto living standards guide for JavaScript
 - [Eloquent Javascript by Marijn Haverbeke](https://github.com/marijnh/Eloquent-JavaScript) - A great free book the learning JavaScript
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/) - A deep dive into changes in ES2016 and 2017
