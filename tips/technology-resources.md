@@ -83,14 +83,17 @@
 
 - [freebiesbug.com](https://freebiesbug.com/) - A list of great, random free design resources
 - [humaaans](https://www.humaaans.com/) - A supurb mix-and-match library for illustrations of people
+- [Hero Patterns](https://www.heropatterns.com/) - A collection of repeatable SVG background patterns
 
 #### Colors
 
 - [0to255](http://www.0to255.com/facade) - Allows you to pick shades of colors based on the values you input
+- [Color Blind Filter](https://www.toptal.com/designers/colorfilter/) - Color blind filter for checking sites by Toptal
 - [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
 
 #### Fonts
 
+- [Font Library](https://fontlibrary.org/) - Fonts to use for your next open source project
 - [Google Fonts](https://fonts.google.com/) - A free resource for high-quality, copyright free fonts straight from Google
 
 #### Icons
@@ -133,7 +136,7 @@
 
 - [Google Chrome Labs Image Squoosh](https://github.com/GoogleChromeLabs/squoosh) - An image compression web app from Google
 - [MDN Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) - A great article by Mozilla Developer Network on responsive images
-- [WebP Image Compression](https://developers.google.com/speed/webp/) - information on next generation WebP image compression (Should still include fallback for incompatable browsers, [more info](https://developers.google.com/speed/webp/faq#how_can_i_detect_browser_support_for_webp)
+- [WebP Image Compression](https://developers.google.com/speed/webp/) - information on next generation WebP image compression (Should still include fallback for incompatable browsers, [more info](https://developers.google.com/speed/webp/faq#how_can_i_detect_browser_support_for_webp))
 
 ## Integrated Development Environments (IDEs) and Extensions
 
@@ -175,7 +178,7 @@
 - [Rithm School Intermediate JavaScript](https://www.rithmschool.com/courses/intermediate-javascript) - A course moving past the basics of JavaScript
 - [Visualize JavaScript Execution](http://pythontutor.com/visualize.html) - Visualize JavaScript execution step by step
 - [Wes Bos' 30 Days of JavaScript Course](https://javascript30.com/) - A free course providing 30 days' worth of JavaScript challenges
-- [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - Another great free book to learn JavaScript
+- [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - A series of JavaScript books that cover from 'Getting Started' to 'ES6 and Beyond'
 
 ## Job Search
 
@@ -251,6 +254,7 @@
 - [Google Domains](https://domains.google/#/) - An easy-to-use site from Google to purchase (wait for it) domain names
 - [Heroku](http://heroku.com/) - A great cloud platorm service site that allows you to build, host, run, and scale applications
 - [HTML5 Up](https://html5up.net/) - A great, free resource of site templates to help you get your portfolio page up off the ground
+- [LambdaTest](https://www.lambdatest.com/) - Cross browser testing with a decient free-tier
 - [Namecheap](https://www.namecheap.com/) - A great and (usually) inexpensive resource for purchasing domain names
 - [Netflify](https://www.netlify.com/) - A site for hosting websites that also links to (and updates directly from) GitHub
 - [Siteground](https://www.siteground.com/speed) - Another good paid resource to host websites
