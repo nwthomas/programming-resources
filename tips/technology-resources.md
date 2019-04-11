@@ -150,6 +150,7 @@
 - [(VSCode) Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) - Opens a browser inside VSCode that allows you to debug without leaving the application
 - [(VSCode) ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Allows for complex configuration of linting rules, [AirBnB JavaScript Style Guide](http://airbnb.io/javascript/) suggested: [npm link]
 - [(VSCode) Git Lense](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)- Helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.(https://www.npmjs.com/package/eslint-config-airbnb)
+- [(VS Code) GitHub Pull Requests](https://marketplace.visualstudio.com/itemdetails?itemName=GitHub.vscode-pull-request-github) - Provides an overview for any given repository of open pull requests from GitHub (both from you as well as others)
 - [(VSCode) Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Allows live reload of a website while you edit it
 - [(VSCode) Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard) - An extension that allows students to quiz each other on whiteboarding problems in a live environment
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
