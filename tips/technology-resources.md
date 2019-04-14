@@ -13,6 +13,7 @@
 - [Git](#git)
 - [HTML](#html)
 - [HTTP Calls and Requests](#http-calls-and-requests)
+- [Hypertext Application Languages (HALs)](#hypertext-application-languages-hals)
 - [Integrated Development Environments (IDEs) and Extensions](#integrated-development-environments-ides-and-extensions)
 - [Image Manipulation and Customization](#image-manipulation-and-customization)
 - [JavaScript](#javascript)
@@ -131,6 +132,12 @@
 ## HTTP Calls and Requests
 
 - [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+
+## [Hypertext Application Languages (HALs)](https://en.wikipedia.org/wiki/Hypertext_Application_Language)
+
+- [JSON Schema](http://json-schema.org/) - Home of the JSON working draft
+- [JSON-LD (Linking Data)](https://json-ld.org/) - A super-set of JSON that integrates connected data
+- [Open Graph protocol](http://ogp.me/) - Adds additional metadata which enables any web page to become a rich object in a social graph
 
 ## Image Manipulation and Customization
 
