@@ -117,6 +117,7 @@
 - [Tyler McGinnis' React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - A phenomenal free resource to train your React skills
 - [React Patterns](https://reactpatterns.com/) - A snapshot of React patterns, great for a quick refresher
 - [React In Patterns](https://github.com/krasimir/react-in-patterns) - An opinionated look at React patterns
+- [Web.dev React Training](https://web.dev/react) - Google's developer training covering advanced React topics
 
 ## Git
 
