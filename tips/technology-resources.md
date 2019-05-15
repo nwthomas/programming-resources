@@ -39,6 +39,7 @@
 - [dbdesigner.net](https://www.dbdesigner.net/) - A free quality data table mockup tool for building the layout of your database
 - [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
 - [Mockaroo](https://www.mockaroo.com/) - A free tool for data mocking and generation
+- [Public APIs](https://github.com/toddmotto/public-apis) - A master-list of publicly available APIs for a vast variety of topics and use cases
 - [Sheety](https://sheety.co/) - Turn any google sheet into an API instantly
 - [SQL Tutorial](http://www.sqltutorial.org/) - A great resource for honing your skills in SQL
 
@@ -114,6 +115,7 @@
 
 ## Front-end Frameworks
 
+- [Programmatically Navigate with React Router](https://tylermcginnis.com/react-router-programmatically-navigate/) - A great resouce for learning how to build elegant routing patterns in React with React Router
 - [Tyler McGinnis' React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - A phenomenal free resource to train your React skills
 - [React Patterns](https://reactpatterns.com/) - A snapshot of React patterns, great for a quick refresher
 - [React In Patterns](https://github.com/krasimir/react-in-patterns) - An opinionated look at React patterns
