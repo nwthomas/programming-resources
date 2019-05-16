@@ -195,7 +195,6 @@
 - [Wes Bos' 30 Days of JavaScript Course](https://javascript30.com/) - A free course providing 30 days' worth of JavaScript challenges
 - [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - A series of JavaScript books that cover from 'Getting Started' to 'ES6 and Beyond'
 
-
 ## Job Search
 
 - [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
