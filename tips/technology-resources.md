@@ -85,6 +85,8 @@
 
 #### Assorted
 
+- [(Chrome) Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview) -  verify that a web app or web site is 100% compliant with [Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aaa)
+- [(Chrome) VisBug](https://visbug.page.link/extension) - Open source web design debug tools to edit or style any page like it's an artboard
 - [freebiesbug.com](https://freebiesbug.com/) - A list of great, random free design resources
 - [humaaans](https://www.humaaans.com/) - A supurb mix-and-match library for illustrations of people
 - [Hero Patterns](https://www.heropatterns.com/) - A collection of repeatable SVG background patterns
@@ -107,6 +109,11 @@
 - [Icons SVG](https://iconsvg.xyz/) - A free resource for generating your own common svg icons for use in your projects
 - [Ionicons](https://ionicons.com/) - Contains many awesome free icons in svg format for you to use
 - [Nucleo Icons](https://nucleoapp.com/application) - A paid alternative for application icons
+
+#### Responsive Design
+
+- [Media Genesis Popular Screen Resolutions](https://mediag.com/blog/popular-screen-resolutions-designing-for-all/) - A resource to view devices with their associated screen size, resolution, and viewport size
+- [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 
 ## Documentation
 
@@ -237,12 +244,6 @@
 
 - [Regex 101](https://regex101.com/) - A resource that allows you to write regex and receive live readouts on what it does and the effects on a test string
 - [Regexr](https://regexr.com/) - Another resource for building regex expressions and understanding what they do
-
-## Responsive Design
-
-- [Media Genesis Popular Screen Resolutions](https://mediag.com/blog/popular-screen-resolutions-designing-for-all/) - A resource to view devices with their associated screen size, resolution, and viewport size
-- [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
-- [(Chrome) VisBug](https://visbug.page.link/extension) - Open source web design debug tools to edit or style any page like it's an artboard
 
 ## Studying and Productivity
 
