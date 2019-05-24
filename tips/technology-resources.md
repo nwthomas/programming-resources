@@ -189,6 +189,8 @@
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Free tutorials covering most relevant JavaScript topics
 - [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - A deep dive into functional programming in JavaScript
 - [Rithm School Intermediate JavaScript](https://www.rithmschool.com/courses/intermediate-javascript) - A course moving past the basics of JavaScript
+- [Runpkg](https://runpkg.com/) - Static package analysis and browsing for anything on the Unpkg CDN.
+- [Unpkg](https://unpkg.com/) - A global content delivery network for everything on npm
 - [Visualize JavaScript Execution](http://pythontutor.com/visualize.html) - Visualize JavaScript execution step by step
 - [Wes Bos' 30 Days of JavaScript Course](https://javascript30.com/) - A free course providing 30 days' worth of JavaScript challenges
 - [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - A series of JavaScript books that cover from 'Getting Started' to 'ES6 and Beyond'
