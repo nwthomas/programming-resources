@@ -53,11 +53,11 @@
 
 ### General Advice
 
-- "There's an infinite amount of information out there, and the tech industry evolves so quickly that you could easily be learning something that will soon be deprecated. I would recommend that you start with the training kit, and don't let anythin overwhelm you outside of that. There's a reason we work in teams; if everyone was an expert in everything we wouldn't need a _back-end_ or a _front-end_ person." - Ryan Boris
+- "There's an infinite amount of information out there, and the tech industry evolves so quickly that you could easily be learning something that will soon be deprecated. I would recommend that you start with the training kit, and don't let anything overwhelm you outside of that. There's a reason we work in teams; if everyone was an expert in everything we wouldn't need a _back-end_ or a _front-end_ person." - Ryan Boris
 
 - “You get out what you put in. If you put in the work and you put in the effort, you’re going to get hired and you’re absolutely going to love the position you are in.” - Blake Fletcher
 
-- "You're going to like parts of the currculium, and you're going to have a less positive reaction to others." - Andrew McLaughlin
+- "You're going to like parts of the curriculum, and you're going to have a less positive reaction to others." - Andrew McLaughlin
 
 - “Do literally everything the instructors and staff tell you from the algorithm exercises to the resume formatting.” - William Pelton
 
@@ -190,7 +190,7 @@
 
 ### Taking Notes
 
-- "Stop reading this. Skip your Starbucks coffee this morning, drive down the street, and buy a mini whiteboard instead. I got mine for \$1. You should be practicing handwriting the main coding principles (like when you learn to write more advanced fucntions, async/await, promises, writing basic react components), and rewriting your weekly code challenges by hand." -JJ Ashcraft
+- "Stop reading this. Skip your Starbucks coffee this morning, drive down the street, and buy a mini whiteboard instead. I got mine for \$1. You should be practicing handwriting the main coding principles (like when you learn to write more advanced functions, async/await, promises, writing basic react components), and rewriting your weekly code challenges by hand." -JJ Ashcraft
 
 - “Definitely take notes. Remember that there is almost never one way of doing things, so a good task to try is to always try to find other ways to do things that you learn." - Christopher Atoki
 
