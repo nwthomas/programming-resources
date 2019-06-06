@@ -37,6 +37,7 @@
 #### Server Achitecture and Design Links
 
 - [dbdesigner.net](https://www.dbdesigner.net/) - A free quality data table mockup tool for building the layout of your database
+- [dbdiagram.io](https://dbdiagram.io/home) - Another free resource for schema and data table modeling while building your database
 - [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
 - [Mockaroo](https://www.mockaroo.com/) - A free tool for data mocking and generation
 - [Public APIs](https://github.com/toddmotto/public-apis) - A master-list of publicly available APIs for a vast variety of topics and use cases
@@ -85,7 +86,7 @@
 
 #### Assorted
 
-- [(Chrome) Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview) -  verify that a web app or web site is 100% compliant with [Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aaa)
+- [(Chrome) Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview) - verify that a web app or web site is 100% compliant with [Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aaa)
 - [(Chrome) VisBug](https://visbug.page.link/extension) - Open source web design debug tools to edit or style any page like it's an artboard
 - [freebiesbug.com](https://freebiesbug.com/) - A list of great, random free design resources
 - [humaaans](https://www.humaaans.com/) - A supurb mix-and-match library for illustrations of people
