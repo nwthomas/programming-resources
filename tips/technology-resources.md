@@ -4,6 +4,7 @@
 
 - [Back-end Frameworks and Design](#server-architecture-and-design)
 - [Blogging](#blogging)
+- [Browser Extensions](#browser-extensions)
 - [CSS](#css)
 - [Cybersecurity](#cybersecurity)
 - [Data Science](#data-science)
@@ -55,6 +56,18 @@
 - [Dev.To](https://dev.to/) - An up-and-coming blogging community focused on software development and tech
 - ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/) - Great guide and awesome tips on getting started with a tech blog
 - [Medium](https://medium.com/) - A decent choice for blogging, but paywalls a lot of content after you read three articles per month even if you're a content creator
+
+## Browser Extensions
+
+#### Google Chrome
+
+- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - Automatically formats any JSON viewed inside the browser window
+- [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - Overlays any image on your browser screen, allowing for pixel-perfect design
+- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-US) - Places a border radius around each HTML element on the current web page
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) - Provides a robust toolset for developers to use while working in the React ecosystem
+- [Redux Developer Tools](https://github.com/zalmoxisus/redux-devtools-extension) - Opens up a box of excellent tools such as viewing your store, any actions made, and the ability to step back through time to any period of state in your application
+- [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - A window tools extension that allows you to click on any element and modify it right inside the browser
+- [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) - Reformats the size of the browser window to your entered specifications
 
 ## CSS
 
