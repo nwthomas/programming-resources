@@ -61,6 +61,7 @@
 
 #### Google Chrome
 
+- [Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview) - verify that a web app or web site is 100% compliant with [Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aaa)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) - Automatically formats any JSON viewed inside the browser window
 - [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) - Overlays any image on your browser screen, allowing for pixel-perfect design
 - [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh?hl=en-US) - Places a border radius around each HTML element on the current web page
@@ -99,8 +100,6 @@
 
 #### Assorted
 
-- [(Chrome) Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview) - verify that a web app or web site is 100% compliant with [Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aaa)
-- [(Chrome) VisBug](https://visbug.page.link/extension) - Open source web design debug tools to edit or style any page like it's an artboard
 - [freebiesbug.com](https://freebiesbug.com/) - A list of great, random free design resources
 - [humaaans](https://www.humaaans.com/) - A supurb mix-and-match library for illustrations of people
 - [Hero Patterns](https://www.heropatterns.com/) - A collection of repeatable SVG background patterns
