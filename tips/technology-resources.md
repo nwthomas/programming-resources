@@ -8,6 +8,7 @@
 - [CSS](#css)
 - [Cybersecurity](#cybersecurity)
 - [Data Science](#data-science)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Design](#design)
 - [Documentation](#documentation)
 - [Front-end Frameworks](#front-end-frameworks)
@@ -95,6 +96,14 @@
 - [edX/IBM Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science-ibm) - A free course from IBM covering the basics of data science in Python
 - [edX/IBM Analyzing Data with Python](https://www.edx.org/course/data-analysis-with-python) - A free course from IBM on analyzing data using Python
 - [edX/IBM Visualizing Data with Python](https://www.edx.org/course/data-visualization-with-python) - Another free IBM course that covers data visualization
+
+## Data Structures and Algorithms
+
+#### Data Structures
+
+#### Algorithms
+
+- [VisuAlgo](https://visualgo.net/en) - A free resource to help you visualize data structures and algorithms through animation
 
 ## Design
 
