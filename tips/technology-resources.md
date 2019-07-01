@@ -43,6 +43,7 @@
 - [Knex](https://knexjs.org/) - Knex links Express with JavaScript to your SQL database, and the official documentation lists lost of great code snippets for you to use
 - [Mockaroo](https://www.mockaroo.com/) - A free tool for data mocking and generation
 - [Public APIs](https://github.com/toddmotto/public-apis) - A master-list of publicly available APIs for a vast variety of topics and use cases
+- [PostgreSQL Tutorial](http://www.postgresqltutorial.com/) - Helps you understand both PostgreSQL as well as SQL quickly through practical examples
 - [Sheety](https://sheety.co/) - Turn any google sheet into an API instantly
 - [SQL Tutorial](http://www.sqltutorial.org/) - A great resource for honing your skills in SQL
 
