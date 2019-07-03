@@ -76,6 +76,7 @@
 
 - [30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - A starter guide of great CSS specificity selectors
 - [Animista](https://css-tricks.com/) - Awesome CSS animations
+- [Clippy CSS Path Maker](cssmatic.com/box-shadow) - Make complex shapes quickly with a gerator for the `clip-path` property in CSS
 - [CSS Doodle](https://css-doodle.com/) - Amazing web component that allows you to build out custom css-animated content ([tutorials are here](https://alligator.io/css/patterns-css-doodle/))
 - [CSS-Tricks](https://css-tricks.com/) - Database of information and details about CSS code
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
