@@ -236,6 +236,7 @@
 - [Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - An exhaustive behavioral interviewing question resource
 - [Creddle](http://creddle.io/) - A free website to help you create a great resume
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for front-end developer interviews
+- [Tech Screen Interview Questions](https://github.com/justsml/guides/tree/master/interviews/passing-the-tech-screen) - A phenomenal primer from Lambda's own Dan Levy (Web Program Manager) to get you started prepping for your web interviews
 - ["Your Resume is the Reason You're Not Getting Interviews" by Dominic White](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great Medium article on the importance of making your resume standing out
 
 ## Machine Learning
