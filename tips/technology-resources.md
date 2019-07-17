@@ -139,6 +139,10 @@
 - [Media Genesis Popular Screen Resolutions](https://mediag.com/blog/popular-screen-resolutions-designing-for-all/) - A resource to view devices with their associated screen size, resolution, and viewport size
 - [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
 
+#### Templates
+
+- [Creative Tim Template Interfaces](https://www.creative-tim.com/templates/react) - A free and paid library of out-of-this-world user interface templates (using modified Material UI)
+
 ## Documentation
 
 - [ForTheBadge.com](https://forthebadge.com/) - A site that generates some fun and colorful readme tags for your projects
