@@ -282,6 +282,7 @@
 ## Solidity
 
 - [Crypto Zombies](https://cryptozombies.io/en/lesson/1/chapter/3) - A free game to teach you the basics (and some intermediate) parts of the Solidity programming language
+- [Remix](https://remix.ethereum.org/) - A free online sandbox for Solidity development on the Ethereum Virtual Machine
 
 ## Studying and Productivity
 
