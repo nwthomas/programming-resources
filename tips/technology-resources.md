@@ -27,6 +27,7 @@
 - [Python](#python)
 - [Regex](#regex)
 - [Responsive Design](#responsive-design)
+- [Solidity](#solidity)
 - [Studying and Productivity](#studying-and-productivity)
 - [Test Driven Development](#test-driven-development)
 - [Website Hosting and Setup](#website-hosting-and-setup)
@@ -277,6 +278,10 @@
 
 - [Regex 101](https://regex101.com/) - A resource that allows you to write regex and receive live readouts on what it does and the effects on a test string
 - [Regexr](https://regexr.com/) - Another resource for building regex expressions and understanding what they do
+
+## Solidity
+
+- [Crypto Zombies](https://cryptozombies.io/en/lesson/1/chapter/3) - A free game to teach you the basics (and some intermediate) parts of the Solidity programming language
 
 ## Studying and Productivity
 
