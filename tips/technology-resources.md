@@ -143,6 +143,7 @@
 
 #### Templates
 
+- [Adele](https://adele.uxpin.com/) - A repository of publicly available design systems and pattern libraries
 - [Creative Tim Template Interfaces](https://www.creative-tim.com/templates/react) - A free and paid library of out-of-this-world user interface templates (using modified Material UI)
 
 ## Documentation
