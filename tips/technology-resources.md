@@ -144,7 +144,9 @@
 #### Templates
 
 - [Adele](https://adele.uxpin.com/) - A repository of publicly available design systems and pattern libraries
+- [Dribbble](https://dribbble.com/) -
 - [Creative Tim Template Interfaces](https://www.creative-tim.com/templates/react) - A free and paid library of out-of-this-world user interface templates (using modified Material UI)
+- [UpLabs](https://www.uplabs.com/) - A free and paid resource to download and get stats about design files
 
 ## Documentation
 
