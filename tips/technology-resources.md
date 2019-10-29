@@ -354,6 +354,7 @@
 - [GoalKicker Free Programming Books](https://goalkicker.com/) - A website with a ton of awesome free books composed of notes on various programming topics and technologies
 - [InternetingIsHard.com](https://internetingishard.com/html-and-css/) - A friendly web development tutorial for complete beginners
 - [node.green](https://node.green/) - Compatability table for Node
+- [npkill](https://npkill.js.org/) - find and remove node_modules folders
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
 - [Postman Learning Resources](https://learning.getpostman.com/) - A great training center to understand how to use postman, essential for back-end work
 - [Wes Bos' Mastering Markdown Course](https://masteringmarkdown.com/) - A free course covering markdown (a useful technology used for things like writing this page you're reading) by Wes Bos
