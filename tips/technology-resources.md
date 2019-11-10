@@ -81,6 +81,7 @@
 - [Clippy CSS Path Maker](cssmatic.com/box-shadow) - Make complex shapes quickly with a gerator for the `clip-path` property in CSS
 - [CSS Doodle](https://css-doodle.com/) - Amazing web component that allows you to build out custom css-animated content ([tutorials are here](https://alligator.io/css/patterns-css-doodle/))
 - [CSS-Tricks](https://css-tricks.com/) - Database of information and details about CSS code
+- [CSS Triggers](https://csstriggers.com/) - List of CSS properties and how they interact with [The Pixel Pipeline](https://developers.google.com/web/fundamentals/performance/rendering#the_pixel_pipeline)
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
 - [CubicBezier.com](http://cubic-bezier.com/#.17,.67,.83,.67) - A free resource for visually developing cubic bezier curves for CSS animations
 - [Fancy Border Radius](https://github.com/9elements/fancy-border-radius) - Building simple custom shapes with CSS' `border-radius` property
@@ -145,7 +146,7 @@
 #### Templates
 
 - [Adele](https://adele.uxpin.com/) - A repository of publicly available design systems and pattern libraries
-- [Dribbble](https://dribbble.com/) -
+- [Dribbble](https://dribbble.com/) - A site to find and showcase creative work
 - [Creative Tim Template Interfaces](https://www.creative-tim.com/templates/react) - A free and paid library of out-of-this-world user interface templates (using modified Material UI)
 - [UpLabs](https://www.uplabs.com/) - A free and paid resource to download and get stats about design files
 
