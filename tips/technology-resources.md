@@ -234,6 +234,7 @@
 - [JavaScript Spessore](https://github.com/raganwald/javascript-spessore) - A follow up for [JavaScript Allongé](https://leanpub.com/javascriptallongesix), it dives deeper into similar concepts, not strictly about functional programming
 - [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A JavaScript visualizer that focuses on execution context
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Free tutorials covering most relevant JavaScript topics
+- [Package Phobia](https://packagephobia.now.sh/) - Check the package size of any package on NPM
 - [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - A deep dive into functional programming in JavaScript
 - [Rithm School Intermediate JavaScript](https://www.rithmschool.com/courses/intermediate-javascript) - A course moving past the basics of JavaScript
 - [Runpkg](https://runpkg.com/) - Static package analysis and browsing for anything on the Unpkg CDN.
