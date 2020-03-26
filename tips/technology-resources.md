@@ -80,6 +80,7 @@
 - [Animista](https://css-tricks.com/) - Awesome CSS animations
 - [Clippy CSS Path Maker](cssmatic.com/box-shadow) - Make complex shapes quickly with a gerator for the `clip-path` property in CSS
 - [CSS Doodle](https://css-doodle.com/) - Amazing web component that allows you to build out custom css-animated content ([tutorials are here](https://alligator.io/css/patterns-css-doodle/))
+- [CSS Stats](https://cssstats.com/) - Provides analytics and visualizations for your stylesheets.
 - [CSS-Tricks](https://css-tricks.com/) - Database of information and details about CSS code
 - [CSS Triggers](https://csstriggers.com/) - List of CSS properties and how they interact with [The Pixel Pipeline](https://developers.google.com/web/fundamentals/performance/rendering#the_pixel_pipeline)
 - [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
