@@ -374,4 +374,5 @@
 - [npkill](https://npkill.js.org/) - find and remove node_modules folders
 - [The Odin Project (Full Stack Bootcamp)](https://www.theodinproject.com/) - A full-fledged free coding bootcamp
 - [Postman Learning Resources](https://learning.getpostman.com/) - A great training center to understand how to use postman, essential for back-end work
+- [Startup School Library](https://www.startupschool.org/library) - Resources and previously taught lessions from Y Combinator's [Startup School](https://www.startupschool.org/)
 - [Wes Bos' Mastering Markdown Course](https://masteringmarkdown.com/) - A free course covering markdown (a useful technology used for things like writing this page you're reading) by Wes Bos
