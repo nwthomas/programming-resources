@@ -51,8 +51,8 @@
 #### NPM Modules
 
 - [Faker.js](https://www.npmjs.com/package/faker) - Generate massive amounts of fake data in the browser and node.js
-- [Passport.js](http://www.passportjs.org/packages/) - Custom social media authentication and authorization middleware
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Wrapper around Chrome DevTools for easy serverside debugging
+- [Passport.js](http://www.passportjs.org/packages/) - Custom social media authentication and authorization middleware
 
 ## Blogging
 
