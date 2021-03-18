@@ -254,6 +254,7 @@
 - [Arrayzing](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42#user-content-create-an-array) - Gives you answer on how to manage arrays by indexing topics from what you want to do, not the method names
 - [Dwitter](https://www.dwitter.net/) - JavaScript demos in 140 characters or less
 - [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A JavaScript visualizer that focuses on execution context
+- [Loupe](http://latentflip.com/loupe/) - JavaScript's call stack/event loop/callback queue interaction focusing on async values
 - [Package Phobia](https://packagephobia.now.sh/) - Check the package size of any package on NPM
 - [Runpkg](https://runpkg.com/) - Static package analysis and browsing for anything on the Unpkg CDN.
 - [Unpkg](https://unpkg.com/) - A global content delivery network for everything on npm
