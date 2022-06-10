@@ -1,24 +1,24 @@
-![Programming Tips README Hero Image](./images/hero-image.png)
+![Programming Resources Hero Image](./images/hero-image.jpg)
 
-# Programming Tips
+# Programming Resources
 
 ## Introduction
 
-While sending out LinkedIn invites from the username spreadsheet on the Lambda #linkedin channel, I decided to start asking alumni (and, admittedly, people in older cohorts that are closer to graduating) what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes. I think these actions speak to the strength of Lambda School as well as the quality of the individuals that graduate from it.
+This repository originally started off as a collection of resources and advice gathered from myself and others during my time at Lambda School (now called [Bloomtech](https://www.bloomtech.com/)). While sending out LinkedIn invites to people I looked up to, I decided to start asking people what tips they had for a new student. What I found was an amazingly gifted group of individuals that opened their minds up to help me learn from their successes and mistakes.
 
-It is because of this that I decided to compile everything into a single place and pass it on to my classmates and future cohorts so that you can benefit from it as well. Every single person quoted in this document has given me their express permission to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope their advice helps you in your journey and enables you to reach the goals you made when you entered Lambda School.
+I decided to compile all of this advice along with great tech resources (for job prep, interviews, and more) into a single place and pass it on to future learners and builders so that you can benefit from it as well. Every single person quoted in this document has given me their express permission to do so. Every single one of them remembers what it was like to be in your shoes, and they want to give back to the community that they’ve come from. I hope their advice helps you in your journey and enables you to reach your goals.
 
 ## Table of Contents
 
-1. [Alumni Tips](./tips/alumni-tips.md)
-2. [Technology Resource List](./tips/technology-resources.md)
+1. [Advice](./advice/advice.md)
+2. [Technology Resources](./tips/technology-resources.md)
 
 ## Getting Involved
 
-If you are an alumnus or a member of an older cohort that would like to pass on tips for success to new classes and cohorts at Lambda, please either contact me on Slack or submit a pull request to update this repository. This document is meant to grow with time.
+Please read the
 
-1. [Contributors](CONTRIBUTORS.md)
-2. [How to Contribute](CONTRIBUTING.md)
+1. [How to Contribute](CONTRIBUTING.md)
+2. [Contributors](CONTRIBUTORS.md)
 3. [License](LICENSE)
 
 ## Project Management
@@ -27,10 +27,9 @@ If you are an alumnus or a member of an older cohort that would like to pass on 
 
 ## Author
 
-- **Nathan Thomas** - [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/), [GitHub](https://github.com/nwthomas), Lambda Slack username _nwthomas_
+- **Nathan Thomas** - [LinkedIn](https://www.linkedin.com/in/nathan-thomas-644b3339/), [GitHub](https://github.com/nwthomas), [Twitter](https://twitter.com/nwthomas_), [Personal Site](https://www.nathanthomas.dev/)
 
 ## Acknowledgments
 
-- Thanks to whomever started the LinkedIn spreadsheet inside of Lambda School. It is a great networking tool.
-- Thanks to Austen Allred and the entire staff at Lambda School for the work that you do in training the bright minds of tomorrow. We appreciate you and your vision.
-- Cover page photography by [Alexander Milo](https://unsplash.com/photos/5g5MLKq-QxM) on [Unsplash.com](https://unsplash.com/)
+- Thank you to everyone who has contributed to this over the years. Your advice helps others succeed.
+- Cover page photography by [Lane Smith](https://unsplash.com/@lanesmith) on [Unsplash.com](https://unsplash.com/)

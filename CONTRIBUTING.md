@@ -6,7 +6,7 @@ Please note we have a [Code of Conduct](CODE_OF_CONDUCT.md), please follow it in
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/nwthomas/Lambda-School-Alumni-Tips/issues) is
+The [issue tracker](https://github.com/nwthomas/programming-resources/issues) is
 the preferred channel for spelling mistakes, errors or any general smaller feedback. Please respect the following restriction:
 
 - Please **do not** derail or troll issues. Keep the discussion on topic and respect the opinions of others.
@@ -21,11 +21,13 @@ Adhering to the following process is the best way to get your work included in t
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone git@github.com/<your-username>/Lambda-School-Alumni-Tips.git
+   git clone git@github.com/<your-username>/programming-resources.git
+
    # Navigate to the newly cloned directory
-   cd Lambda-School-Alumni-Tips
+   cd programming-resources
+
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream git@github.com:nwthomas/Lambda-School-Alumni-Tips.git
+   git remote add upstream git@github.com:nwthomas/programming-resources.git
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:
