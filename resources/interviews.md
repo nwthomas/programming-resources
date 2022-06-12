@@ -2,13 +2,30 @@
 
 ## Table of Contents
 
+- [Assorted](#assorted)
+- [Behavioral](#behavioral)
 - [Coding Challenges](#coding-challenges)
+- [Resume](#resume)
 - [System Design](#system-design)
+
+## Assorted
+
+- [AngelList](https://angel.co/) - A great resource for applying to jobs in the tech/startup world
+- [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript) - A curated list of interview questions covering every language/framework/platform you can think of
+- [Back-end Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A collection of comprehensive back-end interview questions
+- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for front-end developer interviews
+- [Tech Screen Interview Questions](https://github.com/justsml/guides/tree/master/interviews/passing-the-tech-screen) - A phenomenal primer from Lambda's own Dan Levy (Web Program Manager) to get you started prepping for your web interviews
+
+## Behavioral
+
+- [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript) - A curated list of interview questions covering every language/framework/platform you can think of
+- [Complete List of Behavioral Interviewing Questions](https://drive.google.com/file/d/1I_5i1TSB3RO7cnHAa4weXLTfjQT83WwU/view?usp=sharing) - An exhaustive behavioral interviewing question resource
 
 ## Coding Challenges
 
 #### **Free**
 
+- [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
 - [Advent of Code](https://adventofcode.com/) - A great free annual resource for coding challenges
 - [CodeSignal](https://codesignal.com/) - A great free resource to hone your problem solving skills
 - [CodeWars](https://www.codewars.com/) - CodeWars has a phenomenal interface and is a great warehouse of coding interivew challenges. It can feels motivating to some to track yourself versus others and how their doing with the _kyu_ rank you get.
@@ -23,6 +40,11 @@
 #### **Paid**
 
 - [Interview Cake](https://www.interviewcake.com/) - Interview Cake also has a paid tier that will allow you to get more frequent code challenges along with solutions.
+
+## Resume
+
+- [Creddle](http://creddle.io/) - A free website to help you create a great resume
+- ["Your Resume is the Reason You're Not Getting Interviews" by Dominic White](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great Medium article on the importance of making your resume standing out
 
 ## System Design
 

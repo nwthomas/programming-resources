@@ -32,12 +32,6 @@
 - [Sheety](https://sheety.co/) - Turn any google sheet into an API instantly
 - [SQL Tutorial](http://www.sqltutorial.org/) - A great resource for honing your skills in SQL
 
-#### NPM Modules
-
-- [Faker.js](https://www.npmjs.com/package/faker) - Generate massive amounts of fake data in the browser and node.js
-- [ndb](https://github.com/GoogleChromeLabs/ndb) - Wrapper around Chrome DevTools for easy serverside debugging
-- [Passport.js](http://www.passportjs.org/packages/) - Custom social media authentication and authorization middleware
-
 #### Google Chrome
 
 - [Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview) - verify that a web app or web site is 100% compliant with [Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aaa)
@@ -49,12 +43,6 @@
 - [Redux Developer Tools](https://github.com/zalmoxisus/redux-devtools-extension) - Opens up a box of excellent tools such as viewing your store, any actions made, and the ability to step back through time to any period of state in your application
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - A window tools extension that allows you to click on any element and modify it right inside the browser
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) - Reformats the size of the browser window to your entered specifications
-
-## Data Science
-
-- [edX/IBM Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science-ibm) - A free course from IBM covering the basics of data science in Python
-- [edX/IBM Analyzing Data with Python](https://www.edx.org/course/data-analysis-with-python) - A free course from IBM on analyzing data using Python
-- [edX/IBM Visualizing Data with Python](https://www.edx.org/course/data-visualization-with-python) - Another free IBM course that covers data visualization
 
 ## Documentation
 
@@ -111,18 +99,6 @@
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
 - [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
 
-## Job Search
-
-- [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
-- [AngelList](https://angel.co/) - A great resource for applying to jobs in the tech/startup world
-- [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript) - A curated list of interview questions covering every language/framework/platform you can think of
-- [Back-end Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A collection of comprehensive back-end interview questions
-- [Complete List of Behavioral Interviewing Questions](https://www.hsu.edu/Career/completelistofbehavioral.pdf) - An exhaustive behavioral interviewing question resource
-- [Creddle](http://creddle.io/) - A free website to help you create a great resume
-- [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for front-end developer interviews
-- [Tech Screen Interview Questions](https://github.com/justsml/guides/tree/master/interviews/passing-the-tech-screen) - A phenomenal primer from Lambda's own Dan Levy (Web Program Manager) to get you started prepping for your web interviews
-- ["Your Resume is the Reason You're Not Getting Interviews" by Dominic White](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1) - A great Medium article on the importance of making your resume standing out
-
 ## Machine Learning
 
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
@@ -155,17 +131,6 @@
 - [The Authoritative Guide to Blockchain Development](https://haseebq.com/the-authoritative-guide-to-blockchain-development/) - A great article with some precise resources to get started on development with blockchain
 - [Crypto Zombies](https://cryptozombies.io/en/lesson/1/chapter/3) - A free game to teach you the basics (and some intermediate) parts of the Solidity programming language
 - [Remix](https://remix.ethereum.org/) - A free online sandbox for Solidity development on the Ethereum Virtual Machine
-
-## Studying and Productivity
-
-- [CodePen.io](https://codepen.io/) - A phenomenal site that allows you to quickly practice coding HTML, CSS, and Javascript files online
-- [CodeSandbox.io](https://codesandbox.io/) - Allows you to create awesome, complex projects using templates for frameworks like React/Angular/Vue and for servers like Gatsby / Next.js / Node
-- [FocusMe](https://focusme.com/) - A great paid application for managing your focus and blocking websites that distract you
-- [Marinara Pomodoro Technique Timer](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef?hl=en) - In-browser Chrome Pomodoro extension to help you master productivity
-- [Notion](https://www.notion.so/) - A fully-featured, robust productivity desktop and mobile application that includes task management, calendar functions, and lists
-- [Polya's Problem Solving Techniques](https://math.berkeley.edu/~gmelvin/polya.pdf) - A summary from UC Berkeley about the utilization of the mathemetician Polya's problem solving techniques
-- [Squirt Speed Reader](https://squirt.io/install.html) - A speed reader web app that can deploy on any article or text-dominated website to help you speed read
-- [Trello](https://trello.com/) - A great task management system (using a methodology called "Kanban," which uses literal cards for different tasks that need to be done in order to improve efficiency) for organizing your projects and completion percentages
 
 ## Test Driven Development
 

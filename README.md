@@ -17,10 +17,14 @@ I decided to compile all of this advice along with great tech resources (for job
 1. [Advice](./advice/advice.md)
 2. [Blogging](./resources/blogging.md)
 3. [CSS](./resources/css.md)
-4. [Git](./resources/git.md)
-5. [HTML](./resources/html.md)
-6. [Interviews](./resources/interviews.md)
-7. [Python](./resources/python.md)
+4. [Data Science](./resources/data-science.md)
+5. [Git](./resources/git.md)
+6. [HTML](./resources/html.md)
+7. [Interviews](./resources/interviews.md)
+8. [JavaScript](./resources/javascript.md)
+9. [Personal Portfolio](./resources/personal-portfolio.md)
+10. [Python](./resources/python.md)
+11. [Studying](./resources/studying.md)
 
 **Legacy (Will be updated soon)**
 
