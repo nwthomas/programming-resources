@@ -18,6 +18,7 @@
 - [LeetCode](https://leetcode.com/) - LeetCode is famous (or infamous, depending on how you look at it) for their resources on prepping for coding challenge interviews. In particular, the [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) has gained fame for being a great list to use to prep for interviews.
 - [Neetcode Website](https://neetcode.io/) - While this site ultimately links out to LeetCode, it does curate a list that the author feels is a great alternative to the [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) questions for interview prep.
 - [Neetcode YouTube](https://www.youtube.com/c/NeetCode) - This channel has a very high bar for quality and has supurb breakdowns of many of the most difficult questions you might find on LeetCode's website.
+- [VisuAlgo](https://visualgo.net/en) - A free resource to help you visualize data structures and algorithms through animation
 
 #### **Paid**
 

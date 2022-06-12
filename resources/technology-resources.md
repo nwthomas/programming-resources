@@ -2,23 +2,16 @@
 
 ## Table of Contents
 
-- [Back-end Frameworks and Design](#server-architecture-and-design)
-- [Data Science](#data-science)
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Design](#design)
-- [Documentation](#documentation)
 - [Front-end Frameworks](#front-end-frameworks)
 - [HTTP Calls and Requests](#http-calls-and-requests)
 - [Hypertext Application Languages (HALs)](#hypertext-application-languages-hals)
 - [Integrated Development Environments (IDEs) and Extensions](#integrated-development-environments-ides-and-extensions)
 - [Image Manipulation and Customization](#image-manipulation-and-customization)
-- [JavaScript](#javascript)
 - [Job Search](#job-search)
 - [Machine Learning](#machine-learning)
 - [Mathematics](#math-and-logic-problems)
 - [PHP](#php)
 - [Practice Projects](#practice-projects)
-- [Python](#python)
 - [Regex](#regex)
 - [Responsive Design](#responsive-design)
 - [Solidity](#solidity)
@@ -26,10 +19,7 @@
 - [Test Driven Development](#test-driven-development)
 - [Website Hosting and Setup](#website-hosting-and-setup)
 - [Website Inspiration](#website-inspiration)
-- [Whiteboarding Prep](#logic-problems-and-whiteboarding-prep)
 - [Addendum: Other Miscellaneous Resources](#addendum-other-miscellaneous-resources)
-
-## Back-End Frameworks and Design
 
 #### Server Achitecture and Design Links
 
@@ -65,54 +55,6 @@
 - [edX/IBM Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science-ibm) - A free course from IBM covering the basics of data science in Python
 - [edX/IBM Analyzing Data with Python](https://www.edx.org/course/data-analysis-with-python) - A free course from IBM on analyzing data using Python
 - [edX/IBM Visualizing Data with Python](https://www.edx.org/course/data-visualization-with-python) - Another free IBM course that covers data visualization
-
-## Data Structures and Algorithms
-
-#### Data Structures
-
-#### Algorithms
-
-- [VisuAlgo](https://visualgo.net/en) - A free resource to help you visualize data structures and algorithms through animation
-
-## Design
-
-#### Assorted
-
-- [freebiesbug.com](https://freebiesbug.com/) - A list of great, random free design resources
-- [growth.design](https://growth.design/) - UX case studies in a comic book format
-- [humaaans](https://www.humaaans.com/) - A supurb mix-and-match library for illustrations of people
-- [Hero Patterns](https://www.heropatterns.com/) - A collection of repeatable SVG background patterns
-
-#### Colors
-
-- [0to255](http://www.0to255.com/facade) - Allows you to pick shades of colors based on the values you input
-- [Color Blind Filter](https://www.toptal.com/designers/colorfilter/) - Color blind filter for checking sites by Toptal
-- [Coolors.io](https://coolors.co/) - A great free website (with paid features) to both browse others' color palettes as well as create/save your own
-
-#### Fonts
-
-- [Font Library](https://fontlibrary.org/) - Fonts to use for your next open source project
-- [Google Fonts](https://fonts.google.com/) - A free resource for high-quality, copyright free fonts straight from Google
-
-#### Icons
-
-- [Font Awesome](https://fontawesome.com/) - A supurb free (and also paid, depending on the image) site filled with awesome icons
-- [Icons8.com](https://icons8.com/) - A great free & paid resource for application icons
-- [Icons SVG](https://iconsvg.xyz/) - A free resource for generating your own common svg icons for use in your projects
-- [Ionicons](https://ionicons.com/) - Contains many awesome free icons in svg format for you to use
-- [Nucleo Icons](https://nucleoapp.com/application) - A paid alternative for application icons
-
-#### Responsive Design
-
-- [Media Genesis Popular Screen Resolutions](https://mediag.com/blog/popular-screen-resolutions-designing-for-all/) - A resource to view devices with their associated screen size, resolution, and viewport size
-- [MyDevice.io](https://www.mydevice.io/) - A site that tells you your device's screen specifications including pixel-ratio, width, and height
-
-#### Templates
-
-- [Adele](https://adele.uxpin.com/) - A repository of publicly available design systems and pattern libraries
-- [Dribbble](https://dribbble.com/) - A site to find and showcase creative work
-- [Creative Tim Template Interfaces](https://www.creative-tim.com/templates/react) - A free and paid library of out-of-this-world user interface templates (using modified Material UI)
-- [UpLabs](https://www.uplabs.com/) - A free and paid resource to download and get stats about design files
 
 ## Documentation
 
@@ -169,43 +111,6 @@
 - [(VSCode) Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code on save
 - [(VSCode) Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live, in-document display readouts of `console.log()` while writing JavaScript
 
-## Javascript
-
-#### Books
-
-- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
-- [Deep JavaScript](https://exploringjs.com/deep-js/toc.html) - A deep dive into JavaScript and ECMAScript
-- [Eloquent Javascript by Marijn Haverbeke](https://github.com/marijnh/Eloquent-JavaScript) - A great free book the learning JavaScript
-- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017/) - A deep dive into changes in ES2016 and 2017
-- [JavaScript Allongé](https://leanpub.com/javascriptallongesix) - A book on functional programming for JavaScript
-- [JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - A thorough look at JavaScript Design Patterns
-- [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) - A list of design patterns for JavaScript
-- [JavaScript Spessore](https://github.com/raganwald/javascript-spessore) - A follow up for [JavaScript Allongé](https://leanpub.com/javascriptallongesix), it dives deeper into similar concepts, not strictly about functional programming
-- [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) - A deep dive into functional programming in JavaScript
-- [You Don't Know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - A series of JavaScript books that cover from 'Getting Started' to 'ES6 and Beyond'
-
-#### Documentation/Courses
-
-- [ECMA-262](https://tc39.github.io/ecma262/) - The defacto living standards guide for JavaScript
-- [The Modern JavaScript Tutorial](https://javascript.info/) - Free tutorials covering most relevant JavaScript topics
-- [Rithm School Intermediate JavaScript](https://www.rithmschool.com/courses/intermediate-javascript) - A course moving past the basics of JavaScript|
-- [Wes Bos' 30 Days of JavaScript Course](https://javascript30.com/) - A free course providing 30 days' worth of JavaScript challenges
-
-#### Libraries
-
-- [D3 - Data-Driven Documents](https://d3js.org/) - A fantastic javascript library for manipulating documents based on data
-- [Greensock Animations Library](https://greensock.com/) - A supurb animations library that is easy to implement in JavaScript and is highly efficient
-
-#### Resources
-
-- [Arrayzing](https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42#user-content-create-an-array) - Gives you answer on how to manage arrays by indexing topics from what you want to do, not the method names
-- [Dwitter](https://www.dwitter.net/) - JavaScript demos in 140 characters or less
-- [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - A JavaScript visualizer that focuses on execution context
-- [Package Phobia](https://packagephobia.now.sh/) - Check the package size of any package on NPM
-- [Runpkg](https://runpkg.com/) - Static package analysis and browsing for anything on the Unpkg CDN.
-- [Unpkg](https://unpkg.com/) - A global content delivery network for everything on npm
-- [Visualize JavaScript Execution](http://pythontutor.com/visualize.html) - Visualize JavaScript execution step by step
-
 ## Job Search
 
 - [123 JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) - A primer for JavaScript interview Questions
@@ -239,16 +144,6 @@
 
 - [Egghead.io](https://egghead.io/browse/frameworks) - A great paid resource for doing assorted projects to keep your skills sharp
 - [Front End Mentor](https://www.frontendmentor.io/challenges) - A free resource that gives you design files for practice front-end projects
-
-## Python
-
-- [Codecademy: Learn Python 2](https://www.codecademy.com/learn/learn-python) - A free resource to get your feet wet with programming in Python
-- [edX/Microsoft Introduction to Python: Absolute Beginner](https://www.edx.org/course/introduction-to-python-absolute-beginner-2) - A free introductory course from Microsoft on Python
-- [edX/Microsoft Introduction to Python: Fundamentals](https://www.edx.org/course/introduction-to-python-fundamentals-2) - A free course that builds on Microsoft's absolute beginner Python course listed above
-- [MIT Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - MIT's free introductory course on Python
-- [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) - A paid (but _excellent_) course on Udemy from Colt Steele covering all of the modern concepts needed to program effectively in Python 3
-- [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6) - a free Python for beginners course provided by Microsoft
-- [Python Tutor](http://pythontutor.com/) - A free Python visualization tool that allows you to walk through steps of your code and algorithms
 
 ## Regex
 
@@ -296,15 +191,6 @@
 - [awwwards.com](https://www.awwwards.com/) - A curated list of the internet's finest sites, ranked by design, speed, and other factors
 - [Hall of Fame| Pages](https://www.pages.xyz/) - Another curated list of beautiful sites, focused on single page applications
 - [One Page Love](https://onepagelove.com/) - A showcase of beautiful One Page websites, templates and resources
-
-## Whiteboarding Prep
-
-- [Advent of Code](https://adventofcode.com/) - A great free annual resource for coding challenges
-- [CodeSignal](https://codesignal.com/) - A great free resource to hone your problem solving skills
-- [CodeWars](https://www.codewars.com/) - Complete katas (coding challenges) to rank up on the leaderboard and hone your skills on this free resource
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) - A free resource that has coding interview questions from companies including Amazon, Microsoft, and Google
-- [HackerRank](https://www.hackerrank.com/) - A free resource for code interview prep used by companies like AirBnB, Cisco, Dropbox, and Twitter
-- [LeetCode](https://leetcode.com/) - A crazy awesome free resource containing great, real-world whiteboarding prep coding challenges
 
 ## Addendum: Other Miscellaneous Resources
 

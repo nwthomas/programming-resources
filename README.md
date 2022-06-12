@@ -20,6 +20,7 @@ I decided to compile all of this advice along with great tech resources (for job
 4. [Git](./resources/git.md)
 5. [HTML](./resources/html.md)
 6. [Interviews](./resources/interviews.md)
+7. [Python](./resources/python.md)
 
 **Legacy (Will be updated soon)**
 
