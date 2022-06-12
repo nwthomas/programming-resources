@@ -53,4 +53,4 @@ Please read the contributing guidelines before making any pull requests to this 
 ## Acknowledgments
 
 - Thank you to everyone who has contributed to this over the years. Your advice helps others succeed.
-- Cover page photography by [Lane Smith](https://unsplash.com/@lanesmith) on [Unsplash.com](https://unsplash.com/)
+- Cover page photography by [Lane Smith](https://unsplash.com/@lanesmith) on [Unsplash](https://unsplash.com/)
