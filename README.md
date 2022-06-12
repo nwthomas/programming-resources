@@ -25,7 +25,7 @@ Please read the
 
 ## Project Management
 
-- Check out the [Trello Board](https://trello.com/b/uxsSSTUE/alumni-tips-repository) for this project to see what tasks have been completed so far and what still needs to be done
+- Check out the [Trello Board](https://trello.com/b/uxsSSTUE/programming-resources-repository) for this project to see what tasks have been completed so far and what still needs to be done
 
 ## Author
 
