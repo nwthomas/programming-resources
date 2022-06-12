@@ -2,7 +2,15 @@
 
 ## Table of Contents
 
+- [API Platforms](#api-platforms)
 - [Hypertext Application Languages (HALs)](#hypertext-application-languages-halshttpsenwikipediaorgwikihypertextapplicationlanguage)
+
+## API Platforms
+
+- [Insomnia](https://insomnia.rest/) - A modern, open source API client for making requests to APIs while doing development
+- [Postman](https://www.postman.com/) - A tried-and-true API client for making requests to APIs while doing development
+- [Postman Learning Resources](https://learning.getpostman.com/) - A great training center to understand how to use postman, essential for back-end work
+- [Postwoman](https://postwoman.io/) - A PWA stand-in for [postman](https://www.postman.com/)
 
 ## [Hypertext Application Languages (HALs)](https://en.wikipedia.org/wiki/Hypertext_Application_Language)
 

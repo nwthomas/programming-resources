@@ -2,6 +2,7 @@
 
 - [30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - A starter guide of great CSS specificity selectors
 - [Animista](https://css-tricks.com/) - Awesome CSS animations
+- [Can I Use](https://caniuse.com/) - Support tables for HTML5, CSS3, etc.
 - [Clippy CSS Path Maker](cssmatic.com/box-shadow) - Make complex shapes quickly with a gerator for the `clip-path` property in CSS
 - [CSS Doodle](https://css-doodle.com/) - Amazing web component that allows you to build out custom css-animated content ([tutorials are here](https://alligator.io/css/patterns-css-doodle/))
 - [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) - Automatically generates breakpoints for your web pages using pure HTML and CSS

@@ -51,6 +51,7 @@
 - [Greensock Animations Library](https://greensock.com/) - A supurb animations library that is easy to implement in JavaScript and is highly efficient
 - [Package Phobia](https://packagephobia.now.sh/) - Check the package size of any package on NPM
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Wrapper around Chrome DevTools for easy server-side debugging
+- [npkill](https://npkill.js.org/) - Find and remove `node_modules` folders
 - [Runpkg](https://runpkg.com/) - Static package analysis and browsing for anything on the Unpkg CDN
 - [ThreeJS](https://threejs.org/) - A brilliant JavaScript 3D rendering library
 - [Unpkg](https://unpkg.com/) - A global content delivery network for everything on npm
