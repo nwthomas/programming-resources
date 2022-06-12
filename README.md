@@ -12,8 +12,14 @@ I decided to compile all of this advice along with great tech resources (for job
 
 ## Table of Contents
 
+**Updated**
+
 1. [Advice](./advice/advice.md)
-2. [Technology Resources](./resources/technology-resources.md)
+2. [Interviews](./resources/interviews.md)
+
+**Legacy (Will be updated soon)**
+
+1. [Technology Resources](./resources/technology-resources.md)
 
 ## Getting Involved
 
