@@ -3,14 +3,11 @@
 ## Table of Contents
 
 - [Back-end Frameworks and Design](#server-architecture-and-design)
-- [Cybersecurity](#cybersecurity)
 - [Data Science](#data-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Design](#design)
 - [Documentation](#documentation)
 - [Front-end Frameworks](#front-end-frameworks)
-- [Git](#git)
-- [HTML](#html)
 - [HTTP Calls and Requests](#http-calls-and-requests)
 - [Hypertext Application Languages (HALs)](#hypertext-application-languages-hals)
 - [Integrated Development Environments (IDEs) and Extensions](#integrated-development-environments-ides-and-extensions)
@@ -62,10 +59,6 @@
 - [Redux Developer Tools](https://github.com/zalmoxisus/redux-devtools-extension) - Opens up a box of excellent tools such as viewing your store, any actions made, and the ability to step back through time to any period of state in your application
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - A window tools extension that allows you to click on any element and modify it right inside the browser
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) - Reformats the size of the browser window to your entered specifications
-
-## Cybersecurity
-
-- [National Vulnerability Database](https://nvd.nist.gov/) - Government repository database for vulnerability management data using the Security Content Automation Protocol (SCAP)
 
 ## Data Science
 
@@ -133,19 +126,6 @@
 - [React Patterns](https://reactpatterns.com/) - A snapshot of React patterns, great for a quick refresher
 - [React In Patterns](https://github.com/krasimir/react-in-patterns) - An opinionated look at React patterns
 - [Web.dev React Training](https://web.dev/react) - Google's developer training covering advanced React topics
-
-## Git
-
-- [Atlassian Git Tutorial](https://www.atlassian.com/git) - A free tutorial to learn the basics of Git flow
-- [Oh shit, git!](https://ohshitgit.com/) - A selected list of useful Git commands
-- [How to Write a Good Commit Message](https://chris.beams.io/posts/git-commit/) - A great guide on writing clean and best practice commit messages in Git
-- [Try GitHub](http://try.github.io/) - GitHub's own list of resources to learn Git/Github.
-
-## HTML
-
-- [HTML Reference](https://htmlreference.io/) - A quick resource to research all HTML attributes
-- [W3C HTML Validation](https://validator.w3.org/) - Check your HTML code and validate it
-- [W3C's Nu HTML Validation - Beta](https://validator.w3.org/nu/) - The beta version of the same HTML checker you know and love
 
 ## HTTP Calls and Requests
 
