@@ -1,4 +1,6 @@
-![Programming Resources Hero Image](./images/hero-image.jpg)
+<div align="center">
+    <img alt="Programming Resources Hero Image" src="./images/hero-image.jpg">
+</div>
 
 # Programming Resources
 
