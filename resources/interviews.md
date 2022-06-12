@@ -19,8 +19,8 @@
 
 #### **Free**
 
-- [Donne Martin's System Design Primery](https://github.com/donnemartin/system-design-primer) - This resource has been put together by the community and is _incredibly_ comprehensive.
+- [Donne Martin's System Design Primer](https://github.com/donnemartin/system-design-primer) - This resource has been put together by the community and is _incredibly_ comprehensive.
 
 #### **Paid**
 
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) - This paid resource is worth every penny, especially if you can get it paid for by your current employers.
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) - This is worth every penny, especially if you can get it paid for by your current employers.
