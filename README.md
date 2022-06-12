@@ -13,7 +13,7 @@ I decided to compile all of this advice along with great tech resources (for job
 ## Table of Contents
 
 1. [Advice](./advice/advice.md)
-2. [Technology Resources](./tips/technology-resources.md)
+2. [Technology Resources](./resources/technology-resources.md)
 
 ## Getting Involved
 
