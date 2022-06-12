@@ -3,9 +3,6 @@
 ## Table of Contents
 
 - [Back-end Frameworks and Design](#server-architecture-and-design)
-- [Blogging](#blogging)
-- [Browser Extensions](#browser-extensions)
-- [CSS](#css)
 - [Cybersecurity](#cybersecurity)
 - [Data Science](#data-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -54,15 +51,6 @@
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Wrapper around Chrome DevTools for easy serverside debugging
 - [Passport.js](http://www.passportjs.org/packages/) - Custom social media authentication and authorization middleware
 
-## Blogging
-
-- [Carbon](https://carbon.now.sh) - Tweet, export, or embed coding snippets beautifully with Carbon
-- [Dev.To](https://dev.to/) - An up-and-coming blogging community focused on software development and tech
-- ["The Ultimate Guide to Starting a Tech Blog" Reddit Post](https://www.reddit.com/r/Blogging/comments/8u88cu/the_ultimate_guide_to_starting_a_tech_blog/) - Great guide and awesome tips on getting started with a tech blog
-- [Medium](https://medium.com/) - A decent choice for blogging, but paywalls a lot of content after you read three articles per month even if you're a content creator
-
-## Browser Extensions
-
 #### Google Chrome
 
 - [Accessibility Insights](https://accessibilityinsights.io/docs/en/web/overview) - verify that a web app or web site is 100% compliant with [Web Content Accessibility Guidelines (WCAG) 2.0 Level AA](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview&versions=2.0&levels=aaa)
@@ -74,27 +62,6 @@
 - [Redux Developer Tools](https://github.com/zalmoxisus/redux-devtools-extension) - Opens up a box of excellent tools such as viewing your store, any actions made, and the ability to step back through time to any period of state in your application
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - A window tools extension that allows you to click on any element and modify it right inside the browser
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) - Reformats the size of the browser window to your entered specifications
-
-## CSS
-
-- [30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - A starter guide of great CSS specificity selectors
-- [Animista](https://css-tricks.com/) - Awesome CSS animations
-- [Clippy CSS Path Maker](cssmatic.com/box-shadow) - Make complex shapes quickly with a gerator for the `clip-path` property in CSS
-- [CSS Doodle](https://css-doodle.com/) - Amazing web component that allows you to build out custom css-animated content ([tutorials are here](https://alligator.io/css/patterns-css-doodle/))
-- [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) - Automatically generates breakpoints for your web pages using pure HTML and CSS
-- [CSS Stats](https://cssstats.com/) - Provides analytics and visualizations for your stylesheets.
-- [CSS-Tricks](https://css-tricks.com/) - Database of information and details about CSS code
-- [CSS Triggers](https://csstriggers.com/) - List of CSS properties and how they interact with [The Pixel Pipeline](https://developers.google.com/web/fundamentals/performance/rendering#the_pixel_pipeline)
-- [CSS Zen Garden](http://www.csszengarden.com/) - A demonstration of what can be accomplished through CSS-based design
-- [CubicBezier.com](http://cubic-bezier.com/#.17,.67,.83,.67) - A free resource for visually developing cubic bezier curves for CSS animations
-- [Fancy Border Radius](https://github.com/9elements/fancy-border-radius) - Building simple custom shapes with CSS' `border-radius` property
-- [Flexbox - The Animated Tutorial](https://medium.com/@js_tut/flexbox-the-animated-tutorial-8075cbe4c1b2) - An excellent animated blog post about the different Flexbox commands
-- [Flexbox30](https://github.com/samanthaming/Flexbox30) - Thirty day flexbox tutorial by [Samantha Ming](https://twitter.com/samantha_ming)
-- [Grid to Flexbox](https://www.gridtoflex.com/) - Flexbox fallbacks for popular UI solutions that use CSS Grid
-- [Web Gradients](https://webgradients.com/) - Fresh, free gradients to use in CSS as your backgrounds
-- [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) - Check your CSS code and validate it
-- [Wes Bos' CSS Grid Course](https://cssgrid.io/) - A great free CSS Grid training class to supplement your learning
-- [Wes Bos' What the Flexbox? Course](https://flexbox.io/) - A free course covering the CSS flexbox module
 
 ## Cybersecurity
 

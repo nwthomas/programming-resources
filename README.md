@@ -15,7 +15,9 @@ I decided to compile all of this advice along with great tech resources (for job
 **Updated**
 
 1. [Advice](./advice/advice.md)
-2. [Interviews](./resources/interviews.md)
+2. [Blogging](./resources/blogging.md)
+3. [CSS](./resources/css.md)
+4. [Interviews](./resources/interviews.md)
 
 **Legacy (Will be updated soon)**
 
