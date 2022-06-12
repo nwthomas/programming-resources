@@ -1,6 +1,6 @@
-![Lambda Alumni Tips Cover Page](./images/alumni-tips-cover-page.jpg)
+![Programming Tips README Hero Image](./images/hero-image.png)
 
-# Lambda School Alumni Tips
+# Programming Tips
 
 ## Introduction
 
