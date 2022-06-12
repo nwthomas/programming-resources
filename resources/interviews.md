@@ -5,6 +5,7 @@
 - [Assorted](#assorted)
 - [Behavioral](#behavioral)
 - [Coding Challenges](#coding-challenges)
+- [Practice Projects](#practice-projects)
 - [Resume](#resume)
 - [System Design](#system-design)
 
@@ -40,6 +41,16 @@
 #### **Paid**
 
 - [Interview Cake](https://www.interviewcake.com/) - Interview Cake also has a paid tier that will allow you to get more frequent code challenges along with solutions.
+
+## Practice Projects
+
+#### **Free**
+
+- [Front End Mentor](https://www.frontendmentor.io/challenges) - A free resource that gives you design files for practice front-end projects
+
+#### **Paid**
+
+- [Egghead.io](https://egghead.io/browse/frameworks) - A great paid resource for doing assorted projects to keep your skills sharp
 
 ## Resume
 
