@@ -12,8 +12,6 @@ I decided to compile all of this advice along with great tech resources (for job
 
 ## Table of Contents
 
-**Updated**
-
 1. [Advice](./advice/advice.md)
 2. [Architecture](./resources/architecture.md)
 3. [Assorted](./resources/assorted.md)
@@ -35,10 +33,6 @@ I decided to compile all of this advice along with great tech resources (for job
 19. [Python](./resources/python.md)
 20. [Regex](./resources/regex.md)
 21. [Studying](./resources/studying.md)
-
-**Legacy (Will be updated soon)**
-
-1. [Technology Resources](./resources/technology-resources.md)
 
 ## Getting Involved
 
