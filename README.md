@@ -23,7 +23,7 @@ I decided to compile all of this advice along with great tech resources (for job
 
 ## Getting Involved
 
-Please read the
+Please read the contributing guidelines before making any pull requests to this repository:
 
 1. [How to Contribute](CONTRIBUTING.md)
 2. [Contributors](CONTRIBUTORS.md)
