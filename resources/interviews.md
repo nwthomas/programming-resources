@@ -68,6 +68,7 @@
 
 - [Donne Martin's System Design Primer](https://github.com/donnemartin/system-design-primer) - This resource has been put together by the community and is _incredibly_ comprehensive.
 - [Guarav Sen's YouTube Channel](https://www.youtube.com/c/GauravSensei) - A great channel covering many, many topics about system design (including mock interviews)
+- [Nathan Thomas' System Design Notes](https://github.com/nwthomas/system-design) - Nathan's personal collection of notes on system desig concepts
 
 #### **Paid**
 
