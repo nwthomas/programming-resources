@@ -11,13 +11,18 @@
 
 ## Assorted
 
+#### **Free**
+
 - [AngelList](https://angel.co/) - A great resource for applying to jobs in the tech/startup world
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript) - A curated list of interview questions covering every language/framework/platform you can think of
 - [Back-end Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions) - A collection of comprehensive back-end interview questions
 - [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A great repository to help you get ready for front-end developer interviews
+- [List of Learning Resources to get Job at FAANG](https://www.isakov.io/interviews/faang-materials/) - A list of free resources you can use as a jumping off point for interviews at top tech companies
 - [Tech Screen Interview Questions](https://github.com/justsml/guides/tree/master/interviews/passing-the-tech-screen) - A phenomenal primer from Lambda's own Dan Levy (Web Program Manager) to get you started prepping for your web interviews
 
 ## Behavioral
+
+#### **Free**
 
 - [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions#javascript) - A curated list of interview questions covering every language/framework/platform you can think of
 - [Complete List of Behavioral Interviewing Questions](https://drive.google.com/file/d/1I_5i1TSB3RO7cnHAa4weXLTfjQT83WwU/view?usp=sharing) - An exhaustive behavioral interviewing question resource
@@ -62,6 +67,7 @@
 #### **Free**
 
 - [Donne Martin's System Design Primer](https://github.com/donnemartin/system-design-primer) - This resource has been put together by the community and is _incredibly_ comprehensive.
+- [Guarav Sen's YouTube Channel](https://www.youtube.com/c/GauravSensei) - A great channel covering many, many topics about system design (including mock interviews)
 
 #### **Paid**
 
