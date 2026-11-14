@@ -72,4 +72,4 @@
 
 #### **Paid**
 
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview) - This is worth every penny, especially if you can get it paid for by your current employers.
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview) - This is worth every penny, especially if you can get it paid for by your current employers.
